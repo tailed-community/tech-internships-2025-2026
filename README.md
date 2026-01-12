@@ -418,6 +418,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Apera AI | Machine Learning Applied Scientist - Co-op | Vancouver, BC, Canada | ['Spring 2026'] | 2026-01-09 | [Apply Here](https://job-boards.greenhouse.io/aperaaiinc/jobs/5019068007) |
 | Pathos | ML Engineer | NYC | ['Spring 2026'] | 2026-01-09 | [Apply Here](https://ats.rippling.com/pathos/jobs/6d7381b9-82e3-4e07-9b15-398e0793207e) |
 | Woven | Software Engineering Intern - Embedded | Ann Arbor, MI | ['Spring 2026'] | 2026-01-10 | [Apply Here](https://jobs.lever.co/woven-by-toyota/77cac944-392e-4a8c-b427-532076f8521d/apply) |
+| Woven | Machine Learning Intern - Vehicle Perception | Palo Alto, CA | ['Spring 2026'] | 2026-01-11 | [Apply Here](https://jobs.lever.co/woven-by-toyota/b5e4fe1a-240d-433d-ac40-e2cc04588985/apply) |
 | Palantir | Software Engineer Intern | Palo Alto, CA | ['Summer 2026'] | 2025-07-01 | [Apply Here](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
 | Palantir | Software Engineer Intern | New York, NY | ['Summer 2026'] | 2025-07-01 | [Apply Here](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
 | Palantir | Software Engineer Intern | Seattle, WA | ['Summer 2026'] | 2025-07-01 | [Apply Here](https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140) |
@@ -1050,6 +1051,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Robinhood | Software Engineering Intern - Android | Menlo Park, CA | ['Summer 2026'] | 2025-09-23 | [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7239199) |
 | Robinhood | Software Developer Intern - Backend | Menlo Park, CA | ['Summer 2026'] | 2025-09-23 | [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7235228) |
 | DL Trading | Quantitative Developer Intern - Multiple Teams | Chicago, IL | ['Summer 2026'] | 2025-09-23 | [Apply Here](https://www.dltrading.io/careers?gh_jid=7452198003) |
+| Blackhawk Network Holdings | Product Management Intern | Coppell, TX | ['Summer 2026'] | 2025-09-22 | [Apply Here](https://careers-blackhawknetwork.icims.com/jobs/24802/job?mobile=true&needsRedirect=false) |
 | Boston Scientific | R&D Firmware Engineer Intern - Active Implantable Systems | Roseville, MN | ['Summer 2026'] | 2025-09-22 | [Apply Here](https://bostonscientific.eightfold.ai/careers/job/563602808707717) |
 | Boston Scientific | R&D Hardware Engineer Intern - Active Implantable Systems | Roseville, MN | ['Summer 2026'] | 2025-09-21 | [Apply Here](https://bostonscientific.eightfold.ai/careers/job/563602808702929) |
 | Perpay | Strategic Analytics Intern - Strategic Analytics | Philadelphia, PA | ['Summer 2026'] | 2025-09-05 | [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4076934007) |
@@ -2670,6 +2672,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Genentech | Research Intern - Braid | San Bruno, CA | ['Summer 2026'] | 2026-01-09 | [Apply Here](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/California/XMLNAME-2026-Summer-Research-Intern--LLM-and-Generative-AI---BRAID_202601-100223) |
 | Leidos | Technical Intern | Remote in USA | ['Summer 2026'] | 2026-01-09 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00173314) |
 | General Dynamics UK | Co-op Intern - Software Engineer | Calgary, AB, Canada | ['Summer 2026'] | 2026-01-10 | [Apply Here](https://jobs.smartrecruiters.com/GDMSI/744000102723597) |
+| Woven | Machine Learning Intern - Autolabeling | Palo Alto, CA | ['Summer 2026'] | 2026-01-11 | [Apply Here](https://jobs.lever.co/woven-by-toyota/24cceda1-b852-413c-8e60-039280a1c849/apply) |
 | ByteDance | Software Engineer Intern - Applied Machine Learning-Enterprise - BS/MS | San Jose, CA | ['Fall 2026'] | 2025-08-07 | [Apply Here](https://jobs.bytedance.com/en/position/7534883498658629906/detail) |
 | Plexus | Intern – Software Engineer | Raleigh, NC | ['Fall 2026'] | 2025-09-02 | [Apply Here](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2026-_R034058) |
 | Plexus | Intern – Hardware Engineer | Raleigh, NC | ['Fall 2026'] | 2025-09-02 | [Apply Here](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Hardware-Engineer--Fall-2026-_R034061) |
