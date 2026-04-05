@@ -31112,7 +31112,7 @@
         "company_name": "Genuine Parts Company",
         "id": "85af988d-2c72-41e0-9cc0-837d6252313a",
         "title": "Mobile Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -31307,7 +31307,7 @@
         "company_name": "Genuine Parts Company",
         "id": "852b6d08-c1da-444f-a6e5-af330805070f",
         "title": "Business Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -40194,7 +40194,7 @@
         "company_name": "NVIDIA",
         "id": "fc280798-cfd5-434a-aee5-77eba36b6bcb",
         "title": "NVIDIA Internships: PhD Hardware Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -40251,7 +40251,7 @@
         "company_name": "NVIDIA",
         "id": "a99e98fd-cdf7-40e7-93e9-6ef43d068c4c",
         "title": "NVIDIA Internships: Hardware ASIC Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -40272,7 +40272,7 @@
         "company_name": "NVIDIA",
         "id": "80d4362c-c9ea-4e6c-9f9b-109740bd3291",
         "title": "Hardware Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -58561,19 +58561,24 @@
         "category": "Software",
         "company_name": "Ramp",
         "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
-        "title": "Software Engineer Internship - Android",
+        "title": "Software Engineer Intern - Android",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755592625,
-        "date_posted": 1754606441,
+        "date_updated": 1773391073,
+        "date_posted": 1761872581,
         "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
         "locations": [
-            "San Francisco, CA",
-            "New York, NY"
+            "SF",
+            "NYC"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     },
     {
         "category": "Software",
@@ -58730,18 +58735,21 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "1176e63c-eb58-40bb-b17f-9d948c9da798",
-        "title": "Frontend Engineer Intern - Tiktok-Growth-Innovative Growth",
+        "title": "Software Engineer - Tiktok-Growth-Innovative Growth - BS/MS",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754590227,
-        "date_posted": 1754590227,
+        "date_updated": 1772446950,
+        "date_posted": 1772446950,
         "url": "https://lifeattiktok.com/search/7532748736225904903",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -58752,30 +58760,36 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754589308,
-        "date_posted": 1754589308,
+        "date_updated": 1761908501,
+        "date_posted": 1761908501,
         "url": "https://lifeattiktok.com/search/7533003732948617480",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
         "company_name": "TikTok",
         "id": "48091f8d-f8ec-4d31-aeeb-3b2aae9af3b1",
-        "title": "Software Engineer Intern - Data Ecosystem - BS/MS",
+        "title": "Software Engineer Intern - Data Ecosystem",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754589306,
-        "date_posted": 1754589306,
+        "date_updated": 1761914455,
+        "date_posted": 1761914455,
         "url": "https://lifeattiktok.com/search/7533387057667934482",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -58786,8 +58800,8 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754589305,
-        "date_posted": 1754589305,
+        "date_updated": 1761907639,
+        "date_posted": 1761907639,
         "url": "https://lifeattiktok.com/search/7532406261142538514",
         "locations": [
             "San Jose, CA"
@@ -58890,19 +58904,21 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "1d911c19-b885-4882-8d83-25a72a50e653",
-        "title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
+        "title": "Machine Learning Engineer Intern - 3D graphics",
         "active": true,
         "terms": [
-            "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1754587128,
-        "date_posted": 1754587128,
+        "date_updated": 1761914449,
+        "date_posted": 1761914449,
         "url": "https://lifeattiktok.com/search/7532735339883710728",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -58962,52 +58978,62 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
-        "title": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754587122,
-        "date_posted": 1754587122,
+        "date_updated": 1772447026,
+        "date_posted": 1772447026,
         "url": "https://lifeattiktok.com/search/7533095458232584466",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Software",
         "company_name": "TikTok",
         "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
-        "title": "Frontend Engineer Intern - Tiktok-Search-Client",
+        "title": "Software Engineer Intern - Tiktok-Search-Client - 2026 Summer (temporal) BS/MS",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754587120,
-        "date_posted": 1754587120,
+        "date_updated": 1772446955,
+        "date_posted": 1772446955,
         "url": "https://lifeattiktok.com/search/7533783305126365448",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
-        "title": "Data Engineer Intern - E-commerce",
+        "title": "Data Engineer - E-commerce",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754587105,
-        "date_posted": 1754587105,
+        "date_updated": 1764235608,
+        "date_posted": 1762544581,
         "url": "https://lifeattiktok.com/search/7534818364393654535",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -59100,18 +59126,21 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
-        "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
+        "title": "Software Engineer Intern - Data Arch - Shorttext Rec",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754583146,
-        "date_posted": 1754583146,
+        "date_updated": 1761911429,
+        "date_posted": 1761911429,
         "url": "https://lifeattiktok.com/search/7535250563514059016",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -59168,18 +59197,20 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "52df9eb2-8317-4575-8acb-3a5483ca3148",
-        "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS",
+        "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754580201,
-        "date_posted": 1754580201,
+        "date_updated": 1761902294,
+        "date_posted": 1761902294,
         "url": "https://lifeattiktok.com/search/7532464949135313159",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Software",
@@ -59314,13 +59345,16 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754560210,
-        "date_posted": 1754560210,
+        "date_updated": 1761907635,
+        "date_posted": 1761907635,
         "url": "https://lifeattiktok.com/search/7532460740410738952",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -59346,13 +59380,13 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "8d74e58c-4516-45d6-92ed-119cad8972ae",
-        "title": "Machine Learning Engineer Intern - Privacy and Data Protection Office - PhD",
+        "title": "Machine Learning Engineer Intern - Privacy and Data Protection Office - 2026 Start','PhD",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754554803,
-        "date_posted": 1754554803,
+        "date_updated": 1761913542,
+        "date_posted": 1761913542,
         "url": "https://lifeattiktok.com/search/7532999154101487890",
         "locations": [
             "San Jose, CA"
@@ -59437,18 +59471,21 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "034929f5-3b54-450e-bcd7-de81a7fb989b",
-        "title": "Data Engineer Intern - Data Platfrom Tiktok BP",
+        "title": "Data Engineer Intern - Data Platform TikTok BP - BS/MS",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554788,
-        "date_posted": 1754554788,
+        "date_updated": 1764234140,
+        "date_posted": 1760167256,
         "url": "https://lifeattiktok.com/search/7534803858175576327",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -59489,13 +59526,13 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
-        "title": "Software Engineer Intern - Tiktok Search Architecture team",
+        "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
         "active": true,
         "terms": [
-            "Summer 2026"
+            "Winter 2026"
         ],
-        "date_updated": 1754554784,
-        "date_posted": 1754554784,
+        "date_updated": 1761917356,
+        "date_posted": 1761917356,
         "url": "https://lifeattiktok.com/search/7534626306991016199",
         "locations": [
             "San Jose, CA"
@@ -59612,35 +59649,41 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "1179840a-8111-4070-ba58-0f0a0fe1fe17",
-        "title": "Data Engineer Intern - E-commerce",
+        "title": "Data Engineer - E-commerce - BS/MS",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554780,
-        "date_posted": 1754554780,
+        "date_updated": 1764158177,
+        "date_posted": 1762544580,
         "url": "https://lifeattiktok.com/search/7534817408415861000",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "cf6d4667-2bf8-45b8-a0be-37b953800bc3",
-        "title": "Machine Learning Engineer Intern - Tiktok Search Team",
+        "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554779,
-        "date_posted": 1754554779,
+        "date_updated": 1761907980,
+        "date_posted": 1761907980,
         "url": "https://lifeattiktok.com/search/7534852684386617618",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -59891,32 +59934,38 @@
         "title": "Software Engineer Intern - Platform efficiency",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Winter 2026"
         ],
-        "date_updated": 1754554650,
-        "date_posted": 1754554650,
+        "date_updated": 1761942570,
+        "date_posted": 1761906488,
         "url": "https://lifeattiktok.com/search/7530513185797359880",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
         "company_name": "TikTok",
         "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
-        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Data Product & General Service",
+        "title": "Frontend Engineer Intern - BS/MS",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554642,
-        "date_posted": 1754554642,
+        "date_updated": 1769683224,
+        "date_posted": 1769683224,
         "url": "https://lifeattiktok.com/search/7527615375778416914",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -59962,36 +60011,43 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "b072507a-6687-4108-a744-2482c73b34c0",
-        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response",
+        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response - 2026 Summer (preserved)",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554632,
-        "date_posted": 1754554632,
+        "date_updated": 1772032353,
+        "date_posted": 1772032353,
         "url": "https://lifeattiktok.com/search/7527613337334188306",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
         "company_name": "TikTok",
         "id": "5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
-        "title": "Software Engineer Intern - Global CRM",
+        "title": "Software Engineer Intern - Global CRM - 2026 Start",
         "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1754554629,
-        "date_posted": 1754554629,
+        "date_updated": 1761902307,
+        "date_posted": 1761902307,
         "url": "https://lifeattiktok.com/search/7532247736243865864",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Software",
@@ -60141,13 +60197,13 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "c78c63c0-0747-41bb-9083-f3d119a0fd77",
-        "title": "Machine Learning Engineer Intern - Tiktok-Content Ecology - PhD",
+        "title": "Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application - 2026 Start",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754554590,
-        "date_posted": 1754554590,
+        "date_updated": 1756741403,
+        "date_posted": 1756741403,
         "url": "https://lifeattiktok.com/search/7532390182411405586",
         "locations": [
             "San Jose, CA"
@@ -60305,13 +60361,13 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
-        "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM - PhD",
+        "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754554579,
-        "date_posted": 1754554579,
+        "date_updated": 1762928955,
+        "date_posted": 1758896809,
         "url": "https://lifeattiktok.com/search/7527582397938223367",
         "locations": [
             "San Jose, CA"
@@ -60341,18 +60397,22 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "0a064cfe-add2-47c5-8a65-9f1c2be0f198",
-        "title": "Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS",
+        "title": "Machine Learning Engineer Intern - Tiktok Search Local Services Team",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554577,
-        "date_posted": 1754554577,
+        "date_updated": 1761915237,
+        "date_posted": 1761915237,
         "url": "https://lifeattiktok.com/search/7534626464240994568",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Product",
@@ -60400,8 +60460,8 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554575,
-        "date_posted": 1754554575,
+        "date_updated": 1764160963,
+        "date_posted": 1761912916,
         "url": "https://lifeattiktok.com/search/7534793633532479751",
         "locations": [
             "San Jose, CA"
@@ -60417,8 +60477,8 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554575,
-        "date_posted": 1754554575,
+        "date_updated": 1761902264,
+        "date_posted": 1761902264,
         "url": "https://lifeattiktok.com/search/7527589557336869138",
         "locations": [
             "San Jose, CA"
@@ -60431,35 +60491,39 @@
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "a6e979b7-c84b-455a-9f3c-7fa10d5d908c",
-        "title": "Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS",
+        "title": "Machine Learning Engineer Intern - TikTok Search E-Commerce Team",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554574,
-        "date_posted": 1754554574,
+        "date_updated": 1761902285,
+        "date_posted": 1761902285,
         "url": "https://lifeattiktok.com/search/7534626087721240839",
         "locations": [
             "San Jose, CA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "70b45d75-a146-4733-a653-c4bce22c4e32",
-        "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS",
+        "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754754375,
-        "date_posted": 1754554574,
+        "date_updated": 1761909555,
+        "date_posted": 1761909555,
         "url": "https://lifeattiktok.com/search/7527077153591675154",
         "locations": [
             "Seattle, WA"
         ],
         "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     },
@@ -60501,18 +60565,21 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "4777948c-e970-420c-bec4-aaa6eaa917e6",
-        "title": "Backend Software Engineer Intern - Tiktok-PGC-Monetization - 2026 Summer - BS/MS",
+        "title": "Backend Software Engineer Intern - Tiktok-PGC-Creator Strategy - 2026 Summer",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554571,
-        "date_posted": 1754554571,
+        "date_updated": 1767137223,
+        "date_posted": 1767137223,
         "url": "https://lifeattiktok.com/search/7533096848266709266",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -60574,13 +60641,16 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754547807,
-        "date_posted": 1754547807,
+        "date_updated": 1764374244,
+        "date_posted": 1764374244,
         "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -301670,7 +301740,7 @@
         "company_name": "Expedia Group",
         "id": "3f4cc948-ea5d-47a7-97c8-9b7a9dad8d54",
         "title": "Machine Learning Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305310,7 +305380,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326100,7 +326170,7 @@
         "company_name": "BorgWarner",
         "id": "c2926a50-b1e7-4657-8142-4825e17f90ac",
         "title": "eHardware Engineer Intern - Electrical Engineering - Power Electronics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330285,7 +330355,7 @@
         "company_name": "Genuine Parts Company",
         "id": "a0817273-da03-4ada-a1a9-df724e119949",
         "title": "Marketing Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331573,7 +331643,7 @@
         "company_name": "Vistra",
         "id": "0ab7e804-5ce9-429c-a889-3fcb87f3f827",
         "title": "Summer Intern - Comanche Peak - Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344340,7 +344410,7 @@
         "company_name": "Michelin",
         "id": "58a86e10-4e48-456a-aebe-4235ab29b212",
         "title": "2026 Engineering Co-Op Louisville - KY",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -370539,7 +370609,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -371047,7 +371117,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -407192,7 +407262,7 @@
         "company_name": "TD Bank",
         "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411151,7 +411221,7 @@
         "company_name": "GE Healthcare",
         "id": "f329220d-18be-4497-9c99-cf9b3e0dc9d5",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -424982,7 +425052,7 @@
         "company_name": "NVIDIA",
         "id": "22275c53-e09d-4bc4-b0d4-78c91f90a509",
         "title": "DFT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427021,7 +427091,7 @@
         "company_name": "D2 Consulting",
         "id": "dba287e6-a2c4-472e-81f1-82f164d0ab78",
         "title": "Deployment/Hardware Engineer - Skillbridge Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -431231,7 +431301,7 @@
         "company_name": "PennState University",
         "id": "a3c3cb21-a6e5-4873-9acb-8eb782662fd7",
         "title": "Research Assistant - Chart Understanding Project",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -445548,7 +445618,7 @@
         "company_name": "KLA",
         "id": "81974415-b148-4b5f-a2b3-88490d3920e7",
         "title": "Marketing/Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -446808,7 +446878,7 @@
         "company_name": "Hilcorp",
         "id": "36149e37-c826-477e-918f-d5355d1cae31",
         "title": "1-2669 – Hilcorp Geology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447070,7 +447140,7 @@
         "company_name": "Cisco",
         "id": "3de06565-f7a3-414f-88fb-8883ab1c50a8",
         "title": "Software Engineer Security & Automation 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -450388,7 +450458,7 @@
         "company_name": "ASSA ABLOY",
         "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -456763,7 +456833,7 @@
         "company_name": "Kroll",
         "id": "c523107b-1ee9-4540-ac9c-97785ed14d51",
         "title": "Intern – Technology - AI & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -457056,7 +457126,7 @@
         "company_name": "Rockwell Automation",
         "id": "0f58c065-3746-44a7-913b-d9e5f20f1a4c",
         "title": "Co-op – Business Operation - Motion Control",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -462380,7 +462450,7 @@
         "company_name": "Blue Origin",
         "id": "233d66ad-4a80-427f-82c4-30f4c32a3571",
         "title": "Harnessing Technician Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -476438,7 +476508,7 @@
         "company_name": "KBR",
         "id": "296427e4-d1d3-4631-862b-3a48fa389415",
         "title": "Cloud Management Dashboard Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -476918,7 +476988,7 @@
         "company_name": "OPENLANE",
         "id": "2b37dc77-afd4-46b1-b53b-36dcfba22cae",
         "title": "Intern - Mobile Apps Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -486669,7 +486739,7 @@
         "company_name": "Entegris",
         "id": "d10fec12-93e6-463b-9a49-74700f434e6f",
         "title": "Metrology Particle Retention Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -491456,7 +491526,7 @@
         "company_name": "KBR",
         "id": "e77d3366-a3a4-496b-973c-85f34434ed70",
         "title": "National Security Solutions – Internship – Intel DE/Mbse Intern - Nss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -500612,7 +500682,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -502677,7 +502747,7 @@
         "company_name": "Hearst",
         "id": "1cee6851-93cf-4f5a-84bc-2f4eb7ea6f5c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -504189,7 +504259,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "4ddf12ca-1c86-46bc-9ff6-b4744ff4997f",
         "title": "Commercial Programs Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -510088,7 +510158,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "59bd949e-e3df-417e-befa-8a220778a64c",
         "title": "Parks Web Development Intern – Unpaid Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -511923,7 +511993,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "b600dad5-41be-4e3a-b112-014756cf39ab",
         "title": "Web Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -511961,7 +512031,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "48f0a75b-3d75-48cf-a815-99fc9273b7e9",
         "title": "Python Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -515377,7 +515447,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "ff3348db-c587-4f0d-87db-b994b9dffb8c",
         "title": "Contracted Student Interns – Data Analysis Playgrounds Intern - Unpaid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -516902,7 +516972,7 @@
         "company_name": "Alamar Biosciences",
         "id": "99db6323-8006-488b-9e17-fbe31b29b6e0",
         "title": "Internship - System Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -519239,7 +519309,7 @@
         "company_name": "Creation Technologies",
         "id": "5c4fe600-c2bd-4abf-9918-e7a18e46290f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -520009,7 +520079,7 @@
         "company_name": "Littelfuse",
         "id": "e59e2eb3-2a9c-4bea-9c42-e3f70aa5c08f",
         "title": "RISE Rotational Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -520226,7 +520296,7 @@
         "company_name": "Magna International",
         "id": "849d3e67-9439-4af1-80c9-bf7631c82f01",
         "title": "Student Engineering ADAS Algorithm",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -522037,7 +522107,7 @@
         "company_name": "Moderna",
         "id": "734faad6-a586-424e-9d6b-a298abc294a9",
         "title": "Co-Op - Maintenance Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -523144,7 +523214,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "fc41aafe-7973-4d51-988b-62e6a9eadfb3",
         "title": "Electromechanical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -527436,7 +527506,7 @@
         "company_name": "Universal Music Group Careers",
         "id": "b3f7be74-2470-40bd-899b-6ad4739d78fc",
         "title": "Universal Music Group Creative & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -527515,7 +527585,7 @@
         "company_name": "Magna International",
         "id": "9c653165-b105-4724-b3b1-bd0c219903aa",
         "title": "Student Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -533142,7 +533212,7 @@
         "company_name": "Assurant",
         "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -535776,7 +535846,7 @@
         "company_name": "Occidental Petroleum Corporation (Oxy)",
         "id": "482740e0-68a4-4908-a047-e4788e000945",
         "title": "Co-Op – Data - Well Servicing & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -536984,7 +537054,7 @@
         "company_name": "Leidos",
         "id": "9455d0d5-4ce7-4b79-8000-d09d06943854",
         "title": "Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -537135,7 +537205,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "380a6e16-1017-4383-b334-3fff037ab8f7",
         "title": "Software Development Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -538224,7 +538294,7 @@
         "company_name": "University of Rochester",
         "id": "b441f04a-1511-4f00-8da4-f24b26c17f05",
         "title": "Co-op Research Student 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -539947,7 +540017,7 @@
         "company_name": "Savage X Fenty",
         "id": "9f039d5d-8685-4fbf-8972-33d2f80806c2",
         "title": "Technical Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -540041,7 +540111,7 @@
         "company_name": "Jain Global",
         "id": "2f398c39-0b06-4816-9702-eec3c960535d",
         "title": "Credit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -540160,7 +540230,7 @@
         "company_name": "ABB",
         "id": "d4c97bb6-bdb6-4409-bb00-d998c5e7df2e",
         "title": "Product Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -540180,7 +540250,7 @@
         "company_name": "Mercer University",
         "id": "3e2b4643-2499-4dcf-9b55-63147971c70b",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -540465,7 +540535,7 @@
         "company_name": "Pennsylvania State University",
         "id": "3fd26c4a-edba-4a9c-bd38-a70b7316190c",
         "title": "Part Time – Student - Science - Engineering and Technology Research Assistantship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -543364,7 +543434,7 @@
         "company_name": "Synchrony Financial",
         "id": "8cc742d8-0af7-4a34-82c5-d143d7e3f070",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -544932,7 +545002,7 @@
         "company_name": "Dow Chemical Company",
         "id": "928badef-ccfc-42ec-9176-90fa5b267bbb",
         "title": "College Co-Op - Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -545030,7 +545100,7 @@
         "company_name": "Texas Rangers",
         "id": "bc74d052-ccfb-4c6d-891f-60e62f435c8c",
         "title": "Broadcast Operations & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -545161,7 +545231,7 @@
         "company_name": "University System of New Hampshire",
         "id": "43b4d63a-c69e-4cff-8313-93782db38cd8",
         "title": "Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -550245,7 +550315,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -550670,7 +550740,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -555344,7 +555414,7 @@
         "company_name": "GE Healthcare",
         "id": "75935d36-9e6c-4d4c-ae1c-2410ab6043ef",
         "title": "Field Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -556017,7 +556087,7 @@
         "company_name": "Uber",
         "id": "693182f9-8d13-47ee-b1d3-70ec44754a37",
         "title": "PhD Scientist Intern - Driver Pricing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -556500,7 +556570,7 @@
         "company_name": "Hitachi",
         "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
         "title": "Site Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -557255,7 +557325,7 @@
         "company_name": "BECU",
         "id": "1c239470-9369-4eed-b307-94459af4f9de",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -557943,7 +558013,7 @@
         "company_name": "Hitachi",
         "id": "70be837e-b0ee-4fbf-9648-fd8ccff54247",
         "title": "Site Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -558260,7 +558330,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "80a6bb0a-0472-4226-b5d2-745d5b0b8492",
         "title": "Postdoctoral Appointee - MSD Experimental Condensed Matter Physics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -559710,7 +559780,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -559744,7 +559814,7 @@
         "company_name": "Zayo",
         "id": "6ba93370-51ff-47ec-9b3b-d20bf83be859",
         "title": "Metro Dark Fiber Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -560708,7 +560778,7 @@
         "company_name": "Wounded Warrior Project",
         "id": "c805681f-733c-420b-b1ab-8252b0adfe27",
         "title": "Intern – Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -560979,7 +561049,7 @@
         "company_name": "PG&E",
         "id": "dd128eb0-69f8-42df-a534-832c43426d70",
         "title": "Non-destructive Examination Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -561531,7 +561601,7 @@
         "company_name": "Enbridge",
         "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
         "title": "Engineer in Training 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -565028,7 +565098,7 @@
         "company_name": "Moog ",
         "id": "28e33479-a493-4a07-859e-827f2b39cdda",
         "title": "Intern Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -565222,7 +565292,7 @@
         "company_name": "Entegris",
         "id": "65933dfd-b76a-42c6-a43d-0dfc63b3e791",
         "title": "Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -565882,7 +565952,7 @@
         "company_name": "Covestro",
         "id": "d30085fd-1463-4b89-ad20-e92f34d8e231",
         "title": "Intern in Lab Automation for R&D Processes",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -567037,7 +567107,7 @@
         "company_name": "International Rescue Committee (IRC)",
         "id": "de54808c-fa92-41ff-bc68-8e45613c0e88",
         "title": "New Roots Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -568552,7 +568622,7 @@
         "company_name": "Newmark Group",
         "id": "669e0f4e-7518-4f5c-b963-b480cccfa7fc",
         "title": "Intern – Rev",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -568835,7 +568905,7 @@
         "company_name": "Nutanix",
         "id": "8b29d600-51aa-47cf-b5ab-0d144dcc8665",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -568907,7 +568977,7 @@
         "company_name": "Newmark Group",
         "id": "9a53590b-3aea-45ad-9a7c-4ecfe62723b6",
         "title": "Intern – Rev",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -569152,7 +569222,7 @@
         "company_name": "Nutanix",
         "id": "c13093e5-74a8-4e96-9052-711f26c8a837",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -569348,7 +569418,7 @@
         "company_name": "Impiricus",
         "id": "facdfc4d-a213-40ea-9950-122c283d8c44",
         "title": "Intern - Software Engineer (Backend)",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -569854,7 +569924,7 @@
         "company_name": "Amentum",
         "id": "9a605cfb-7ffe-4f11-895e-8aff1a7ff9b7",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -570288,7 +570358,7 @@
         "company_name": "Alcon",
         "id": "75131389-b6bd-42fc-b1aa-197685944de1",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -570596,5 +570666,667 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "6eafb4a5-073a-4068-833b-4c7c80a6721b",
+        "title": "Graduate Specialist Program - Design Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775255941,
+        "date_posted": 1775254050,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000118609247",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Crusoe",
+        "id": "7a89ba2d-d26f-4bea-a13f-380d6933b7b5",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1775266741,
+        "date_posted": 1775264930,
+        "url": "https://jobs.ashbyhq.com/Crusoe/a2795433-0c9a-4035-bd32-d0272a936aae/application",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goosehead Insurance",
+        "id": "269e761c-536a-4662-96bc-25fed7fdfab9",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775266741,
+        "date_posted": 1775264883,
+        "url": "https://goosehead.wd503.myworkdayjobs.com/Careers/job/Westlake/Data-Science-Intern_JR103804",
+        "locations": [
+            "Lakewood, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Bloom Energy",
+        "id": "439ec2b3-ea5e-43c9-9de6-e07a7504b184",
+        "title": "Failure Analysis Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775266741,
+        "date_posted": 1775264871,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Failure-Analysis-Engineering-Intern_JR-21213",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Alamar Biosciences",
+        "id": "23026e24-5c0d-4dba-bc1b-04daeb90f98a",
+        "title": "Intern - Bioinformatics Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775266918,
+        "date_posted": 1772504283,
+        "url": "https://job-boards.greenhouse.io/alamarbiosciences/jobs/5817372004",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Securitas",
+        "id": "fb68609e-4629-46a5-bb48-28b682c697a7",
+        "title": "Intern AI & Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775284165,
+        "date_posted": 1775282690,
+        "url": "https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169188",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Vertex Pharmaceuticals",
+        "id": "26619ab2-a3c0-4877-8bb8-f17dcdf6e529",
+        "title": "Vertex Co-op - Instrumentation Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1775284381,
+        "date_posted": 1775282785,
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Securitas",
+        "id": "962af3e4-5872-4870-bab4-71fdbb3b61d1",
+        "title": "Intern Data & Insights Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775284234,
+        "date_posted": 1775282689,
+        "url": "https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169186",
+        "locations": [
+            "Westlake Village, CA",
+            "Charlotte, NC",
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
+        "title": "Therapist – PHP/Iop",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775296284,
+        "date_posted": 1775295357,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP---PRN_R6262",
+        "locations": [
+            "Brown Deer, WI"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "118e6b90-16a8-45d0-9591-bb56963d862d",
+        "title": "Manufacturing Execution Systems – Intern/Co-op - Manufacturing Execution Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775297046,
+        "date_posted": 1775295067,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-May_R00234315",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "2c554e43-09c8-4009-b2d5-8f7ab7483a4c",
+        "title": "Technical Communications Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775300140,
+        "date_posted": 1775298179,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Technical-Communications-Product-Marketing-Intern----MBA--Santa-Clara--CA-_R2612486",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "0b61fe7e-5cd3-4e1d-93df-eda5182e28ad",
+        "title": "Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775298421,
+        "date_posted": 1775297541,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/London/Engineering-Apprentice---London_R1011714",
+        "locations": [
+            "London, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "e8669deb-1438-44f0-8a10-7b9de7fb4987",
+        "title": "Intern System Support",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775296802,
+        "date_posted": 1775294005,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Intern-System-Support_R260010147",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "20db2bc7-8d7c-4d5c-94ff-27efcdac3c3c",
+        "title": "Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1775299321,
+        "date_posted": 1775298843,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Cheadle/Engineering-Apprentice---Cheadle_R1011715-1",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "9953f9cb-be32-4a67-b5fb-4c63e192fa0c",
+        "title": "Electronic Engineering MEng Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775300531,
+        "date_posted": 1775298369,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Electronic-Engineering-MEng-Placement_R0022696",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "1e3d0751-b36f-4b53-b139-470c513e9700",
+        "title": "Test Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775299321,
+        "date_posted": 1775297659,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "03b68629-1d9e-48db-a6bf-fc407f1ba2ec",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775299808,
+        "date_posted": 1775298525,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Researcher_REQ_0000066220-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "76e28dd9-7696-47d4-a2bc-f95190292e54",
+        "title": "Electro-Mechanical Instrument Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775295721,
+        "date_posted": 1775294143,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "832ddf0c-e94f-40c0-9e5f-6192ce15e6ed",
+        "title": "Surgery Design & Development Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775299673,
+        "date_posted": 1775298314,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Design---Dev-Co-op--Summer-2026_R-056996-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "6b334889-b208-4090-bd77-92be572d30d4",
+        "title": "Environmental Health and Safety Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775298020,
+        "date_posted": 1775294568,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Environmental-Health-and-Safety-Internship_2635201",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
+        "title": "Therapist – PHP/Iop",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775296286,
+        "date_posted": 1775295357,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Lincoln-Center-Clinic-West-Allis-WI/Therapist---PHP-IOP---PRN_R6264",
+        "locations": [
+            "Wauwatosa, WI",
+            "Wisconsin"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "376c80b1-b9f4-4e5d-978a-3f771d45dcf3",
+        "title": "Business Operation - Motion Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775297043,
+        "date_posted": 1775295631,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Business-Operation--Motion-Control-_R26-522-1",
+        "locations": [
+            "Cambridge, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c4e24730-a914-4a01-833d-7eb1d40c2174",
+        "title": "Industrial Placement Intern - Sustainment Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775312698,
+        "date_posted": 1775311674,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-PLY-PLYMOUTH-C--Clittaford-Rd-Southway--BLDG-C/Industrial-Placement---Sustainment-Engineering_01834899",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Resmed",
+        "id": "83190747-5351-452e-8749-354606aaa085",
+        "title": "Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775297923,
+        "date_posted": 1775295035,
+        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Atlanta-GA-United-States/Automation-Intern_JR_047985",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "905c17f5-b0a8-40ec-bcd1-c70ae19f5560",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775312461,
+        "date_posted": 1775311576,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R63617",
+        "locations": [
+            "Allen, TX"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "LivaNova",
+        "id": "e2d6d929-2607-404b-9236-5d8d27a6c02e",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1775296802,
+        "date_posted": 1775295352,
+        "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Product-Development-Intern_JR-14216",
+        "locations": [
+            "Houston, TX"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "fa0a37e6-9b57-4e97-969a-645c75207b01",
+        "title": "System Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775294821,
+        "date_posted": 1775294571,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Engineering-Intern_2532514",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "62b7336b-ede6-4401-9114-3446ab8691df",
+        "title": "NPI Process and Tooling Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775301301,
+        "date_posted": 1775299763,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/NPI-Process-and-Tooling-Engineer_3158575",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1775303474,
+        "date_posted": 1775299204,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Viavi Solutions",
+        "id": "87038396-7c1b-4246-9ad9-8b94a90b878c",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775302741,
+        "date_posted": 1775300473,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1",
+        "locations": [
+            "Germantown, MD",
+            "Chandler, AZ"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "e4a9cd5c-c3aa-48be-a157-12ddd0b2f0ef",
+        "title": "Instrumentation Lab Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775303571,
+        "date_posted": 1775297685,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Lowe's ",
+        "id": "3d78503d-c126-4019-84f7-1c588ed78516",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775302277,
+        "date_posted": 1775299338,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-AI-Engineer---Launchpad_JR-02449005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "da381839-45f1-492c-83ef-635ca1d1a9c9",
+        "title": "Site Deployment Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775303236,
+        "date_posted": 1775297538,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Montreal/Site-Deployment--Intern-4-Months-_R1012175",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "86ac54ba-e408-483b-9198-286ba5650195",
+        "title": "Industrial Intern - Rapid Prototyping",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775341706,
+        "date_posted": 1775340461,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-PLY-PLYMOUTH-C--Clittaford-Rd-Southway--BLDG-C/Industrial-Placement---Rapid-Prototyping_01834532",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "degrees": []
     }
 ]
