@@ -6,23 +6,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 
 | Company | Role | Locations | Terms | Deadline | Link |
 | ------- | ---- | --------- | ----- | -------- | ---- |
-| TikTok | Frontend Engineer Intern - Tiktok-Open Platform | Seattle, WA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533094529978976520) |
-| TikTok | Software Engineer Intern - Agentic AI Engine - Data Management platform | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7534800139048175880) |
-| TikTok | Backend Software Engineer Intern - Tiktok-Pgc-Ucp | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533452888360061202) |
-| TikTok | Mobile Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7532747359991859463) |
-| TikTok | Issue Discovery Operation Intern - Tiktok-Product-Content Ecosystem - 2026 Summer - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533096917765802258) |
-| TikTok | Frontend Engineer Intern - Tiktok-Pgc-Ogc - 2026 Summer - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533107403265624338) |
-| TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7535607378248550674) |
-| TikTok | Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7532582984265812231) |
-| TikTok | Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533019095227648263) |
-| TikTok | Frontend Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - 2026 Summer - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533295761208559890) |
-| TikTok | Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7532444719809628424) |
-| Confluent | Cloud Infrastructure Engineer Intern | Remote, United Kingdom | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a) |
-| Confluent | Confluent Software Engineering Intern | Toronto, CAN | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e) |
-| Confluent | Software Engineering Intern | Remote, London | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b) |
-| HD Supply | Information Technology | Atlanta, GA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology) |
-| Jump Trading | Campus Tech Ops Engineer | Chicago, IL | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://www.jumptrading.com/careers/7077897/?gh_jid=7077897) |
-| Jump Trading | Campus Quantitative Trader | New York, NY, Chicago, IL | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://www.jumptrading.com/careers/6900970/?gh_jid=6900970) |
 | TikTok | Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-09 | [Apply Here](https://lifeattiktok.com/search/7534851658053830930) |
 | TikTok | Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS | Seattle, WA | ['Summer 2026'] | 2025-08-09 | [Apply Here](https://lifeattiktok.com/search/7535234137146444040) |
 | Notion | Software Engineer, Mobile | San Francisco, CA, New York, NY | ['Summer 2026'] | 2025-08-12 | [Apply Here](https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4) |
@@ -68,10 +51,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | TikTok | Product Manager Intern - Tiktok-Pgc - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-16 | [Apply Here](https://lifeattiktok.com/search/7533607359470848264) |
 | Capital One | Current PhD – Applied Research Internship Program | Cambridge, MA, San Jose, CA, McLean, VA, New York, NY | ['Summer 2026'] | 2025-08-13 | [Apply Here](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1) |
 | TikTok | Product Manager Intern - Tiktok LIVE-Ecosystem Governance | San Jose, CA | ['Summer 2026'] | 2025-08-12 | [Apply Here](https://lifeattiktok.com/search/7533903394441873682) |
-| ByteDance | Student Researcher Intern - AI-Native Databases - PhD | Seattle, WA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://jobs.bytedance.com/en/position/7535880188522498322/detail) |
-| TikTok | Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM | Seattle, WA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7527589875165563143) |
-| TikTok | Software Engineer Intern - Recommendation Infrastructure | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533010433386809607) |
-| TikTok | General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS | San Jose, CA | ['Summer 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7527065936093858055) |
 | Cargill | Software Engineer Intern | Atlanta, GA | ['Summer 2026'] | 2025-08-20 | [Apply Here](https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464) |
 | Figma | Data Science Intern | San Francisco, CA, New York, NY | ['Summer 2026'] | 2025-08-20 | [Apply Here](https://job-boards.greenhouse.io/figma/jobs/5614980004) |
 | Seagate | Software Engineer | Shakopee, MN | ['Summer 2026'] | 2025-08-20 | [Apply Here](https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100) |
@@ -1163,6 +1142,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | First American | Data Scientist Intern | Orange, CA | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Scientist-Intern---REMOTE_R054627-1) |
 | Harris Computer | Product Intern | South Carolina, Tennessee, Georgia, Atlanta, GA | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Atlanta-Galleria/Product-Intern_R0040159) |
 | Pitney Bowes | Software Engineering Intern | Shelton, CT | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://pitneybowes.wd1.myworkdayjobs.com/pbcareers/job/US-CT-Shelton/Software-Engineering-Intern_R21292) |
+| Moog  | Intern – Product Engineering | Carson, CA | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Product-Engineering_R-25-13763) |
 | Robert Half | Software Engineer Virtual Intern | San Ramon, CA | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-Virtual-Internship_JR-259598) |
 | Moog  | Intern – Product Engineering | Buffalo, NY | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13655) |
 | Robert Half | Generative AI Engineer Virtual Internship | San Ramon, CA | ['Summer 2026'] | 2026-02-18 | [Apply Here](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-259599) |
@@ -1779,7 +1759,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Micron Technology | Intern – GQ Reliability Methods | Boise, ID | ['Summer 2026'] | 2026-03-16 | [Apply Here](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/GQ-Reliability-Methods-Summer-Intern_JR94278) |
 | Coherent  | Intern Machine Learning - Semiconductor Laser Manufacturing | Fremont, CA | ['Summer 2026'] | 2026-03-17 | [Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011194) |
 | Coherent  | Intern Laser Application Engineer | Santa Clara, CA | ['Summer 2026'] | 2026-03-17 | [Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011354) |
-| Guidewire | Services Solutions Technical Architect Intern | Philadelphia, PA | ['Summer 2026'] | 2026-03-16 | [Apply Here](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14531) |
 | Solidigm | Talent Acquisition Data Engineering & Analytics Graduate Intern | Rancho Cordova, CA | ['Summer 2026'] | 2026-03-17 | [Apply Here](https://jobs.smartrecruiters.com/Solidigm/744000115004195) |
 | Freese and Nichols | Intern - GIS | Fort Worth, TX | ['Summer 2026'] | 2026-03-16 | [Apply Here](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Fort-Worth-Texas/Summer-2026-Internship---GIS_JR103487) |
 | Nasuni | Software Development Intern - Data Infrastructure C++ Python Go | Marlborough, MA | ['Summer 2026'] | 2026-03-17 | [Apply Here](https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5134719008) |
@@ -2045,7 +2024,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Micron Technology | Intern – Smart Manufacturing | Boise, ID | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing_JR95965) |
 | DXC Technology | Degree Apprenticeship in Data & AI | Newcastle upon Tyne, UK | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/XMLNAME-51576237-DXC-Academic-Programme---Degree-Apprenticeship-in-Data---AI_51576529) |
 | DXC Technology | DXC Academic Programme – Modern Apprenticeship in Data & AI | Newcastle upon Tyne, UK | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/XMLNAME-51576240-DXC-Academic-Programme---Modern-Apprenticeship-in-Data---AI_51576527) |
-| Bank of Montreal | Technology Analyst Intern | Naperville, IL | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Naperville-IL-USA/Technology--Analyst--Summer-2026--Internship----10-Weeks_R260008658) |
 | Liberty University | IT Computer Lab Apprentice | Lynchburg, VA | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/IT-Computer-Lab-Apprentice_R0010391) |
 | Primetals Technologies | Digital Support Associate | Orlando, FL | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://mhicareers.com/job/Orlando-Digital-Support-Associate-Summer-Internship-FL-32809/1377541633/?ats=successfactors) |
 | Schonfeld | DMFI Intern | NYC | ['Summer 2026'] | 2026-03-25 | [Apply Here](https://job-boards.greenhouse.io/schonfeld/jobs/7749783) |
@@ -2184,7 +2162,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Nokia | Software Developer | Ottawa, ON, Canada | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32692) |
 | Mackenzie Investments | Intern - Investment Management - Fundamental Equity Research | Greater Toronto Area, ON, Canada | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://careersen-mackenzieinvestments.icims.com/jobs/5735/job?mobile=true&needsRedirect=false) |
 | Harris Computer | Intern Developer | NYC | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://harriscomputer.wd3.myworkdayjobs.com/1/job/New-York-United-States/Intern---Developer_R0040830) |
-| Metrolinx | Intern/Co-op Student - PRESTO Asset and Inventory Management | Canada | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115790) |
 | KLA | Laser Engineer | Milpitas, CA | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Laser-Engineer-Intern_2634943-1) |
 | Granite Construction | Business Intelligence Intern | Aptos, CA | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Business-Intelligence-Intern_R0000007188) |
 | Astranis | Software Engineer Intern - Data Platform | SF | ['Summer 2026'] | 2026-03-30 | [Apply Here](https://job-boards.greenhouse.io/astranis/jobs/4667477006) |
@@ -2466,6 +2443,23 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | TikTok | Software Engineer Intern - Data Ecosystem | Seattle, WA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7533387057667934482) |
 | TikTok | Software Engineer - Tiktok-Growth-Innovative Growth - BS/MS | San Jose, CA | ['Summer 2026'] | 2026-03-02 | [Apply Here](https://lifeattiktok.com/search/7532748736225904903) |
 | Ramp | Software Engineer Intern - Android | SF, NYC | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application) |
+| TikTok | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Seattle, WA | ['Summer 2026'] | 2026-03-31 | [Apply Here](https://lifeattiktok.com/search/7525650208522193159) |
+| TikTok | Software Engineer Intern | San Jose, CA | ['Summer 2026'] | 2026-03-23 | [Apply Here](https://lifeattiktok.com/search/7532582984265812231) |
+| TikTok | Software Engineer Intern - Tiktok-Open Platform - 2026 Summer | San Jose, CA | ['Summer 2026'] | 2026-03-02 | [Apply Here](https://lifeattiktok.com/search/7533094529978976520) |
+| TikTok | Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS | San Jose, CA | ['Summer 2026'] | 2026-03-02 | [Apply Here](https://lifeattiktok.com/search/7532747359991859463) |
+| TikTok | Software Engineer Intern - Multiple Teams | San Jose, CA | ['Summer 2026'] | 2026-02-25 | [Apply Here](https://lifeattiktok.com/search/7533295761208559890) |
+| TikTok | Backend Software Engineer Intern - Tiktok-Pgc-Ucp - 2026 Summer | San Jose, CA | ['Summer 2026'] | 2026-01-02 | [Apply Here](https://lifeattiktok.com/search/7533452888360061202) |
+| TikTok | Machine Learning Scientist Intern - TikTok Recommendation | San Jose, CA | ['Summer 2026'] | 2025-12-18 | [Apply Here](https://lifeattiktok.com/search/7519241729582516487) |
+| TikTok | Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM | Seattle, WA | ['Summer 2026'] | 2025-12-18 | [Apply Here](https://lifeattiktok.com/search/7527589875165563143) |
+| TikTok | Software Engineer Intern - Agentic AI Engine - Data Management platform | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7534800139048175880) |
+| TikTok | Software Engineer Intern - Recommendation Infrastructure | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7533010433386809607) |
+| TikTok | Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7532444719809628424) |
+| TikTok | General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026 Summer | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7527065936093858055) |
+| TikTok | Research Scientist Intern - Tiktok Recommendation-Llms - Rl | San Jose, CA | ['Summer 2026'] | 2025-10-30 | [Apply Here](https://lifeattiktok.com/search/7519766495683053832) |
+| TikTok | Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - 2026 Start','PhD | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7519247984258566408) |
+| TikTok | Frontend Engineer Intern | San Jose, CA | ['Summer 2026'] | 2026-03-02 | [Apply Here](https://lifeattiktok.com/search/7533107403265624338) |
+| TikTok | AI Product Manager | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7533096917765802258) |
+| TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI | San Jose, CA | ['Summer 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7535607378248550674) |
 | Ahold Delhaize USA | Data Engineer (AI) Co-op | Chicago, IL | ['Fall 2026'] | 2025-09-26 | [Apply Here](https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Data-Engineer-(AI)-Co-op-Fall-2026/Chicago-IL/ADUSArms/455368_external_USA-IL-Chicago) |
 | Shield AI | Hardware Test Engineering Fall Co-op (Software) | Dallas, TX | ['Fall 2026'] | 2025-10-21 | [Apply Here](https://jobs.lever.co/shieldai/1c1a805c-7e26-4442-9698-a55a57bcd4e0/) |
 | Paccar | Data Analyst Intern Fall 2026 | Columbus, MS | ['Fall 2026'] | 2026-01-15 | [Apply Here](https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors) |
@@ -2575,10 +2569,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Aquatic Capital Management | Quantitative Researcher – Intern | London, UK, Chicago, IL | ['Summer 2027'] | 2026-04-01 | [Apply Here](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Aquatic Capital Management | Software Engineer Intern | London, UK, Chicago, IL | ['Summer 2027'] | 2026-04-01 | [Apply Here](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Toyota Research Institute | Human-Centered AI Intern - CAD Design Reasoning Machine Learning | Mountain View, CA | ['Fall 2027'] | 2026-02-18 | [Apply Here](https://jobs.lever.co/tri/ca561b23-9589-49bc-a056-7f741ff48c26/apply) |
-| TikTok | Machine Learning Engineer Intern - Monetization GenAI | San Jose, CA | ['Summer 2026', 'Fall 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7533770205199386887) |
-| Jump Trading | Campus Quantitative Researcher | New York, NY, Chicago, IL | ['Spring 2026', 'Winter 2026', 'Winter 2025', 'Fall 2025', 'Summer 2025', 'Summer 2026'] | 2025-08-08 | [Apply Here](https://www.jumptrading.com/careers/7026718/?gh_jid=7026718) |
-| Tesla | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | ['Summer 2026', 'Fall 2025', 'Summer 2025', 'Winter 2025', 'Winter 2026', 'Spring 2026'] | 2025-08-08 | [Apply Here](https://www.tesla.com/careers/search/job/247659) |
-| Tesla | Automation Controls Engineer, Megapack | Palo Alto, CA | ['Spring 2026', 'Winter 2026', 'Winter 2025', 'Summer 2025', 'Fall 2025'] | 2025-08-08 | [Apply Here](https://www.tesla.com/careers/search/job/247595) |
 | Confluent | Software Engineering Intern | Austin, TX | ['Winter 2026', 'Spring 2026', 'Fall 2025', 'Summer 2025', 'Summer 2026'] | 2025-08-09 | [Apply Here](https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a) |
 | Databricks | Data Science Intern | Mountain View, CA, San Francisco, CA | ['Summer 2026', 'Spring 2026', 'Winter 2026'] | 2025-08-12 | [Apply Here](https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002) |
 | Microsoft | Data Science | Redmond, WA | ['Spring 2026', 'Fall 2025', 'Winter 2026', 'Winter 2025', 'Summer 2025', 'Summer 2026'] | 2025-08-12 | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) |
@@ -2602,7 +2592,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Hewlett Packard Enterprise | Cloud Engineer Intern | Spring, TX | ['Spring 2026', 'Winter 2026', 'Winter 2025', 'Fall 2025', 'Summer 2026'] | 2025-08-17 | [Apply Here](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) |
 | Formlabs | Embedded Software Intern | Somerville, MA | ['Winter 2026', 'Spring 2026'] | 2025-08-17 | [Apply Here](https://careers.formlabs.com/job/7165153/apply/?gh_jid=7165153) |
 | Adobe | AI/ML Intern - Machine Learning Engineer | Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, Waltham, MA, New York, NY, Lehi, UT | ['Summer 2026', 'Fall 2026'] | 2025-08-15 | [Apply Here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) |
-| TikTok | Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - PhD | San Jose, CA | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7519247984258566408) |
 | Figma | Software Engineering Intern | San Francisco, CA, New York, NY | ['Winter 2026', 'Summer 2026'] | 2025-08-19 | [Apply Here](https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004) |
 | Figma | Product Design Intern | San Francisco, CA, New York, NY | ['Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'] | 2025-08-20 | [Apply Here](https://job-boards.greenhouse.io/figma/jobs/5616453004) |
 | Figma | Product Research Intern | San Francisco, CA | ['Summer 2026', 'Winter 2026', 'Spring 2026', 'Fall 2026'] | 2025-08-20 | [Apply Here](https://job-boards.greenhouse.io/figma/jobs/5617444004) |
@@ -3162,7 +3151,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Booz Allen | University Data Scientist | McLean, VA | ['N/A'] | 2026-02-21 | [Apply Here](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012) |
 | Palantir | UK Meritocracy Fellowship | London, UK | ['N/A'] | 2026-03-30 | [Apply Here](https://jobs.lever.co/palantir/be19ad5e-e323-41c9-8a22-1b34668b1889/apply) |
 | The Walt Disney Company | Decision Science Product Graduate Associate - AI | Celebration, FL | ['N/A'] | 2026-03-30 | [Apply Here](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Graduate-Associate--AI--Summer-Fall-2026_10142061) |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-03-30 | [Apply Here](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-20510) |
 | The Walt Disney Company | Decision Science Product Graduate Associate - AI | Celebration, FL | ['N/A'] | 2026-03-30 | [Apply Here](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Graduate-Associate--AI--Summer-Fall-2026_10142061-1) |
 | X Development | PhD Residency - Machine Learning for Waste Characterization | Mountain View, CA | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026', 'Winter 2027'] | 2026-03-31 | [Apply Here](https://x.company/careers/8486140002?gh_jid=8486140002) |
 | GoDaddy | Trainee Data Storytelling and Analytics | Kirkland, WA | ['N/A'] | 2026-03-31 | [Apply Here](https://job-boards.greenhouse.io/eventsandinterns/jobs/7672230003) |
@@ -3274,3 +3262,4 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | GE Appliances | Engineering Intern/Co-op | Calhoun, GA | ['Winter 2027', 'Spring 2027'] | 2026-04-04 | [Apply Here](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836) |
 | Lowe's  | Associate AI Engineer | Charlotte, NC | ['N/A'] | 2026-04-04 | [Apply Here](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-AI-Engineer---Launchpad_JR-02449005) |
 | RTX | Industrial Intern - Rapid Prototyping | Exeter, UK | ['N/A'] | 2026-04-04 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-PLY-PLYMOUTH-C--Clittaford-Rd-Southway--BLDG-C/Industrial-Placement---Rapid-Prototyping_01834532) |
+| TikTok | Machine Learning Engineer Intern - Monetization GenAI - BS/MS | San Jose, CA | ['Summer 2026', 'Fall 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7533770205199386887) |
