@@ -1,491 +1,5 @@
 [
     {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Morgan Stanley",
-        "id": "f133ed79-6713-4cef-8760-180dd54447c5",
-        "title": "Firmwide AI Strategy & Solutions Summer Analyst Program",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755782446,
-        "date_posted": 1755264321,
-        "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
-        "locations": [
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "RTX",
-        "id": "d98006af-1b44-46d1-9a3d-960e0494ec5f",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755567834,
-        "date_posted": 1755264461,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Capital One",
-        "id": "b63beac3-07c6-4869-9a9c-0e53bff6aba6",
-        "title": "Current Master's - Data Science Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757728269,
-        "date_posted": 1755264595,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1",
-        "locations": [
-            "McLean, VA",
-            "Cambridge, MA",
-            "Chicago, IL",
-            "Richmond, VA",
-            "Plano, TX",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "McLean, VA",
-                "normalized": {
-                    "city": "Mclean",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Cambridge, MA",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Richmond, VA",
-                "normalized": {
-                    "city": "Richmond",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Plano, TX",
-                "normalized": {
-                    "city": "Plano",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Automated Systems of Tacoma",
-        "id": "0cb65a62-bd96-4720-9472-145fa41c4047",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755417820,
-        "date_posted": 1755265165,
-        "url": "https://automatedsystemsoftacoma.applytojob.com/apply/MfHgBZerZd/Software-Engineering-Intern-2026",
-        "locations": [
-            "Tacoma, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tacoma, WA",
-                "normalized": {
-                    "city": "Tacoma",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "a2fd8ebf-4290-4605-b9df-b1313064b3bc",
-        "title": "Software Engineer Intern - Relational Database",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755288936,
-        "date_posted": 1755288936,
-        "url": "https://jobs.bytedance.com/en/position/7535645811629508871/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "37310669-b6cd-4a52-beeb-e261bc5f3c1b",
-        "title": "Software Engineer Intern - Nosql Databases",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755288943,
-        "date_posted": 1755288943,
-        "url": "https://jobs.bytedance.com/en/position/7535621760088901895/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
-        "title": "Software Development Engineer Intern - Network Automation",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755289246,
-        "date_posted": 1755289246,
-        "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Hardware",
-        "company_name": "ByteDance",
-        "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
-        "title": "Network Software Development Engineer Intern - Network Switch",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755289255,
-        "date_posted": 1755289255,
-        "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "8d2d3d28-6b4c-4a8d-a48f-d49ad620a133",
-        "title": "Software Engineer Intern - Nosql Databases",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755289239,
-        "date_posted": 1755289239,
-        "url": "https://jobs.bytedance.com/en/position/7535878806051473671/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
-        "title": "Software Development Engineer Intern - Network Automation",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755293755,
-        "date_posted": 1755293755,
-        "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "a1c7885d-70c0-4181-8237-3b20443307f3",
-        "title": "Software Engineer Intern - AI Platform",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755296256,
-        "date_posted": 1755296256,
-        "url": "https://jobs.bytedance.com/en/position/7537377558908963090/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "4a0ce674-2654-4f36-875c-9dc3145edb17",
-        "title": "Software Engineer Intern - Relational Database",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297879,
-        "date_posted": 1755297879,
-        "url": "https://jobs.bytedance.com/en/position/7535874373627971848/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "38e9b155-826a-49f7-a431-a689d10c579e",
@@ -509,262 +23,6 @@
                     "region_code": "WA",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "02cee9b7-b9f4-4c8d-be40-ae6666a588a1",
-        "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303489,
-        "date_posted": 1755303489,
-        "url": "https://lifeattiktok.com/search/7537491011187902727",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "c0de8fc2-6482-4a33-b95c-9054e2e850e0",
-        "title": "General Hire – Machine Learning Engineer Intern - Commerce& Content Service & Search Ads - 2026 Summer - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303488,
-        "date_posted": 1755303488,
-        "url": "https://lifeattiktok.com/search/7534855949620119815",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "1bed96de-fbbd-4905-a7a2-51f2fded39c2",
-        "title": "Software Engineer Intern - Monetization Technology - Ads Creative AI - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303487,
-        "date_posted": 1755303487,
-        "url": "https://lifeattiktok.com/search/7535617494221048082",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "00e70c4e-9171-45b8-a583-f063356c94e1",
-        "title": "Backend Software Engineer Intern - Foundation Platform",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303658,
-        "date_posted": 1755303658,
-        "url": "https://lifeattiktok.com/search/7538307729329277202",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "123bfef9-0acc-4a0d-896f-998637c5fe82",
-        "title": "Software Engineer Intern - Live Service",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303693,
-        "date_posted": 1755303693,
-        "url": "https://lifeattiktok.com/search/7538314547103762696",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ac124cf6-870e-4078-b871-ec6c45459919",
-        "title": "Backend Software Engineer Intern - Media Platform",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303658,
-        "date_posted": 1755303658,
-        "url": "https://lifeattiktok.com/search/7538301580093720840",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "860f82b8-0562-4605-b9a7-3cac835a34c7",
-        "title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303661,
-        "date_posted": 1755303661,
-        "url": "https://lifeattiktok.com/search/7538304000404244743",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "208b0ad1-830d-48f9-b9bd-98f5a7d06cc1",
-        "title": "Software Engineer Intern - Media Engine",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303673,
-        "date_posted": 1755303673,
-        "url": "https://lifeattiktok.com/search/7538304108715198727",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -979,41 +237,6 @@
         "date_updated": 1755563226,
         "date_posted": 1755563226,
         "url": "https://lifeattiktok.com/search/7532830217401338119",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "b68df86b-5d86-439f-8b8a-eb9b15e9ddf3",
-        "title": "Product Manager Intern - Tiktok-Pgc - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755303482,
-        "date_posted": 1755303482,
-        "url": "https://lifeattiktok.com/search/7533607359470848264",
         "locations": [
             "San Jose, CA"
         ],
@@ -11342,80 +10565,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Goldman Sachs",
-        "id": "a40d2344-e5cd-44f1-ae07-23ea1a7e10c1",
-        "title": "Summer Associate - Engineering",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758356279,
-        "date_posted": 1755296305,
-        "url": "https://higher.gs.com/roles/152817?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "a64293ba-681b-4817-ab31-676ae082fb29",
-        "title": "Summer Associate - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758356327,
-        "date_posted": 1755289037,
-        "url": "https://higher.gs.com/roles/152591?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "JP Morgan Chase",
         "id": "908946bd-4b29-4b60-af17-94fb3a4abf30",
         "title": "Machine Learning Summer Associate 2026 - NLP",
@@ -18963,38 +18112,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Seagate Technology ",
-        "id": "fd67504d-4ef9-4e6c-b744-de4396b12cbf",
-        "title": "Computer Science Engineering Team Internship - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761949701,
-        "date_posted": 1761949701,
-        "url": "https://seagatecareers.com/job/Shakopee-Computer-Science-Engineering-Team-Internship-Summer-2026-MN/1339469700/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Shakopee, MN",
-                "normalized": {
-                    "city": "Shakopee",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Electronic Arts",
         "id": "c3cbf146-3965-4cfb-bf5c-8916be1c1a24",
         "title": "Software Engineering Co Op",
@@ -20083,52 +19200,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Salesforce",
-        "id": "b476d6e3-d5b0-4179-8453-71f2a34f632e",
-        "title": "Summer 2026 Intern-Tableau Research",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762274401,
-        "date_posted": 1762274401,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern--Tableau-Research_JR316308-2",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Berkshire Hathaway Energy",
         "id": "6cae6910-11fa-406d-b833-b85cd54aab12",
         "title": "Intern – Data Science - Electric Distribution",
@@ -20763,38 +19834,6 @@
                     "region_code": null,
                     "country": "Canada",
                     "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Takeda",
-        "id": "4be9ebac-6af0-4f42-895a-cabeb56fcf0c",
-        "title": "Analytical Development Mass Spectrometry Informatics Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762543420,
-        "date_posted": 1762543420,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2026-Summer-Internship-Program--Analytical-Development-Mass-Spectrometry-Informatics-Intern_R0166311",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lexington, MA",
-                "normalized": {
-                    "city": "Lexington",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -23045,38 +22084,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "SummitTX",
-        "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
-        "title": "Research Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764284852,
-        "date_posted": 1764284852,
-        "url": "https://job-boards.greenhouse.io/summit/jobs/4963543007",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": []
@@ -47928,38 +46935,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Mentis AI",
-        "id": "1f3bc7de-4ef6-4890-a6f7-89358af50c69",
-        "title": "Private Credit Professionals – AI Residency - Frontier AI Research",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772677188,
-        "date_posted": 1772677188,
-        "url": "https://jobs.ashbyhq.com/mentis/e0294b46-75ae-4102-ac29-4c6b8006f7e0/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "8a438e29-5a7e-4e24-a4d5-df17bd48bfb5",
         "title": "Research Intern - AI Safety and Security",
@@ -62530,6 +61505,72 @@
     },
     {
         "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "4cc42243-fa8d-4ac4-8014-836bac1add9f",
+        "title": "Software Engineering Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774046768,
+        "date_posted": 1774046768,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Seattle-WA-USA/Software-Engineering-Intern--AI--Summer-2026_10143621",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "008cad80-afe4-4365-a74f-21d9b5166b4c",
+        "title": "Software Engineer Intern - Data Products",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774046768,
+        "date_posted": 1774046768,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Software-Engineering-Intern--Data-Products--Summer-2026_10143613",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burbank, CA",
+                "normalized": {
+                    "city": "Burbank",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Littelfuse",
         "id": "00668087-1a6e-43cc-afb7-6d4c90b78cd7",
         "title": "AI Engineering Intern",
@@ -74727,54 +73768,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Salesforce",
-        "id": "1aa662ef-b4e7-4286-9f3a-dfd9f9055bef",
-        "title": "Intern-Tableau Research",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775226711,
-        "date_posted": 1775225133,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2026-Intern--Tableau-Research_JR316308-1",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Actian",
         "id": "e4cfc80d-e89c-4659-a0c9-383aa3f29e00",
         "title": "PMO Automation Intern",
@@ -75983,111 +74976,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "b072507a-6687-4108-a744-2482c73b34c0",
-        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response - 2026 Summer (preserved)",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772032353,
-        "date_posted": 1772032353,
-        "url": "https://lifeattiktok.com/search/7527613337334188306",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
-        "title": "Frontend Engineer Intern - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769683224,
-        "date_posted": 1769683224,
-        "url": "https://lifeattiktok.com/search/7527615375778416914",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "4777948c-e970-420c-bec4-aaa6eaa917e6",
-        "title": "Backend Software Engineer Intern - Tiktok-PGC-Creator Strategy - 2026 Summer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767137223,
-        "date_posted": 1767137223,
-        "url": "https://lifeattiktok.com/search/7533096848266709266",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "1179840a-8111-4070-ba58-0f0a0fe1fe17",
@@ -76862,77 +75750,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
-        "title": "Software Engineer Intern - Tiktok-Search-Client - 2026 Summer (temporal) BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772446955,
-        "date_posted": 1772446955,
-        "url": "https://lifeattiktok.com/search/7533783305126365448",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772447026,
-        "date_posted": 1772447026,
-        "url": "https://lifeattiktok.com/search/7533095458232584466",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
@@ -77108,41 +75925,6 @@
     },
     {
         "category": "Software",
-        "company_name": "TikTok",
-        "id": "1176e63c-eb58-40bb-b17f-9d948c9da798",
-        "title": "Software Engineer - Tiktok-Growth-Innovative Growth - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772446950,
-        "date_posted": 1772446950,
-        "url": "https://lifeattiktok.com/search/7532748736225904903",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Ramp",
         "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
         "title": "Software Engineer Intern - Android",
@@ -77229,76 +76011,6 @@
     {
         "category": "Software",
         "company_name": "TikTok",
-        "id": "e0b68754-f6bf-4417-b34d-9809dde9c3e0",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774257202,
-        "date_posted": 1774257202,
-        "url": "https://lifeattiktok.com/search/7532582984265812231",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ae10b486-dd2c-4856-a542-edc25cb4473a",
-        "title": "Software Engineer Intern - Tiktok-Open Platform - 2026 Summer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772446976,
-        "date_posted": 1772446976,
-        "url": "https://lifeattiktok.com/search/7533094529978976520",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
         "id": "57afebdf-5402-460f-9af8-a746c7bcca8a",
         "title": "Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
         "active": true,
@@ -77308,76 +76020,6 @@
         "date_updated": 1772446970,
         "date_posted": 1772446970,
         "url": "https://lifeattiktok.com/search/7532747359991859463",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "16f1fcf2-38ef-4e04-9a67-4b82b5c9433c",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772003686,
-        "date_posted": 1772003686,
-        "url": "https://lifeattiktok.com/search/7533295761208559890",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "e0efd57b-db2b-4fea-8cd1-840623d90063",
-        "title": "Backend Software Engineer Intern - Tiktok-Pgc-Ucp - 2026 Summer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767396565,
-        "date_posted": 1767396565,
-        "url": "https://lifeattiktok.com/search/7533452888360061202",
         "locations": [
             "San Jose, CA"
         ],
@@ -77674,41 +76316,6 @@
         "degrees": [
             "Bachelor's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "fe3ab54a-d42a-47ab-acb5-7781d79c5ca8",
-        "title": "Frontend Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772446957,
-        "date_posted": 1772446957,
-        "url": "https://lifeattiktok.com/search/7533107403265624338",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -84468,41 +83075,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "ce16ad52-fb71-47b5-95e1-f719e061f2ec",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775774352,
-        "date_posted": 1775772430,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2026---Onsite-_01833504",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Huntsville, AL",
-                "normalized": {
-                    "city": "Huntsville",
-                    "region": "Alabama",
-                    "region_code": "AL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "AMN Healthcare",
         "id": "98be03e6-e6e7-438e-b554-c6bac080f067",
@@ -88591,6 +87163,515 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "b0765f9a-486a-4128-979c-3cd1149f3f3d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775985850,
+        "date_posted": 1775984616,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Camarillo/Software-Engineer-Intern_R179340-1",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Camarillo, CA",
+                "normalized": {
+                    "city": "Camarillo",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "CoorsTek",
+        "id": "15aced23-28d6-42cd-8fdd-bd680d750720",
+        "title": "Computational Materials Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031586,
+        "url": "https://coorstek.wd1.myworkdayjobs.com/CoorsTekCareers/job/Golden-CO/Computational-Materials-Engineering-Intern_R-113367",
+        "locations": [
+            "Golden, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Golden, CO",
+                "normalized": {
+                    "city": "Golden",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "c1c89ac1-ac60-4e37-8436-39602922318c",
+        "title": "Engineer – Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031507,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944933/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "b3e4302a-a5b5-4c4b-b685-7b1fc8d137c0",
+        "title": "Engineer – Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031507,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944733/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Dover",
+        "id": "67222ead-872c-45a8-94bc-08aa9adb832c",
+        "title": "Engineer – Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031508,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382945133/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "3bce78ba-507a-4501-aefc-bef80427bc02",
+        "title": "Engineer – Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031508,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944833/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "b68df86b-5d86-439f-8b8a-eb9b15e9ddf3",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267018,
+        "date_posted": 1773267018,
+        "url": "https://lifeattiktok.com/search/7533607359470848264",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "208b0ad1-830d-48f9-b9bd-98f5a7d06cc1",
+        "title": "Software Engineer Intern - Media Engine - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761910966,
+        "date_posted": 1761910966,
+        "url": "https://lifeattiktok.com/search/7538304108715198727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "860f82b8-0562-4605-b9a7-3cac835a34c7",
+        "title": "Software Engineer Intern - Video-on-Demand Algorithm - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761902263,
+        "date_posted": 1761902263,
+        "url": "https://lifeattiktok.com/search/7538304000404244743",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "00e70c4e-9171-45b8-a583-f063356c94e1",
+        "title": "Backend Software Engineer Intern - Foundation Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773565826,
+        "date_posted": 1773565826,
+        "url": "https://lifeattiktok.com/search/7538307729329277202",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "123bfef9-0acc-4a0d-896f-998637c5fe82",
+        "title": "Software Engineer Intern - Live Service - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761878882,
+        "date_posted": 1761878882,
+        "url": "https://lifeattiktok.com/search/7538314547103762696",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "02cee9b7-b9f4-4c8d-be40-ae6666a588a1",
+        "title": "Online Assessment] Software Engineer Intern - Recommendation Infrastructure - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764160949,
+        "date_posted": 1761915228,
+        "url": "https://lifeattiktok.com/search/7537491011187902727",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c0de8fc2-6482-4a33-b95c-9054e2e850e0",
+        "title": "General Hire – Machine Learning Engineer Intern - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761877647,
+        "date_posted": 1761877647,
+        "url": "https://lifeattiktok.com/search/7534855949620119815",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1bed96de-fbbd-4905-a7a2-51f2fded39c2",
+        "title": "Software Engineer Intern - Monetization Technology - Ads Creative AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761916199,
+        "date_posted": 1761916199,
+        "url": "https://lifeattiktok.com/search/7535617494221048082",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "247df49d-57d7-4cde-b1ca-eeee3214a95b",
+        "title": "Intern - Vehicle Embedded Engineer - Dbw",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768518729,
+        "date_posted": 1768518729,
+        "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Data Science, AI & Machine Learning",
         "company_name": "Ahold Delhaize USA",
         "id": "0f39d896-7918-4fc9-8a76-aed98d70185e",
@@ -92194,6 +91275,41 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1764235362,
+        "date_posted": 1761914446,
+        "url": "https://lifeattiktok.com/search/7537493362585979154",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "Five Rings Capital",
         "id": "d75bb9cc-771d-48f2-a8bf-b992effd5f60",
@@ -93098,149 +92214,6 @@
         ]
     },
     {
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "47344b22-9c07-45c2-b3f1-b79b9e388de6",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1755264404,
-        "date_posted": 1755264404,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079",
-        "locations": [
-            "Rome, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rome, NY",
-                "normalized": {
-                    "city": "Rome",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "ConnectPrep",
-        "id": "ff619f9d-bd86-4c70-b19e-1b2bbac7dd63",
-        "title": "Data Analyst Internship",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1758245350,
-        "date_posted": 1755264732,
-        "url": "https://apply.workable.com/connectprep/j/BDD172BF52/",
-        "locations": [
-            "Westport, CT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Westport, CT",
-                "normalized": {
-                    "city": "Westport",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "TransPerfect",
-        "id": "cd8a53a5-daa7-4793-b752-5fd191eb4f78",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Winter 2025",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1755265063,
-        "date_posted": 1755265063,
-        "url": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
-        "locations": [
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
-        "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1755303491,
-        "date_posted": 1755303491,
-        "url": "https://lifeattiktok.com/search/7537493362585979154",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
         "category": "Data Science, AI & Machine Learning",
         "company_name": "Adobe",
         "id": "1b6d7184-6ae8-4a04-a8f1-0c82c93e8fe2",
@@ -93489,125 +92462,6 @@
                     "city": "Somerville",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
-        "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1756118589,
-        "date_posted": 1755299289,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
-        "locations": [
-            "Seattle, WA",
-            "San Francisco, CA",
-            "Austin, TX",
-            "San Jose, CA",
-            "Waltham, MA",
-            "New York, NY",
-            "Lehi, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Waltham, MA",
-                "normalized": {
-                    "city": "Waltham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Lehi, UT",
-                "normalized": {
-                    "city": "Lehi",
-                    "region": "Utah",
-                    "region_code": "UT",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -100591,38 +99445,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Arrowstreet Capital",
-        "id": "82b6cdeb-abba-4247-b82e-753eb5697555",
-        "title": "Technology Rotational Development Program",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768477970,
-        "date_posted": 1768235340,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -108136,55 +106958,6 @@
                     "city": "Tempe",
                     "region": "Arizona",
                     "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "bd38f584-facf-43d2-931c-9c24fea63de3",
-        "title": "Technology Leadership Program - Investment Systems",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773268979,
-        "date_posted": 1773268979,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Investment-Systems_170056",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Malvern, PA",
-                "normalized": {
-                    "city": "Malvern",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -116079,42 +114852,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "d5f2326a-be05-413c-a10d-bcd2c71e31d4",
-        "title": "Intern Development & Additive Manufacturing - Fastworks",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1775659248,
-        "date_posted": 1775657304,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Development---Additive-Manufacturing---FastWorks_R-26-16033",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Buffalo, NY",
-                "normalized": {
-                    "city": "Buffalo",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "0686e450-dd2f-4979-8eb8-bc8e2cb78c13",
@@ -117285,6 +116022,223 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Nebius",
+        "id": "6364799b-c10e-4f4f-8cd0-740fadbce721",
+        "title": "AI Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775987111,
+        "date_posted": 1774574703,
+        "url": "https://careers.nebius.com/?gh_jid=4812140101",
+        "locations": [
+            "Europe",
+            "La Ronge, SK, Canada",
+            "Berlin, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Europe",
+                "normalized": {
+                    "city": "Europe",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "La Ronge, SK, Canada",
+                "normalized": {
+                    "city": "La Ronge",
+                    "region": "Saskatchewan",
+                    "region_code": "SK",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Berlin, Germany",
+                "normalized": {
+                    "city": "Berlin",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e0e4bbf9-704d-4b91-a44f-4b0a8ca4be36",
+        "title": "Industrial Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776032767,
+        "date_posted": 1776031588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/Malvern-Worcestershire/Industrial-Placement---Software-Engineering_01833151",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hereford, UK",
+                "normalized": {
+                    "city": "Hereford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
+        "title": "AI/ML Intern - Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775903005,
+        "date_posted": 1775902281,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "San Jose, CA",
+            "Waltham, MA",
+            "NYC",
+            "Lehi, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Waltham, MA",
+                "normalized": {
+                    "city": "Waltham",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Lehi, UT",
+                "normalized": {
+                    "city": "Lehi",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
