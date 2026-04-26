@@ -1,224 +1,5 @@
 [
     {
-        "category": "Software Engineering",
-        "company_name": "Samsara",
-        "id": "5be1acc3-f39a-4bf1-9092-6c80ce174525",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364164,
-        "date_posted": 1756364164,
-        "url": "https://www.samsara.com/company/careers/roles/7179025",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Other",
-        "company_name": "Capital One",
-        "id": "aeee4dc2-304b-4ae9-b272-b2470716c709",
-        "title": "Analyst Early Internship Program",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756861039,
-        "date_posted": 1756367844,
-        "url": "https://www.capitalonecareers.com/job/mclean/analyst-early-internship-program-summer-2026/31238/85485933920",
-        "locations": [
-            "McLean, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "McLean, VA",
-                "normalized": {
-                    "city": "Mclean",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Walmart",
-        "id": "b50eb88d-275b-4607-900f-1df191697f17",
-        "title": "2025 Intern Conversion - 2026 FT: Data Analyst II, Transportation",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756722118,
-        "date_posted": 1756367994,
-        "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion---2026-FT--Data-Analyst-II--Transportation_R-2273146",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bentonville, AR",
-                "normalized": {
-                    "city": "Bentonville",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Corpay",
-        "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
-        "title": "Software Developer – Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756729901,
-        "date_posted": 1756393789,
-        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R05866",
-        "locations": [
-            "Vancouver, CAN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, CAN",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "17c17e13-cd4c-441d-8d4c-0da4520b0c37",
-        "title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756660311,
-        "date_posted": 1756424463,
-        "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "DriveTime",
-        "id": "d1a25725-dd02-45e2-bc1c-586df9c8de7f",
-        "title": "Analytics Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756426039,
-        "date_posted": 1756426039,
-        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2026-_R13157",
-        "locations": [
-            "Dallas, TX",
-            "Tempe, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Tempe, AZ",
-                "normalized": {
-                    "city": "Tempe",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Data Science, AI & Machine Learning",
         "company_name": "Brookfield Asset Management",
         "id": "396e8075-5229-49e7-a988-4b3efa913903",
@@ -27497,42 +27278,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Woven",
-        "id": "7ad8deb0-8ff6-4080-a865-9f84a2600546",
-        "title": "Software Engineer Intern - ML Platform",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771163151,
-        "date_posted": 1771163151,
-        "url": "https://jobs.lever.co/woven-by-toyota/b6bb0a14-829c-45d6-b64d-7ddaeb1851b3/apply",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ann Arbor, MI",
-                "normalized": {
-                    "city": "Ann Arbor",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -64478,38 +64223,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Revvity",
-        "id": "03c6688b-bd8f-4323-b4f7-3b5a2ca84981",
-        "title": "Full-Stack AI Developer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776417662,
-        "date_posted": 1776417605,
-        "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-043504",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Coherent ",
         "id": "1edb9f9d-cf61-41d2-9ddb-7940e30dc2a2",
@@ -73648,6 +73361,41 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "DriveTime",
+        "id": "d1a25725-dd02-45e2-bc1c-586df9c8de7f",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776523501,
+        "date_posted": 1776523477,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2026-_R13157",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Tempe, AZ",
+                "normalized": {
+                    "city": "Tempe",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Data Science, AI & Machine Learning",
         "company_name": "Ahold Delhaize USA",
         "id": "0f39d896-7918-4fc9-8a76-aed98d70185e",
@@ -80375,81 +80123,6 @@
                     "city": "Lexington",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Crowe",
-        "id": "ebb6ee36-2861-4662-b172-b5c9c1dbd406",
-        "title": "AI Functional Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1756949316,
-        "date_posted": 1756368198,
-        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-50098",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Epic Games",
-        "id": "259fbdc1-6ebb-442a-9ac9-3c34bfa7b34a",
-        "title": "Engine Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758671113,
-        "date_posted": 1756368581,
-        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
-        "locations": [
-            "Cary, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cary, NC",
-                "normalized": {
-                    "city": "Cary",
-                    "region": "North Carolina",
-                    "region_code": "NC",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -100696,5 +100369,90 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Corpay",
+        "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
+        "title": "Software Developer – Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1771671996,
+        "date_posted": 1771671996,
+        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "1f77f979-a9de-47a0-8655-d6c71bb7ea10",
+        "title": "Research Scientist Intern - Robotic Control Policy",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1772752895,
+        "date_posted": 1772752895,
+        "url": "https://www.metacareers.com/jobs/24308030212183826",
+        "locations": [
+            "Burlingame, CA",
+            "Redmond, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burlingame, CA",
+                "normalized": {
+                    "city": "Burlingame",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Redmond, WA",
+                "normalized": {
+                    "city": "Redmond",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
