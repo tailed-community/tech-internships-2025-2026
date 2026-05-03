@@ -1,380 +1,6 @@
 [
     {
         "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
-        "title": "Research Scientist Intern - Machine Perception for Input and Interaction - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757035640,
-        "date_posted": 1756965041,
-        "url": "https://www.metacareers.com/jobs/779670167783218",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quantitative Finance",
-        "company_name": "Citi",
-        "id": "efbfb1ce-d474-47df-9a95-e12e3cccef47",
-        "title": "Functions - Quantitative Risk Management",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756976957,
-        "date_posted": 1756976957,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226",
-        "locations": [
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quantitative Finance",
-        "company_name": "Citi",
-        "id": "a9ed3739-a385-4a97-b657-c79e73a0ad48",
-        "title": "Functions - Quantitative Risk Management",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756977021,
-        "date_posted": 1756977021,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Tampa---US--2026_25839797",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tampa, FL",
-                "normalized": {
-                    "city": "Tampa",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "P&G",
-        "id": "f918afe3-6003-4415-a0e3-65ec2103093e",
-        "title": "Data Scientist (Masters Degree) Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756982564,
-        "date_posted": 1756982564,
-        "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cincinnati, OH",
-                "normalized": {
-                    "city": "Cincinnati",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Cencora",
-        "id": "58410c56-1603-4cbf-b6c6-017ea651b8dd",
-        "title": "InSite Data Analyst",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758069191,
-        "date_posted": 1756982796,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584",
-        "locations": [
-            "Orange, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Orange, CA",
-                "normalized": {
-                    "city": "Orange",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Dynamics",
-        "id": "71b12a2f-2062-4024-bf3b-65abd6891fce",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757037897,
-        "date_posted": 1756983311,
-        "url": "https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Canonsburg, PA",
-                "normalized": {
-                    "city": "Canonsburg",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "US Foods",
-        "id": "1f7a408e-efa9-45d7-80f7-adc212aa35cc",
-        "title": "Data Engineer, M&A",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759960664,
-        "date_posted": 1756983721,
-        "url": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233",
-        "locations": [
-            "Rosemont, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rosemont, IL",
-                "normalized": {
-                    "city": "Rosemont",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "US Foods",
-        "id": "f5b190b7-841b-4a48-b1e1-ac702b4ea510",
-        "title": "Software Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757095747,
-        "date_posted": 1756983809,
-        "url": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Hybrid--Onsite---Remote-_R271111",
-        "locations": [
-            "Rosemont, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rosemont, IL",
-                "normalized": {
-                    "city": "Rosemont",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Pulse",
-        "id": "b22dc02a-4fa1-4467-beeb-25e0aeb45218",
-        "title": "Machine Learning Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757000495,
-        "date_posted": 1757000495,
-        "url": "https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Marshall Wace",
-        "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
-        "title": "Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757004325,
-        "date_posted": 1757004325,
-        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7998360002",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Seven Research",
-        "id": "7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
-        "title": "Core Developer – Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757037504,
-        "date_posted": 1757025029,
-        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Cresta",
         "id": "59e78c09-f1ef-47c3-87c8-2507432b9729",
         "title": "Machine Learning Engineering Intern",
@@ -4814,75 +4440,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perpay",
-        "id": "2d992297-70f1-4f62-852b-75acf2b9ef3b",
-        "title": "Strategic Analytics Intern - Strategic Analytics",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758565616,
-        "date_posted": 1757031759,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perpay",
-        "id": "2649b240-bda5-4d10-bbcc-5ddb74bb2202",
-        "title": "Data Engineering Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758578024,
-        "date_posted": 1757031760,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -11726,38 +11283,6 @@
         "date_updated": 1762473160,
         "date_posted": 1762473160,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Software-Engineer-Intern_R160473",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bloom Energy",
-        "id": "c711b3d1-7380-4fcf-b22a-07af6189aed2",
-        "title": "Systems Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762533006,
-        "date_posted": 1762533006,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Systems-Engineering-Intern_JR-20849",
         "locations": [
             "San Jose, CA"
         ],
@@ -20563,6 +20088,41 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "ASM Global",
+        "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
+        "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770076969,
+        "date_posted": 1770076969,
+        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "b9ac7d46-55c1-43e2-bf7a-da0b1caf36da",
         "title": "Research Intern - Agentic Programming",
@@ -28152,41 +27712,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "ASM Global",
-        "id": "6e140634-2528-4d97-8807-fb3ea4f79246",
-        "title": "Hospitality and Merchandise Insights Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772582052,
-        "date_posted": 1772582052,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Hospitality-and-Merchandise-Insights-Intern_R100120706",
-        "locations": [
-            "Frisco, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Frisco, TX",
-                "normalized": {
-                    "city": "Frisco",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
         "active": true,
@@ -34672,180 +34197,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Walter P Moore",
-        "id": "31afeca5-aed1-41e2-8a74-fc90d0460fd2",
-        "title": "Software Developer Intern - Structural",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773785387,
-        "date_posted": 1773785387,
-        "url": "https://careers-walterpmoore.icims.com/jobs/4046/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Las Vegas, NV",
-            "Orlando, FL",
-            "Houston, TX",
-            "El Paso, TX",
-            "Austin, TX",
-            "Miami, FL",
-            "Dallas, TX",
-            "Charlotte, NC",
-            "Kansas City, MO",
-            "Oklahoma City, OK",
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Las Vegas, NV",
-                "normalized": {
-                    "city": "Las Vegas",
-                    "region": "Nevada",
-                    "region_code": "NV",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Orlando, FL",
-                "normalized": {
-                    "city": "Orlando",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "El Paso, TX",
-                "normalized": {
-                    "city": "El Paso",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Miami, FL",
-                "normalized": {
-                    "city": "Miami",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kansas City, MO",
-                "normalized": {
-                    "city": "Kansas City",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Oklahoma City, OK",
-                "normalized": {
-                    "city": "Oklahoma City",
-                    "region": "Oklahoma",
-                    "region_code": "OK",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Glydways",
         "id": "bc0b0cb0-5dd2-40b3-974b-5e864b0bd83d",
@@ -37641,6 +36992,40 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Legal & General",
+        "id": "b847b777-849b-4d09-a54f-f808e130c281",
+        "title": "Intern - Onetech Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774390252,
+        "date_posted": 1774390252,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000116439177",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Brighton, UK",
+                "normalized": {
+                    "city": "Brighton",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Benjamin Moore",
         "id": "954bf559-e653-4514-9c61-291ac32ab883",
@@ -39716,40 +39101,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Legal & General",
-        "id": "ebe93664-526d-4016-aa66-93329c38fc1e",
-        "title": "Intern Onetech Services",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774667423,
-        "date_posted": 1774649036,
-        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000117360110",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Brighton, UK",
-                "normalized": {
-                    "city": "Brighton",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -52569,40 +51920,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "ReCor Medical",
-        "id": "a38c1ff4-42dd-4ff0-95fa-b0e247d80a25",
-        "title": "R&D Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776463741,
-        "date_posted": 1776463643,
-        "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/RecorExternal/job/Palo-Alto/R-D-Intern_R11867",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Podium",
         "id": "5d6d4568-2c8c-4be0-a066-c941e9e81638",
@@ -52973,40 +52290,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "ENOVIS",
-        "id": "b83032ad-683d-4476-b644-dbf6ef1f71dd",
-        "title": "Product Development Co-Op",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776521521,
-        "date_posted": 1776521414,
-        "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Georgia-Atlanta/Product-Development-Co-Op_R0031502",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -61205,40 +60488,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Fiserv",
-        "id": "fc651953-d702-4bd5-a377-6d9ab06ed529",
-        "title": "Intern - Data Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1777471913,
-        "date_posted": 1777471533,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Alpharetta, GA",
-                "normalized": {
-                    "city": "Alpharetta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Radiance Technologies",
         "id": "4ea864bb-3669-4168-97a4-339ed2f4584b",
@@ -65213,40 +64462,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Fiserv",
-        "id": "300adb5c-9de8-407e-a4c9-b38bc4c62aa8",
-        "title": "Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1777674057,
-        "date_posted": 1777673235,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10390263",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Alpharetta, GA",
-                "normalized": {
-                    "city": "Alpharetta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Assurant",
         "id": "567343bb-16d7-4d9d-9b61-18ca665f8a16",
@@ -65765,6 +64980,234 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772752449,
+        "date_posted": 1772752449,
+        "url": "https://www.metacareers.com/jobs/779670167783218",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Redmond, WA",
+                "normalized": {
+                    "city": "Redmond",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "81bdf7c2-436c-4cda-99e3-12b63b16ab1b",
+        "title": "Brainbox AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777702367,
+        "date_posted": 1777702022,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-3820",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Montreal, QC, Canada",
+                "normalized": {
+                    "city": "Montréal",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "74545956-3994-49de-a78c-00523b0deccd",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777731084,
+        "date_posted": 1777730786,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10390246",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Alpharetta, GA",
+                "normalized": {
+                    "city": "Alpharetta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "KION Group",
+        "id": "b42a45f1-7811-4fcf-8999-e99d8e2b8a6d",
+        "title": "RLS Intern - Technical Information & Documentation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777716181,
+        "date_posted": 1777715304,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RLS-Intern---Technical-Information---Documentation_JR-0088330-1",
+        "locations": [
+            "Grand Rapids, MI",
+            "Holland, MI"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Grand Rapids, MI",
+                "normalized": {
+                    "city": "Grand Rapids",
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Holland, MI",
+                "normalized": {
+                    "city": "Holland",
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Marshall Wace",
+        "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
+        "title": "Technology Intern - London - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1762535206,
+        "date_posted": 1762535206,
+        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7998360002",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Seven Research",
+        "id": "7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
+        "title": "Core Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1762906006,
+        "date_posted": 1762534909,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -67629,40 +67072,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Atomic Semi",
-        "id": "8273dd4e-b31d-493a-9d57-963229920587",
-        "title": "Packaging Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774910701,
-        "date_posted": 1774908509,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Commonwealth of Massachusetts",
         "id": "7cdd37f1-e2c4-47fa-bb47-a25afda55193",
@@ -68496,177 +67905,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "02cbd3c8-3951-45a7-be4b-34ae152828c1",
-        "title": "Distribution & Geospatial Intelligence Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776061994,
-        "date_posted": 1776060463,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Distribution---Geospatial-Intelligence-Intern-Co-op--FALL-2026-_R_1482578",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "22871a29-e77a-4908-ac2b-4ce135fbd3dd",
-        "title": "AI2 Applied Machine Learning Scientist Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776062168,
-        "date_posted": 1776060464,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op-Intern_R_1482685",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "21653ce1-3a9d-477e-91b4-2a052d25c013",
-        "title": "AI2 Data Science Co-op/Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776061456,
-        "date_posted": 1776060463,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op-Intern--FALL-2026-_R_1482876",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "9bc3c495-1a18-43bb-9d53-4a0287fc1efa",
-        "title": "Data Analytics & Insights Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776061456,
-        "date_posted": 1776060463,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--FALL-2026-_R_1480700",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Montreal, QC, Canada",
-                "normalized": {
-                    "city": "Montréal",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "577756ad-9d10-49f6-ac97-e0b741914a7c",
-        "title": "Risk Management – Market Risk and Collateral Risk Analytics Intern/Co-op - Prime Brokerage",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776061456,
-        "date_posted": 1776060464,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Prime-Brokerage---Market-Risk-and-Collateral-Risk-Analytics-Intern-Co-op--Fall-2026-_R_1481288",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Quantitative Finance",
         "company_name": "Mackenzie Investments",
         "id": "79c1b9a2-339b-4d21-9e3c-5d6f4147b346",
@@ -68827,138 +68065,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "62824500-d17a-4721-9a22-aa9f70ff2c5a",
-        "title": "Data Analyst Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776120499,
-        "date_posted": 1776118168,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op--Fall-2026-_R_1481063",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "83be449d-42b6-4426-87a9-0ddfe75bd7c2",
-        "title": "Mobile Software Engineer Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776120499,
-        "date_posted": 1776118169,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op--Fall-2026-_R_1481070",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "522905df-a586-4d0f-9c44-2e74816645e2",
-        "title": "Business System Analyst Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776120499,
-        "date_posted": 1776118173,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-System-Analyst-Intern-Co-op--Fall-2026-_R_1481052",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "3dc3c73a-435f-4a7d-a2d1-1aa77cf95cef",
-        "title": "Data Engineer Intern/Co-op - Fall 2026",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776120499,
-        "date_posted": 1776118168,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -69424,42 +68530,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "b9203510-e6bb-4d7f-b6bf-66326b443e60",
-        "title": "P&L Strategy Small Business Banking Deposits Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776524221,
-        "date_posted": 1776523665,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
         ]
     },
     {
@@ -70142,6 +69212,38 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "dddcae61-dcb5-491f-95fe-c6fd1920bbcf",
+        "title": "Advertising & Partnerships Ad Products Intern - Academic Year",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776723655,
+        "date_posted": 1776723351,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121824347",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "82d96a08-e59e-4f51-9e70-54d3f74e23c2",
         "title": "Global Risk Analytics Intern - Grm - 4 Months",
@@ -70273,40 +69375,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "17d36189-4cc7-46b5-8114-122c65893c2f",
-        "title": "Advertising & Partnerships Ad Products Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776896488,
-        "date_posted": 1776895469,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000122300559",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -71187,40 +70255,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "2b354703-72cd-4ac5-a744-601e43b54c0e",
-        "title": "Business Insights & Analytics Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777331325,
-        "date_posted": 1777327785,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Fall-2026_R_1482668",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Product",
@@ -74312,402 +73346,6 @@
                     "city": "Lexington",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "SPS Commerce",
-        "id": "05e8ae04-19d2-404a-a7a0-ec625c9d3eb8",
-        "title": "Software Engineer Intern (Talent Pool)",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756983017,
-        "date_posted": 1756983017,
-        "url": "https://careers-spscommerce.icims.com/jobs/9785/software-engineer-intern-%28talent-pool%29/job",
-        "locations": [
-            "Rogers, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rogers, AR",
-                "normalized": {
-                    "city": "Rogers",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "SPS Commerce",
-        "id": "0937c192-2e78-4411-b091-509574071974",
-        "title": "Software Engineer Intern (Talent Pool)",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756983081,
-        "date_posted": 1756983081,
-        "url": "https://careers-spscommerce.icims.com/jobs/9793/software-engineer-intern-%28talent-pool%29/job",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Minneapolis, MN",
-                "normalized": {
-                    "city": "Minneapolis",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware Engineering",
-        "company_name": "RTX",
-        "id": "fb9eb52e-0a30-41e7-8e6b-c3173d305b14",
-        "title": "EACS SDE Project Engineer Co-Op",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757385793,
-        "date_posted": 1756983177,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/01-Building-01-Windsor-Locks-One-Hamilton-Road-Windsor-Locks-CT-06096-USA/EACS-SDE-Project-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01787837",
-        "locations": [
-            "Windsor Locks, CT,"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Windsor Locks, CT,",
-                "normalized": {
-                    "city": "Windsor Locks",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "GDIT",
-        "id": "c5f1deea-00cf-45df-b85c-3fd7093b6af1",
-        "title": "TSS Software Tester Associate",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757018239,
-        "date_posted": 1756983421,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/TSS-Software-Tester-Associate--Intern-_RQ204605",
-        "locations": [
-            "Bossier City, LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bossier City, LA",
-                "normalized": {
-                    "city": "Bossier City",
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Visier",
-        "id": "1772edc4-93ba-4b69-893a-5ec2088d6d3b",
-        "title": "Software Developer Co-op",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757543352,
-        "date_posted": 1756983632,
-        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597539006",
-        "locations": [
-            "Vancouver, BC, CAN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, CAN",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Simon",
-        "id": "8cba827f-02a4-4568-b791-4a358257354a",
-        "title": "Software Quality Assurance",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756983909,
-        "date_posted": 1756983909,
-        "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Indianapolis, IN",
-                "normalized": {
-                    "city": "Indianapolis",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Simon",
-        "id": "76801775-843c-4789-9b6a-50aa08de2593",
-        "title": "Azure Cloud Administration",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756983979,
-        "date_posted": 1756983979,
-        "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Azure-Cloud-Administration_R12531",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Indianapolis, IN",
-                "normalized": {
-                    "city": "Indianapolis",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "RTX",
-        "id": "f7c3d1e6-1b8f-4c0f-91df-68ade7145971",
-        "title": "Software Engineering Co-Op (Onsite)",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1757118871,
-        "date_posted": 1756984194,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "RTX",
-        "id": "d90b7631-08b3-4e14-8cb1-1d6b360c9796",
-        "title": "Software Engineer Co-Op (Hybrid)",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1757118840,
-        "date_posted": 1756984246,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800",
-        "locations": [
-            "Burnsville, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Burnsville, MN",
-                "normalized": {
-                    "city": "Burnsville",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "RTX",
-        "id": "d9ad917e-3721-4e6a-9523-942fc4fac6c3",
-        "title": "Software Engineer Co-Op (Hybrid)",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1757118821,
-        "date_posted": 1756984285,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HFL34-Melbourne-FL-1100-W-Hibiscus-Blvd---Melbourne-FL-32902-2704-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789464",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Melbourne, FL",
-                "normalized": {
-                    "city": "Melbourne",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "RTX",
-        "id": "c1b07ddb-3979-478d-aa31-022bf7adc344",
-        "title": "Software Engineering Co-op (Onsite)",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757118805,
-        "date_posted": 1756985132,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-op--Summer-Fall-2026---Onsite-_01786576",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -79530,40 +78168,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
-        "title": "Student Researcher - Multimedia Streaming - 2026 Start','PhD",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762936926,
-        "date_posted": 1756958612,
-        "url": "https://jobs.bytedance.com/en/position/7538291329349699848/detail",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Worthington Enterprises",
         "id": "07f0b64d-9f41-4de1-950e-c2650e36de84",
@@ -81951,39 +80555,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "e511c18e-efc8-4196-98dc-e57fa077378f",
-        "title": "CAE Tech Program Intern",
-        "active": true,
-        "terms": [
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1772150277,
-        "date_posted": 1772150277,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Programme-CAE-Tech---prends-un-envol-dans-ta-carrire---Stage-et-bourse-d-tudes_120714",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Montreal, QC, Canada",
-                "normalized": {
-                    "city": "Montréal",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "USM Business Systems",
         "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
@@ -83622,38 +82193,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
-        "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
-        "title": "Part-Time Laboratory Assistants - Department of Statistics",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773494569,
-        "date_posted": 1773494569,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Laboratory-Assistants---Department-of-Statistics_REQ_0000067627-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "State College, PA",
-                "normalized": {
-                    "city": "State College",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
         "id": "a29766ff-554e-4aea-82d5-a2a52d9a3c9c",
         "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
         "active": true,
@@ -84065,74 +82604,6 @@
     },
     {
         "category": "Software",
-        "company_name": "ibotta",
-        "id": "9133affe-9aa6-4c01-9783-234f08b17075",
-        "title": "AI Fellow – Executive Enablement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773872917,
-        "date_posted": 1773872917,
-        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Hybrid---Denver/AI-Fellow--Executive-Enablement_R-102393-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Denver, CO",
-                "normalized": {
-                    "city": "Denver",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Ibility",
-        "id": "bb4618a1-bc16-44a6-8b65-98acd7119b4a",
-        "title": "Data Analytics Associate Fellowship",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773872293,
-        "date_posted": 1773872293,
-        "url": "https://jobs.lever.co/ibility/6f8a570f-e65f-47ca-88c3-ed5c7e7e5f5b/apply",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Columbus, OH",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "MillerKnoll",
         "id": "72adadb7-0c85-4517-8147-53461b2ad8c7",
         "title": "Product Engineer",
@@ -84443,39 +82914,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "DotDash Meredith",
-        "id": "990b1f6e-49ed-4eb6-9175-1e02a3311a18",
-        "title": "Enterprise Solutions Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1773700340,
-        "date_posted": 1773700340,
-        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Des-Moines-IA---1716-Locust-Street/Enterprise-Solutions-Apprentice_JR15309",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Des Moines, IA",
-                "normalized": {
-                    "city": "Des Moines",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -86609,6 +85047,39 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "ad98b9f4-a874-4a23-aaea-636856dbd774",
+        "title": "VALOR Apprenticeship",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775083861,
+        "date_posted": 1775081382,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/VALOR-Apprenticeship_R_009428",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Batavia, IL",
+                "normalized": {
+                    "city": "Batavia",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "X Development",
         "id": "6cd096ef-09c5-46de-958f-ae4dffbabfa9",
@@ -87316,40 +85787,6 @@
                     "city": "Cambridge",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "24c3cf5f-3449-4969-9036-a9b2b1f4b390",
-        "title": "Test Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1775517136,
-        "date_posted": 1775513328,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Test-Engineers--All-Levels---A-and-B-Shifts-_R62939",
-        "locations": [
-            "Florida"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Florida",
-                "normalized": {
-                    "city": null,
-                    "region": "Florida",
-                    "region_code": "FL",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -88246,43 +86683,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Rolls-Royce Motorcars",
-        "id": "2387d52d-3b82-4845-8f30-140ceb142aef",
-        "title": "Intern – Computer Science Emissions Lab",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1775785156,
-        "date_posted": 1775783280,
-        "url": "https://jobs.bmwgroup.com/job/Oxnard-Intern,-Computer-Science-Emissions-Lab-Cali/1382441833/?ats=successfactors",
-        "locations": [
-            "Oxnard, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oxnard, CA",
-                "normalized": {
-                    "city": "Oxnard",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -93453,5 +91853,37 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Yai",
+        "id": "dd135531-edab-4cc4-8f7e-ec2d1c3133d2",
+        "title": "Tech Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777715376,
+        "date_posted": 1777714282,
+        "url": "https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Tech-Fellowship_R024506",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Union City, NJ",
+                "normalized": {
+                    "city": "Union City",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
