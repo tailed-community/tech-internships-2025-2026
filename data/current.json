@@ -1,605 +1,5 @@
 [
     {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Waymo",
-        "id": "add4fbf3-06cc-4e78-bfab-b9f5a0cfe5ff",
-        "title": "Machine Learning Infra Foundations",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757728060,
-        "date_posted": 1757668261,
-        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware Engineering",
-        "company_name": "TEL",
-        "id": "58a4cdf2-22a1-44e4-a3ef-d289e65ef3fd",
-        "title": "Research Scientist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759960548,
-        "date_posted": 1757668636,
-        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-MET-15/Clean-Track-Internship_R25-01136",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "56f3d864-9b3a-4ac0-9156-467c0dab8b75",
-        "title": "Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757688557,
-        "date_posted": 1757668810,
-        "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
-        "locations": [
-            "Sparks, NV"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sparks, NV",
-                "normalized": {
-                    "city": "Sparks",
-                    "region": "Nevada",
-                    "region_code": "NV",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "PayPal",
-        "id": "5163fe77-5311-4194-86e9-760a5c9baa79",
-        "title": "Data Science Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758671491,
-        "date_posted": 1757669359,
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "PayPal",
-        "id": "1ce99969-0cbd-4daa-b1ca-5b485711c266",
-        "title": "Machine Learning Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758671466,
-        "date_posted": 1757669417,
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
-        "locations": [
-            "San Jose, CA",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Scottsdale, AZ",
-                "normalized": {
-                    "city": "Scottsdale",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "PayPal",
-        "id": "06d8b793-bf64-4fa7-b976-c755bf197c18",
-        "title": "Machine Learning Engineer PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759960532,
-        "date_posted": 1757669468,
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Crum & Forster",
-        "id": "5dcd80d3-70c6-4201-a0a9-a886d7890db6",
-        "title": "Data Science Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758245148,
-        "date_posted": 1757669787,
-        "url": "https://careers-cfins.icims.com/jobs/4541/data-science-intern--summer-2026---morristown%2c-nj-or-remote/job",
-        "locations": [
-            "Morristown, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Morristown, NJ",
-                "normalized": {
-                    "city": "Morristown",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Boeing",
-        "id": "1ac6c5ba-4ee8-4149-93f3-c12cf32ca105",
-        "title": "Software Engineering Artificial Intelligence Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762295690,
-        "date_posted": 1757670110,
-        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
-        "locations": [
-            "Tukwila, WA",
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tukwila, WA",
-                "normalized": {
-                    "city": "Tukwila",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Badger Meter",
-        "id": "8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757670305,
-        "date_posted": 1757670305,
-        "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Milwaukee, WI",
-                "normalized": {
-                    "city": "Milwaukee",
-                    "region": "Wisconsin",
-                    "region_code": "WI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "TEL",
-        "id": "9ace0799-8b25-44ac-8a21-8f04a7625a4e",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759959674,
-        "date_posted": 1757686963,
-        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Symbotic",
-        "id": "1decf551-33c8-4ca3-8f5e-5274266921e4",
-        "title": "Data Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759960501,
-        "date_posted": 1757687056,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400",
-        "locations": [
-            "Wilmington, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wilmington, MA",
-                "normalized": {
-                    "city": "Wilmington",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Innovative Systems",
-        "id": "82b7337e-4cd0-4fcf-bb39-410bb8c7f212",
-        "title": "Software Engineering Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757688088,
-        "date_posted": 1757688088,
-        "url": "https://career.innovativesystems.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pittsburgh, PA",
-                "normalized": {
-                    "city": "Pittsburgh",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Tenstorrent",
-        "id": "0cac0d03-2600-4339-9746-f86b88e23d15",
-        "title": "ML Application & Benchmarking Intern - Pey",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757987869,
-        "date_posted": 1757721982,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Tenstorrent",
-        "id": "e971a3e2-631b-4ad9-ab78-effc38c864ed",
-        "title": "AI Compiler Software Intern - Pey",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757988534,
-        "date_posted": 1757719483,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "2c1b5956-4d83-4409-b595-31acfc1544f4",
-        "title": "AI SoC Design Verification PEY/Co-Op",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757986233,
-        "date_posted": 1757719486,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Corteva",
-        "id": "5e11867d-a84c-44b8-bc0e-9e59bef86842",
-        "title": "Data Management and Dashboard Development Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757987670,
-        "date_posted": 1757701685,
-        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Grimes-Iowa-United-States/Data-Management-and-Dashboard-Development-Intern_243176W-1",
-        "locations": [
-            "Grimes, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Grimes, IA",
-                "normalized": {
-                    "city": "Grimes",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Quantitative Finance",
         "company_name": "Citi",
         "id": "34ee784a-7101-4d4b-a6a2-25e71d0d1ca7",
@@ -3833,40 +3233,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Handshake",
-        "id": "4e8048ad-35df-40eb-b0ed-4c5ca981577a",
-        "title": "Handshake AI Research Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759467518,
-        "date_posted": 1759467518,
-        "url": "https://jobs.ashbyhq.com/handshake/f01f09ac-4b94-4de0-bbef-e1892df4e0cb/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -8789,38 +8155,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d",
-        "title": "Online Architecture Research Intern - Tiktok-Generalized Arch - 2026 Start - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757720837,
-        "date_posted": 1757720837,
-        "url": "https://lifeattiktok.com/search/7549086862464338184",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Data Science, AI & Machine Learning",
         "company_name": "Lambda",
         "id": "a98da37d-f2b8-42b4-ada2-c3015f537130",
@@ -9524,80 +8858,6 @@
                     "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bose",
-        "id": "91a3eeda-740c-4b59-bca5-68add880e2d4",
-        "title": "Audio Machine Learning Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762619583,
-        "date_posted": 1762619583,
-        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern_R28343",
-        "locations": [
-            "London, UK",
-            "Remote in USA",
-            "Framingham, MA",
-            "Stuttgart, Germany"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Framingham, MA",
-                "normalized": {
-                    "city": "Framingham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Stuttgart, Germany",
-                "normalized": {
-                    "city": "Stuttgart",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Germany",
-                    "country_code": "DE"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -30360,38 +29620,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Dallas College",
-        "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
-        "title": "SAS Intern-2",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774391312,
-        "date_posted": 1774391312,
-        "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus/SAS-Intern-2_R12311",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "DXC Technology",
         "id": "33908a17-2891-4c4b-a158-f90a9a18b38b",
         "title": "DXC Academic Programme – Modern Apprenticeship in Data & AI",
@@ -37928,38 +37156,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Prairie View A&M University",
-        "id": "11041930-9a70-4c9f-9146-70f98f4e4af0",
-        "title": "Student Hourly Assistant – Intern - Data Analysis",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775859096,
-        "date_posted": 1775858549,
-        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Student-Hourly-Assistant---Summer-Intern--Data-Analysis-_R-092347",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Prairie View, TX",
-                "normalized": {
-                    "city": "Prairie View",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Hootsuite",
         "id": "c5dae835-0ecf-41cd-9854-1f9ec35b7678",
@@ -42749,40 +41945,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "c364d77b-5711-4f3e-907d-2cee94f2fa7f",
-        "title": "Student Intern - Data Analysis",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776723597,
-        "date_posted": 1776723274,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Student-Summer-Intern---CREDIT-Center---Data-Analysis_R-092347",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Prairie View, TX",
-                "normalized": {
-                    "city": "Prairie View",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Nightwing Intelligence Solutions",
         "id": "d8a3bfc5-0098-485b-921d-5f013db0c28a",
@@ -44227,38 +43389,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Nerdio",
-        "id": "6b3da4fe-a36f-4c1f-b505-e0865dfae401",
-        "title": "People Operations & Analytics Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776982945,
-        "date_posted": 1776982116,
-        "url": "https://ats.rippling.com/nerdio-careers/jobs/ee6d6694-544b-48f8-84fe-c1ddf1fcb1c4",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Product",
         "company_name": "Achievers",
         "id": "cfd1a252-ba4a-4ba4-a667-03218509f6ae",
@@ -44746,38 +43876,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Magna",
-        "id": "2b9c7f6c-b77f-444c-9d11-e362925f21a3",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1777069110,
-        "date_posted": 1777068501,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Auburn Hills, MI",
-                "normalized": {
-                    "city": "Auburn Hills",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -47669,40 +46767,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Cisco",
-        "id": "36f9e93a-2c67-43f9-97cc-7f70408fcab5",
-        "title": "Associate Application Engineer 2 Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1777501508,
-        "date_posted": 1777500546,
-        "url": "https://careers.cisco.com/global/en/job/2011705",
-        "locations": [
-            "Acton, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Acton, MA",
-                "normalized": {
-                    "city": "Acton",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -50914,38 +49978,6 @@
                     "city": "Springdale",
                     "region": "Arkansas",
                     "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "2d421d61-207f-4bd9-8e65-78346e199d36",
-        "title": "Yard Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1777932587,
-        "date_posted": 1777932342,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -55502,41 +54534,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Inogen",
-        "id": "0eddac6b-5d39-4ced-8476-93bd5de73445",
-        "title": "IT Mobile and Web Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1778278861,
-        "date_posted": 1778278105,
-        "url": "https://jobs.jobvite.com/inogen/job/oTz6zfwR?nl=1&nl=1&fr=false",
-        "locations": [
-            "Plano, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Plano, TX",
-                "normalized": {
-                    "city": "Plano",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "021d12d5-64ed-4980-8b3f-4f30d00f6b0b",
@@ -55991,6 +54988,40 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Acceldata",
+        "id": "8c643851-d7eb-41d5-9c08-aa99ae659141",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778306941,
+        "date_posted": 1778306803,
+        "url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Kitchener, ON, Canada",
+                "normalized": {
+                    "city": "Kitchener",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Apogee Engineering",
         "id": "3e3e154a-25c3-4c32-871a-97285b991892",
@@ -56162,6 +55193,142 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "DiDi Global",
+        "id": "59ce8bbc-ad44-476f-912b-d67774291a4b",
+        "title": "Software Engineer Intern - Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778220779,
+        "date_posted": 1778220534,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/7906174",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tenstorrent",
+        "id": "e971a3e2-631b-4ad9-ab78-effc38c864ed",
+        "title": "AI Compiler Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773181383,
+        "date_posted": 1773181383,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d",
+        "title": "Online Architecture Research Intern - TikTok Generalized Arch - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776076395,
+        "date_posted": 1776071493,
+        "url": "https://lifeattiktok.com/search/7549086862464338184",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "0cac0d03-2600-4339-9746-f86b88e23d15",
+        "title": "Machine Learning Applications & Benchmarking Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777331701,
+        "date_posted": 1773267881,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Data Science, AI & Machine Learning",
@@ -63378,41 +62545,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "540fe419-60b5-4713-9e65-7b37ac045a13",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777933205,
-        "date_posted": 1777932420,
-        "url": "https://university-uber.icims.com/jobs/159161/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Geotab",
         "id": "c3a7ff86-c368-460c-93a2-751b00392ebe",
@@ -66105,6 +65237,41 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Arlington County VA",
+        "id": "246f708a-1831-42ca-8aaa-ec29b6c3dd90",
+        "title": "Engineering Data Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778220541,
+        "date_posted": 1778220465,
+        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1477",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
@@ -66277,40 +65444,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Grant Thornton",
-        "id": "c1f63331-714b-42b1-acb2-0872f20ab6d4",
-        "title": "Tax Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1757648269,
-        "date_posted": 1757648269,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113322",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -67070,265 +66203,6 @@
                     "city": "Lexington",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Waters",
-        "id": "cd45947c-5ef1-4092-a82a-320d70cf26bf",
-        "title": "Research Machine Learning Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1762296801,
-        "date_posted": 1757668457,
-        "url": "https://uscareers-waters.icims.com/jobs/24104/2025-24104/job",
-        "locations": [
-            "Milford, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Milford, MA",
-                "normalized": {
-                    "city": "Milford",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Nova-Tech",
-        "id": "3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d",
-        "title": "AI Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1757669556,
-        "date_posted": 1757669556,
-        "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
-        "locations": [
-            "Willmar, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Willmar, MN",
-                "normalized": {
-                    "city": "Willmar",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Analytical Mechanics Associates",
-        "id": "6b21a1be-9446-4515-ad8e-73b4a1e4d6e2",
-        "title": "Computer Vision Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1757728017,
-        "date_posted": 1757670203,
-        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote/Computer-Vision-Intern_R-100394",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Red Hat",
-        "id": "f052086b-4d54-41d7-b56a-e9448b160796",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1757687164,
-        "date_posted": 1757687164,
-        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Perpay",
-        "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
-        "title": "Software Engineering Internship",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757687241,
-        "date_posted": 1757687241,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Fidelity",
-        "id": "2d159bf8-87cd-456d-85cb-5526b720a5bd",
-        "title": "Co-op, Software Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1757687763,
-        "date_posted": 1757687763,
-        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Diversified Automation",
-        "id": "de375e90-8b50-4d6e-a96a-b01d395c6859",
-        "title": "Software Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1760136040,
-        "date_posted": 1757687837,
-        "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Louisville, KY",
-                "normalized": {
-                    "city": "Louisville",
-                    "region": "Kentucky",
-                    "region_code": "KY",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -84434,6 +83308,43 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "bc8e3ee2-cfc6-454b-9edd-5947ef51886b",
+        "title": "Data Science & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134254,
+        "date_posted": 1778134063,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Science---Analytics-Co-op_R436444",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "Comcast",
         "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
@@ -85711,6 +84622,86 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Perpay",
+        "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1773441272,
+        "date_posted": 1769210833,
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "2c1b5956-4d83-4409-b595-31acfc1544f4",
+        "title": "Design Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775774674,
+        "date_posted": 1775772398,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
