@@ -1,376 +1,5 @@
 [
     {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "General Dynamics Information Technology",
-        "id": "8d856b2b-9ffc-4009-9c7c-9667d0ec17a7",
-        "title": "Artificial Intelligence/Machine Learning Associate Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759960177,
-        "date_posted": 1758869877,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate--Internship-_RQ207542",
-        "locations": [
-            "Falls Church, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Falls Church, VA",
-                "normalized": {
-                    "city": "Falls Church",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Ibotta",
-        "id": "27b0add1-31cf-4382-b737-4319ff4975c4",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762295577,
-        "date_posted": 1758870721,
-        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
-        "locations": [
-            "Denver, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Denver, CO",
-                "normalized": {
-                    "city": "Denver",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Dynamics Information Technology",
-        "id": "aa59a34f-5d74-4ddc-8c13-142929e1192e",
-        "title": "Software Developer Automation Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759281822,
-        "date_posted": 1758870850,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
-        "locations": [
-            "Windsor Mill, MD",
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Windsor Mill, MD",
-                "normalized": {
-                    "city": "Windsor Mill",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Waymo",
-        "id": "b2806ffa-26ca-431d-9019-47fe7031e898",
-        "title": "Software Engineering, Commercialization",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761933760,
-        "date_posted": 1758909323,
-        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "d381c6bd-aae3-4481-b414-e02a3f466dc7",
-        "title": "Information Systems Intern - IT - Cybersecurity and Data Science",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917883,
-        "date_posted": 1758917883,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113395",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "c32766cb-c3e6-413b-b430-420d1de6e864",
-        "title": "Artificial Intelligence/Machine Learning Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917877,
-        "date_posted": 1758917877,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113566",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Honeywell",
-        "id": "85224209-4681-4b89-b555-7de22d40f95e",
-        "title": "Offering Management Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917854,
-        "date_posted": 1758917854,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114040",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Honeywell",
-        "id": "80e8418d-11f4-4d3b-b9aa-78b3c85266ed",
-        "title": "Software Engineer Intern - Computer Science",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917883,
-        "date_posted": 1758917883,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113405",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "7ae85f05-9781-42f6-af6a-7e385de578f5",
-        "title": "Artificial Intelligence/Machine Learning Intern - AI - Machine Learning",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917879,
-        "date_posted": 1758917879,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113564",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "b1057d3b-d962-46ca-b247-75df07656361",
-        "title": "Information Systems Intern - IT - Cybersecurity",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758917892,
-        "date_posted": 1758917892,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "TikTok",
         "id": "da8177ab-3b7c-4e72-b74b-3b9be8aa529b",
@@ -7118,52 +6747,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Netflix",
-        "id": "f5f620df-6b2a-4487-8e77-97845329f048",
-        "title": "Analytics Engineer Intern - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764630467,
-        "date_posted": 1764630467,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313055767",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Los Gatos, CA",
-                "normalized": {
-                    "city": "Los Gatos",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
         "id": "f547d7cd-7936-4dc6-ba32-4e7e531e8e1b",
         "title": "Data Visualization Engineering Intern - Summer 2026",
         "active": true,
@@ -7242,84 +6825,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Netflix",
-        "id": "accebcd7-6b51-4a70-8f9e-3a082565ac5f",
-        "title": "Analytics Engineering Intern - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764630707,
-        "date_posted": 1764630707,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313056024",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Los Gatos, CA",
-                "normalized": {
-                    "city": "Los Gatos",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "83f27dbe-c984-481f-abb5-62e3c931c6d5",
-        "title": "Video Algorithms Intern - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764630472,
-        "date_posted": 1764630472,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Los Gatos, CA",
-                "normalized": {
-                    "city": "Los Gatos",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
         "id": "7c67ea67-fc04-4e5e-bc89-72d78dc43e5c",
         "title": "Experimentation & Causal Inference Intern - Summer 2026",
         "active": true,
@@ -7329,52 +6834,6 @@
         "date_updated": 1764630478,
         "date_posted": 1764630478,
         "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Los Gatos, CA",
-                "normalized": {
-                    "city": "Los Gatos",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "58faa154-38a2-4ac3-95e8-5dcb767761f1",
-        "title": "Data Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764630468,
-        "date_posted": 1764630468,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313056337",
         "locations": [
             "LA",
             "Los Gatos, CA"
@@ -13546,41 +13005,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Astera Labs",
-        "id": "18021e71-6bb2-46a3-bcf2-55e4e3b50c5b",
-        "title": "AI/ML Intern Silicon Development Automation",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770345194,
-        "date_posted": 1770345194,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "Product",
@@ -23600,40 +23024,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
-        "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762928955,
-        "date_posted": 1758896809,
-        "url": "https://lifeattiktok.com/search/7527582397938223367",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "cf6d4667-2bf8-45b8-a0be-37b953800bc3",
         "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
         "active": true,
@@ -31548,6 +30938,727 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "0718fecc-0b61-46aa-a33c-44fa02cce82a",
+        "title": "Business Data Analytics Intern - Channel Coverage",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777356740,
+        "date_posted": 1777356420,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Texas",
+            "Montana",
+            "Jackson Township, NJ",
+            "Sparks, MD",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Hawaii, United States",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Idaho"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "New Mexico",
+                "normalized": {
+                    "city": null,
+                    "region": "New Mexico",
+                    "region_code": "NM",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Washington",
+                "normalized": {
+                    "city": null,
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Kansas",
+                "normalized": {
+                    "city": null,
+                    "region": "Kansas",
+                    "region_code": "KS",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Pennsylvania",
+                "normalized": {
+                    "city": null,
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "North Dakota",
+                "normalized": {
+                    "city": null,
+                    "region": "North Dakota",
+                    "region_code": "ND",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Oregon",
+                "normalized": {
+                    "city": null,
+                    "region": "Oregon",
+                    "region_code": "OR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Delaware",
+                "normalized": {
+                    "city": null,
+                    "region": "Delaware",
+                    "region_code": "DE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Iowa",
+                "normalized": {
+                    "city": null,
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "California",
+                "normalized": {
+                    "city": null,
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Vermont",
+                "normalized": {
+                    "city": null,
+                    "region": "Vermont",
+                    "region_code": "VT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Wyoming",
+                "normalized": {
+                    "city": null,
+                    "region": "Wyoming",
+                    "region_code": "WY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Texas",
+                "normalized": {
+                    "city": null,
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Montana",
+                "normalized": {
+                    "city": null,
+                    "region": "Montana",
+                    "region_code": "MT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Jackson Township, NJ",
+                "normalized": {
+                    "city": "Jackson Township",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Sparks, MD",
+                "normalized": {
+                    "city": "Sparks",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Florida",
+                "normalized": {
+                    "city": null,
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Waterbury, CT",
+                "normalized": {
+                    "city": "Waterbury",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Nevada",
+                "normalized": {
+                    "city": null,
+                    "region": "Nevada",
+                    "region_code": "NV",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "South Carolina",
+                "normalized": {
+                    "city": null,
+                    "region": "South Carolina",
+                    "region_code": "SC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "South Dakota",
+                "normalized": {
+                    "city": null,
+                    "region": "South Dakota",
+                    "region_code": "SD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Georgia",
+                "normalized": {
+                    "city": null,
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Concord, NH",
+                "normalized": {
+                    "city": "Concord",
+                    "region": "New Hampshire",
+                    "region_code": "NH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Mississippi",
+                "normalized": {
+                    "city": null,
+                    "region": "Mississippi",
+                    "region_code": "MS",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Tennessee",
+                "normalized": {
+                    "city": null,
+                    "region": "Tennessee",
+                    "region_code": "TN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Virginia",
+                "normalized": {
+                    "city": null,
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arkansas",
+                "normalized": {
+                    "city": null,
+                    "region": "Arkansas",
+                    "region_code": "AR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Minnesota",
+                "normalized": {
+                    "city": null,
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Colorado",
+                "normalized": {
+                    "city": null,
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Nebraska",
+                "normalized": {
+                    "city": null,
+                    "region": "Nebraska",
+                    "region_code": "NE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Rhode Island",
+                "normalized": {
+                    "city": null,
+                    "region": "Rhode Island",
+                    "region_code": "RI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Utah",
+                "normalized": {
+                    "city": null,
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hawaii, United States",
+                "normalized": {
+                    "city": "Hawaii",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Kentucky",
+                "normalized": {
+                    "city": null,
+                    "region": "Kentucky",
+                    "region_code": "KY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "West Virginia",
+                "normalized": {
+                    "city": null,
+                    "region": "West Virginia",
+                    "region_code": "WV",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Maryland",
+                "normalized": {
+                    "city": null,
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Wisconsin",
+                "normalized": {
+                    "city": null,
+                    "region": "Wisconsin",
+                    "region_code": "WI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Maine",
+                "normalized": {
+                    "city": null,
+                    "region": "Maine",
+                    "region_code": "ME",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Massachusetts",
+                "normalized": {
+                    "city": null,
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "North Carolina",
+                "normalized": {
+                    "city": null,
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Oklahoma",
+                "normalized": {
+                    "city": null,
+                    "region": "Oklahoma",
+                    "region_code": "OK",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Missouri",
+                "normalized": {
+                    "city": null,
+                    "region": "Missouri",
+                    "region_code": "MO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Ohio",
+                "normalized": {
+                    "city": null,
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Indiana",
+                "normalized": {
+                    "city": null,
+                    "region": "Indiana",
+                    "region_code": "IN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Louisiana",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Alaska",
+                "normalized": {
+                    "city": null,
+                    "region": "Alaska",
+                    "region_code": "AK",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Michigan",
+                "normalized": {
+                    "city": null,
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Illinois",
+                "normalized": {
+                    "city": null,
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Idaho",
+                "normalized": {
+                    "city": null,
+                    "region": "Idaho",
+                    "region_code": "ID",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Viavi Solutions",
         "id": "1df80739-b3dd-4264-97d8-86069e8ffe99",
         "title": "Wireless Network Lab Intern",
@@ -32120,6 +32231,41 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Visier Solutions",
+        "id": "857991c9-99fb-48c5-be52-7e6b803452fe",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501262,
+        "date_posted": 1777501228,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -44072,40 +44218,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Coupang",
-        "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
-        "title": "AI Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1779354668,
-        "date_posted": 1779354489,
-        "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Menasha Corporation",
         "id": "b2852531-3bff-4d0c-b7fb-6d773bdbfd70",
         "title": "Application Engineer Intern",
@@ -45023,41 +45135,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "270ae587-ddfd-49e2-9d73-01d8c08e9f1b",
-        "title": "Undergraduate Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1779412389,
-        "date_posted": 1779411916,
-        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013265476",
-        "locations": [
-            "Livermore, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Livermore, CA",
-                "normalized": {
-                    "city": "Livermore",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "LegalZoom",
         "id": "cc0fb5d7-0673-4321-879d-82013827307c",
@@ -45784,6 +45861,38 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "PlusAI",
+        "id": "c01e4a39-29a1-4e02-876e-5385672cd56d",
+        "title": "Software Engineer Intern-Runtime - Robotics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779487741,
+        "date_posted": 1779487615,
+        "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "IDeaS",
         "id": "7248ea7b-df82-4a25-b609-c9dba0a0a627",
@@ -46137,6 +46246,38 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
+        "title": "Machine Learning Engineer Intern - Planning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779487741,
+        "date_posted": 1779487608,
+        "url": "https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "PlusAI",
         "id": "66f539a8-7319-483c-b09b-58e75cfaa9d2",
@@ -46335,27 +46476,27 @@
         ]
     },
     {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Ahold Delhaize USA",
-        "id": "0f39d896-7918-4fc9-8a76-aed98d70185e",
-        "title": "Data Engineer (AI) Co-op",
+        "category": "Software",
+        "company_name": "Akima",
+        "id": "d3df7020-9149-488d-895c-513344107bfa",
+        "title": "STEM Intern - Engineering",
         "active": true,
         "terms": [
-            "Fall 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758870458,
-        "date_posted": 1758870458,
-        "url": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Data-Engineer-(AI)-Co-op-Fall-2026/Chicago-IL/ADUSArms/455368_external_USA-IL-Chicago",
+        "date_updated": 1779660716,
+        "date_posted": 1779660411,
+        "url": "https://careers.akima.com/jobs/23452?lang=en-us&icims=1",
         "locations": [
-            "Chicago, IL"
+            "Huntsville, AL"
         ],
         "normalized_locations": [
             {
-                "raw": "Chicago, IL",
+                "raw": "Huntsville, AL",
                 "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
+                    "city": "Huntsville",
+                    "region": "Alabama",
+                    "region_code": "AL",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -52355,6 +52496,40 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "60679bac-5515-49fc-98ad-d00b0cf528dd",
+        "title": "Platform Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134681,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Legal & General",
         "id": "6df25e84-8cea-432d-bf4f-19d3e67752dc",
@@ -54705,124 +54880,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "BDO Canada",
-        "id": "89cd8782-07fb-498b-98cc-0e43e5a50f79",
-        "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778797693,
-        "date_posted": 1778796556,
-        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada",
-            "Calgary, AB, Canada",
-            "Oakville, ON, Canada",
-            "Ottawa, ON, Canada",
-            "Vancouver, BC, Canada",
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Montreal, QC, Canada",
-                "normalized": {
-                    "city": "Montréal",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Halifax Regional Municipality, NS, Canada",
-                "normalized": {
-                    "city": "Halifax Regional Municipality",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "00f44446-ad17-4f48-b8bb-b740cf261ff7",
@@ -56125,143 +56182,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "37ec9b41-6fe7-4b2c-9028-e114bccb9d26",
-        "title": "Software Engineering Co-op - Software Engineer",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779487780,
-        "date_posted": 1779487510,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--12-months-_JR26050847-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "b6e7a492-31ca-4c39-9261-95bfd3ad37e0",
-        "title": "Automation Developer Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779487855,
-        "date_posted": 1779487510,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117-1",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "eb4f0979-b592-4d65-9294-5da409710449",
-        "title": "Data Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779487830,
-        "date_posted": 1779487510,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Fall-Co-op-2026---Data-Engineer_JR26041397-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "5c91b3db-f8de-4aab-b496-a329982d79fc",
-        "title": "Software Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779487878,
-        "date_posted": 1779487510,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--4-Months-_JR26050843-1",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Hitachi",
         "id": "edb32160-a309-48a2-b754-2e3a675b5324",
         "title": "Engineering Knowledge Management Intern",
@@ -56431,6 +56351,38 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
+        "title": "Software Development Co-op/Intern - C++",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779671333,
+        "date_posted": 1779671117,
+        "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -57613,70 +57565,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
-        "title": "Machine Learning Engineer Intern - AI/ML",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758872426,
-        "date_posted": 1758872426,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -69652,6 +69540,42 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
+        "title": "Comcast Product Management Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134065,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Product-Management-Co-op_R435972",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Pennsylvania State University",
         "id": "617b1dea-d159-4e6d-8bb8-683cb44f80cf",
@@ -73801,41 +73725,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "72da790b-22f2-4643-9835-52ef28aafae8",
-        "title": "Artificial Intelligence Co-op - Artificial Intelligence - AI",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1779487903,
-        "date_posted": 1779487511,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Fall-Co-op-2026---Artificial-Intelligence--AI-_JR26050852-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Florida Institute of Technology",
         "id": "763b4ce5-abeb-424a-9719-9e38b8d925de",
@@ -73866,42 +73755,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "55eb01e3-2aac-4b86-8c15-143bef1d5701",
-        "title": "Software Engineer Co-op - Software Engineer",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1779487840,
-        "date_posted": 1779487509,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--8-months-_JR26050849-1",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -74268,6 +74121,70 @@
                     "region_code": "GA",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
+        "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1778949445,
+        "date_posted": 1778941619,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
