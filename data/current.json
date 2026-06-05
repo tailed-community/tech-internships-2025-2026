@@ -1610,6 +1610,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "3dc3c73a-435f-4a7d-a2d1-1aa77cf95cef",
+        "title": "Data Engineer Intern/Co-op - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776120499,
+        "date_posted": 1776118168,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "4fd6ba3f-9427-43af-a0cf-7e424402b95f",
         "title": "Data Science Co-op/Intern",
@@ -2681,40 +2715,6 @@
     {
         "category": "Hardware",
         "company_name": "Lumentum",
-        "id": "5ab3907b-1d94-43bf-a19d-131262db3e60",
-        "title": "Embedded Software Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777615658,
-        "date_posted": 1777615311,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Lumentum",
         "id": "4bd9a6ac-0f18-41dc-aeca-a71407f40f60",
         "title": "Optical Verification Engineer Co-op/Intern",
         "active": true,
@@ -3707,6 +3707,40 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
+        "title": "PhD Research Intern - Security and Privacy",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778721218,
+        "date_posted": 1778721047,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
         ]
     },
     {
@@ -6739,6 +6773,174 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Nasdaq",
+        "id": "c47fb545-d7e3-48a0-a691-5d336b9209e3",
+        "title": "Mitacs Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780582411,
+        "date_posted": 1780582115,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "St. John's, NL, Canada",
+                "normalized": {
+                    "city": "St. John's",
+                    "region": "Newfoundland and Labrador",
+                    "region_code": "NL",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "c774160b-0b65-4dd8-811d-427581f85853",
+        "title": "Sales Effectiveness Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780610761,
+        "date_posted": 1780610759,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Sales-Effectiveness-Analyst-Co-op_2612072",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": " PrizePicks",
+        "id": "c76ee25d-5ff0-45d4-a0d7-2e47a3211ee7",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780612974,
+        "date_posted": 1780611592,
+        "url": "http://prizepicks.com/position?gh_jid=7761731003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "29030f5c-1d32-4193-aada-12312219170c",
+        "title": "Software Platform Designer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780612561,
+        "date_posted": 1780611006,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ancestry",
+        "id": "30968849-8351-4128-a546-cd9bbad4a60c",
+        "title": "Data Science Co-op - AI Document Understanding",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780612244,
+        "date_posted": 1780610823,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Midmark ",
         "id": "4295562e-0da2-4976-804b-5e7986399e5d",
@@ -7476,6 +7678,41 @@
                     "city": "Greenwich",
                     "region": "Connecticut",
                     "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "101c0a59-cfc7-4ef9-bcf8-d70d2a67c4f7",
+        "title": "Electricity + Natural Gas Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1780612305,
+        "date_posted": 1780610869,
+        "url": "https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ardmore, PA",
+                "normalized": {
+                    "city": "Ardmore",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -9593,6 +9830,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
+        "title": "Student Researcher - Seed - LLM Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761912904,
+        "date_posted": 1761912904,
+        "url": "https://jobs.bytedance.com/en/position/7377527065203607834/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Elicit",
         "id": "3defc6e2-42aa-43c9-b5b0-c14abadede78",
         "title": "ML Research Resident",
@@ -11332,6 +11603,41 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7bf6db8c-27ff-4940-b8ef-19a292ee39bd",
+        "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773477881,
+        "date_posted": 1773441116,
+        "url": "https://jobs.bytedance.com/en/position/7614301443042642229/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Brookhaven Lab",
         "id": "74b0fc23-86a8-4370-9262-ee7acb6a7a48",
@@ -12711,6 +13017,524 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
+        "title": "Student Researcher - AI Foundation Model Infrastructure",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
+        "title": "Student Researcher - Large Language Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "77ff658e-cabb-48be-9248-a271f5f898ff",
+        "title": "Student Researcher - AI Foundation Model Infrastructure",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "12c61451-8c62-417c-b97a-6b13f42bc584",
+        "title": "Student Researcher - Vision Foundation Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f1916feb-f156-4153-baa5-e26c75d5ae6f",
+        "title": "Research Scientist in Large Language Model - LLM",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025497,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "e766517d-2d35-42da-a646-5d0b5173939c",
+        "title": "Research Scientist in Speech Foundation Model – Graduates - Seed - PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623545981743286533/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d964cbb0-851e-48b9-97f4-66e970586e9a",
+        "title": "Student Researcher - Multimodal Interaction and World Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
+        "title": "Research Scientist in AI Foundation Model Infrastructure – Graduates",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623550778255165701/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "5ee0c221-6808-401f-9d4e-a8e71f60785b",
+        "title": "Student Researcher - Speech Foundation Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38db92f9-6338-4caa-b797-e738cda127b9",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025901,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
+        "title": "Research Scientist in AI Foundation Model Infrastructure – Graduates - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "079a44ae-b213-4f4c-9088-cc2c48d346b1",
+        "title": "Student Researcher - Large Language Model - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023743,
+        "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "021c42ed-56c5-498d-9c09-5301ad13605f",
+        "title": "Student Researcher - Speech Foundation Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623550540616108293/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "fe92a675-1a53-4b88-a3e3-7e810871610d",
+        "title": "Research Scientist in Vision Foundation Model – Graduates",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023744,
+        "url": "https://jobs.bytedance.com/en/position/7623543228228536581/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d1de5351-a1c6-4497-bcfd-241a21eab0c3",
+        "title": "Student Researcher - Vision Foundation Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775025181,
+        "date_posted": 1775023747,
+        "url": "https://jobs.bytedance.com/en/position/7623544831999346997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "1f07093f-af2d-4820-8147-f6ea26602897",
@@ -12831,29 +13655,29 @@
     },
     {
         "category": "Software",
-        "company_name": "TikTok",
-        "id": "5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
-        "title": "Software Engineer Intern - Global CRM - 2026 Start",
+        "company_name": "State Street",
+        "id": "79df159a-9a93-4a85-aa72-655840ce307e",
+        "title": "Software Engineer Intern - Intern",
         "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1761902307,
-        "date_posted": 1761902307,
-        "url": "https://lifeattiktok.com/search/7532247736243865864",
+        "date_updated": 1775515501,
+        "date_posted": 1775513330,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
         "locations": [
-            "San Jose, CA"
+            "Burlington, MA"
         ],
         "normalized_locations": [
             {
-                "raw": "San Jose, CA",
+                "raw": "Burlington, MA",
                 "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
+                    "city": "Burlington",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -12861,45 +13685,7 @@
             }
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "88555f6b-33eb-4733-806f-c08b51e7fb9e",
-        "title": "Machine Learning Engineer Intern - Monetization GenAI - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761902300,
-        "date_posted": 1761902300,
-        "url": "https://lifeattiktok.com/search/7533770205199386887",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -13319,6 +14105,75 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "de291dac-66b0-4867-84dc-697d2f4f487c",
+        "title": "Student Researcher - Seed Infra-Compiler - PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775870653,
+        "date_posted": 1775869718,
+        "url": "https://jobs.bytedance.com/en/position/7626502798363920693/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "0933265f-9c29-4dbd-b67d-a804773304d6",
+        "title": "Student Researcher - Seed Infra Compiler",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775870653,
+        "date_posted": 1775869716,
+        "url": "https://jobs.bytedance.com/en/position/7626504892836530485/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Nebius",
         "id": "6364799b-c10e-4f4f-8cd0-740fadbce721",
@@ -13603,6 +14458,38 @@
                     "city": null,
                     "region": null,
                     "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "State College, PA",
+                "normalized": {
+                    "city": "State College",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -13900,38 +14787,6 @@
             "Bachelor's",
             "Bootcamp"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies AI",
-        "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
-        "title": "AI Generalist Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776765093,
-        "date_posted": 1768876017,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -15782,40 +16637,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Databricks",
-        "id": "e77fb227-81d0-4b4a-9c67-53f7c2624c26",
-        "title": "AI Engineer - Forward Deployed Engineer - Forward Deployed Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778855041,
-        "date_posted": 1778854882,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=8551531002",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "CIBC",
         "id": "07a39108-ec77-4681-a6c6-06e0a2727b06",
         "title": "Application/Software Developer Co-op - Capital Markets Technology",
@@ -15918,6 +16739,40 @@
         ],
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "University of Arkansas",
+        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
+        "title": "Student Research Assistant-2",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778883497,
+        "date_posted": 1778882672,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pine Bluff, AR",
+                "normalized": {
+                    "city": "Pine Bluff",
+                    "region": "Arkansas",
+                    "region_code": "AR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -17081,38 +17936,6 @@
                     "city": "La Jolla",
                     "region": "San Diego",
                     "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "32e85d49-f2fc-4129-904f-408532ac1f40",
-        "title": "Optical Hardware Lab Technician Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779825025,
-        "date_posted": 1777511345,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35282",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -19100,42 +19923,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Cenovus Energy",
-        "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
-        "title": "Student – Asset Integrity",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780353006,
-        "date_posted": 1780351653,
-        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Asset-Integrity--Calgary--September-2026-_R-410688",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Accenture",
         "id": "8e11b217-af00-44fb-88cd-cb241676e359",
         "title": "Technology Development Program - Artificial Intelligence Analyst",
@@ -19615,38 +20402,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
-        "title": "Graduate Event Data Assistant - Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780390323,
-        "date_posted": 1780351509,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -20567,6 +21322,345 @@
                     "city": "Chandler",
                     "region": "Arizona",
                     "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Chegg",
+        "id": "dc7d0707-9320-4961-ac78-8cc58f20eab9",
+        "title": "Computational Linguist - FTC",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780564681,
+        "date_posted": 1780564537,
+        "url": "https://osv-chegg.wd5.myworkdayjobs.com/Chegg/job/Remote-UK---Busuu/Computational-Linguist---12-month-FTC_R5329-2",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
+        "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610911,
+        "url": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "836b094c-8889-4063-8bb3-2c4a5f202ee9",
+        "title": "Research Intern - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611827,
+        "date_posted": 1780610906,
+        "url": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "14f19965-aa67-424b-92a5-f048cefb3a34",
+        "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610923,
+        "url": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "thyssenkrupp",
+        "id": "5830852c-614b-4f98-b679-c96b5f7474be",
+        "title": "Trader Trainee - Steel",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780612689,
+        "date_posted": 1780611016,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Concord-Ontario-CAN/Trader-Trainee---Steel-Canada_JR105059",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4acff49d-8b20-465e-8945-6e721bd49c70",
+        "title": "Software Engineering 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780612791,
+        "date_posted": 1780611055,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-I---Onsite-_01850147",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Marlborough, MA",
+                "normalized": {
+                    "city": "Marlborough",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "American University",
+        "id": "3510f27e-ef77-47da-b312-c1fb4585ebbc",
+        "title": "Graduate Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780610982,
+        "date_posted": 1780610694,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Graduate-Research-Assistant--Student-_R4332",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "227edd9d-1ef6-4538-8edf-7c2266d56c46",
+        "title": "Student Engineering 3",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611106,
+        "date_posted": 1780610745,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Summer-Student-Engineering-III_70965",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University System of New Hampshire",
+        "id": "363e0d39-2f00-46cc-b376-abcff624a615",
+        "title": "Research Associate - Navigation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780610761,
+        "date_posted": 1780610682,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Associate--Navigation_JR8260",
+        "locations": [
+            "Durham, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Durham, NC",
+                "normalized": {
+                    "city": "Durham",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "16612a18-6dff-4bc1-a0bd-5887fe9571f4",
+        "title": "Skillbridge Software Engineer TS SCI clearance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610903,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Skillbridge--Software-Engineer-TS-SCI-clearance_R10235264",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Colorado Springs, CO",
+                "normalized": {
+                    "city": "Colorado Springs",
+                    "region": "Colorado",
+                    "region_code": "CO",
                     "country": "United States",
                     "country_code": "US"
                 },
