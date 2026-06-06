@@ -1610,40 +1610,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "3dc3c73a-435f-4a7d-a2d1-1aa77cf95cef",
-        "title": "Data Engineer Intern/Co-op - Fall 2026",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776120499,
-        "date_posted": 1776118168,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "4fd6ba3f-9427-43af-a0cf-7e424402b95f",
         "title": "Data Science Co-op/Intern",
@@ -2294,6 +2260,41 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "4d7b53f4-4839-4a21-9b3d-774c69c540bd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777068984,
+        "date_posted": 1777068476,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -2983,56 +2984,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "992b48ee-6377-47d1-a64a-325b032e4673",
-        "title": "Formal Verification Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777933822,
-        "date_posted": 1777932628,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Geotab",
         "id": "4774edb2-bba5-4efa-bd6a-367a653d07aa",
@@ -3707,40 +3658,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
-        "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778721218,
-        "date_posted": 1778721047,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -4582,28 +4499,28 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Arlington County VA",
-        "id": "8fb93262-1a37-43ba-9efa-391a446dfc08",
-        "title": "Data & Operations Intern - Vision Zero",
+        "company_name": "Royal Bank of Canada",
+        "id": "6dcde314-705f-4b7a-be39-dd4ad1a50c29",
+        "title": "Student Intern - Data Analyst - Personal Banking",
         "active": true,
         "terms": [
             "Fall 2026"
         ],
-        "date_updated": 1779430141,
-        "date_posted": 1779430073,
-        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1536",
+        "date_updated": 1779488536,
+        "date_posted": 1779487839,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782",
         "locations": [
-            "Arlington, VA"
+            "Toronto, ON, Canada"
         ],
         "normalized_locations": [
             {
-                "raw": "Arlington, VA",
+                "raw": "Toronto, ON, Canada",
                 "normalized": {
-                    "city": "Arlington",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -4611,8 +4528,7 @@
             }
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -5591,74 +5507,6 @@
                     "city": "Markham",
                     "region": "Ontario",
                     "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "ce81513a-77dd-4c84-84da-f7ea93feeff3",
-        "title": "Data Science Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779977521,
-        "date_posted": 1779977336,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Richmond, BC, Canada",
-                "normalized": {
-                    "city": "Richmond",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "721c4311-36da-4592-aa83-6c48389b8d8e",
-        "title": "Data Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779977521,
-        "date_posted": 1779977328,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2026510800-2",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Richmond, BC, Canada",
-                "normalized": {
-                    "city": "Richmond",
-                    "region": "British Columbia",
-                    "region_code": "BC",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -6874,38 +6722,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "29030f5c-1d32-4193-aada-12312219170c",
-        "title": "Software Platform Designer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780612561,
-        "date_posted": 1780611006,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Ancestry",
         "id": "30968849-8351-4128-a546-cd9bbad4a60c",
@@ -6938,6 +6754,408 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "49214043-dcb9-4a1b-a77e-8d60da2e3309",
+        "title": "Software Performance at Scale Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780651334,
+        "date_posted": 1780651221,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Performance-at-Scale-Intern---Fall-2026_JR2018701",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PathAI",
+        "id": "35ccd8f2-5371-4cda-9000-084c9d21fdec",
+        "title": "Machine Learning Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778228821,
+        "date_posted": 1761868770,
+        "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Smith+Nephew",
+        "id": "43fc1cbd-3521-4e19-9bbc-45a986e4ff9e",
+        "title": "Operational Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780668555,
+        "date_posted": 1780668542,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Hull-GBU-Office/Operational-Technology-Intern_R90941",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Withernsea, UK",
+                "normalized": {
+                    "city": "Withernsea",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "AtkinsRéalis",
+        "id": "93156cdf-8901-4086-9e31-82b124e8fb89",
+        "title": "Environmental Sustainability Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780698241,
+        "date_posted": 1780697455,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCCharlotte5600-77-Center-Drive/Environmental-Sustainability-Intern---Fall-2026_R-157183-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "BC Pensions",
+        "id": "2a7c3ecb-f1b5-4710-b053-84b3881af02b",
+        "title": "Survey Research Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780698241,
+        "date_posted": 1780697325,
+        "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188",
+        "locations": [
+            "Victoria, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Victoria, BC, Canada",
+                "normalized": {
+                    "city": "Victoria",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "22b2d0e9-fb64-49b6-8106-e7c9fd959e61",
+        "title": "Capital Markets – Aidenedge Program Fall Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780698436,
+        "date_posted": 1780697397,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2026-Capital-Markets--AidenEdge-Program-Fall-Analyst--4-Months-_R-0000175719",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "2b993794-3395-48ae-a0ac-7d78d66b56aa",
+        "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780708256,
+        "date_posted": 1780708032,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Rippling",
+        "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
+        "title": "Machine Learning Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1780698551,
+        "date_posted": 1780697360,
+        "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Rippling",
+        "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
+        "title": "Full Stack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1780698559,
+        "date_posted": 1780697361,
+        "url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Rippling",
+        "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
+        "title": "Software Engineer Intern - Backend Focused",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1780698556,
+        "date_posted": 1780697360,
+        "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -7822,106 +8040,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "SoloPulse",
-        "id": "9c78a4b3-2453-472f-9c5a-83dc3754ee72",
-        "title": "Software Engineer Intern/Co-Op - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1759912974,
-        "date_posted": 1759912974,
-        "url": "https://jobs.lever.co/solopulseco/e430dd0f-8a73-46ec-8aea-739e1a5c1f9c/apply",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Norcross, GA",
-                "normalized": {
-                    "city": "Norcross",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "PathAI",
-        "id": "35ccd8f2-5371-4cda-9000-084c9d21fdec",
-        "title": "Machine Learning Intern/Co-op - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761318797,
-        "date_posted": 1759928921,
-        "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -14469,38 +14587,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Pennsylvania State University",
-        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
-        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776242398,
-        "date_posted": 1776204516,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "State College, PA",
-                "normalized": {
-                    "city": "State College",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Primetals Technologies",
         "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
@@ -16093,6 +16179,42 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "c732b7d0-de98-43e6-9e09-9add80cd631e",
+        "title": "Comcast Product Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product-Analyst-Co-op_R436173",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "University of Texas at Austin",
         "id": "4450f42b-73d8-48dd-9b92-02a22c77473d",
@@ -16331,42 +16453,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "516e0a3b-ff8b-4a30-84e3-525cbdf40b92",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028"
-        ],
-        "date_updated": 1778538999,
-        "date_posted": 1778537445,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757",
-        "locations": [
-            "Fayetteville, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fayetteville, NC",
-                "normalized": {
-                    "city": "Fayetteville",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -16739,40 +16825,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "University of Arkansas",
-        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
-        "title": "Student Research Assistant-2",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778883497,
-        "date_posted": 1778882672,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
-        "locations": [
-            "Pine Bluff, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pine Bluff, AR",
-                "normalized": {
-                    "city": "Pine Bluff",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -18783,38 +18835,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "13883f0b-49e6-4e1a-954e-90d4501904f6",
-        "title": "Credit Risk Data Analyst Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779870010,
-        "date_posted": 1779833140,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Credit-Risk-Data-Analyst-Student--4-months----Fall-2026_JR161706",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Product",
         "company_name": "Primetals Technologies",
         "id": "cf89476b-42ea-4688-a6b3-ee3b0cf397a0",
@@ -18838,72 +18858,6 @@
                     "region_code": "FL",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Cummins",
-        "id": "7cbcc5ee-17db-4c47-a8ce-9e4cd670b833",
-        "title": "Student – School to Work - Digital Manufacturing & 6 Sigma",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779913981,
-        "date_posted": 1779833167,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428807",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Columbus, IN",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "572d92d7-2155-4bf6-9b33-ded4592e4d1d",
-        "title": "Credit Risk Data Analyst",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779920120,
-        "date_posted": 1779919523,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Credit-Risk-Data-Analyst-Student--8-months--Fall-2026_JR161689",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -19522,40 +19476,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Enbridge",
-        "id": "a99b1eba-0b2a-43dc-abb5-9d4f837c8430",
-        "title": "Renewable Energy Performance Engineer in Training 1",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780323041,
-        "date_posted": 1780322737,
-        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/XMLNAME---Renewable-Energy-Performance-Engineer-in-Training-I_71296-1",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "718e327d-e463-4ef3-8299-41c197826c96",
         "title": "Research Assistant - Pulsar Program - Astronomy Department",
@@ -19755,38 +19675,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "American University",
-        "id": "523ae494-45d3-4223-b476-2c169758a222",
-        "title": "Research Assistant - Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780351857,
-        "date_posted": 1780351510,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4315",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American University",
         "id": "515f0e88-fcf0-4665-8a93-d1c467da6075",
         "title": "Undergraduate Research Assistant",
         "active": true,
@@ -19885,41 +19773,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Cystic Fibrosis Foundation",
-        "id": "9215f179-325e-41e9-a796-2bf592588bda",
-        "title": "Application Development Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1780353001,
-        "date_posted": 1780351671,
-        "url": "https://cff.wd1.myworkdayjobs.com/explore-career-opportunities/job/Bethesda-MD---National-Headquarters/Application-Development-Intern_JR100677",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bethesda, MD",
-                "normalized": {
-                    "city": "Bethesda",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -20332,38 +20185,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "SRI International",
-        "id": "eb79eafc-5fb4-45d8-a5e5-788837fa72af",
-        "title": "Student Assistant",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780362361,
-        "date_posted": 1780362260,
-        "url": "https://careers-sri.icims.com/jobs/6411/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Menlo Park, CA",
-                "normalized": {
-                    "city": "Menlo Park",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Clerkie",
         "id": "71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
@@ -20402,6 +20223,38 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
+        "title": "Graduate Event Data Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780390323,
+        "date_posted": 1780351509,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -21540,38 +21393,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "American University",
-        "id": "3510f27e-ef77-47da-b312-c1fb4585ebbc",
-        "title": "Graduate Researcher",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780610982,
-        "date_posted": 1780610694,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Graduate-Research-Assistant--Student-_R4332",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Enbridge",
         "id": "227edd9d-1ef6-4538-8edf-7c2266d56c46",
@@ -21673,5 +21494,387 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "30d1162f-2765-4044-9e44-203f4a85d5a1",
+        "title": "Research Scientist Intern - AI Alignment",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1772752391,
+        "date_posted": 1772752391,
+        "url": "https://www.metacareers.com/jobs/1782902493113620",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "SF",
+            "Menlo Park, CA",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Menlo Park, CA",
+                "normalized": {
+                    "city": "Menlo Park",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Bellevue, WA",
+                "normalized": {
+                    "city": "Bellevue",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "SoloPulse",
+        "id": "9c78a4b3-2453-472f-9c5a-83dc3754ee72",
+        "title": "Software Engineer Intern/Co-Op - Spring/Summer 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1761897075,
+        "date_posted": 1761897075,
+        "url": "https://jobs.lever.co/solopulseco/e430dd0f-8a73-46ec-8aea-739e1a5c1f9c/apply",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Norcross, GA",
+                "normalized": {
+                    "city": "Norcross",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Baker Tilly",
+        "id": "a45f39c3-e334-4310-86c6-bae1edaf3b5b",
+        "title": "Data Specialist - Digital Scanning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780668901,
+        "date_posted": 1780668603,
+        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Remote/Data-Specialist---Digital-Scanning--Part-Time-_JR106675",
+        "locations": [
+            "Pennsylvania",
+            "Georgia",
+            "Wisconsin",
+            "Illinois"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pennsylvania",
+                "normalized": {
+                    "city": null,
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Georgia",
+                "normalized": {
+                    "city": null,
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Wisconsin",
+                "normalized": {
+                    "city": null,
+                    "region": "Wisconsin",
+                    "region_code": "WI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Illinois",
+                "normalized": {
+                    "city": null,
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "24e011bc-9b6f-436d-a295-a78a686f8f1a",
+        "title": "Mobile Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1780669339,
+        "date_posted": 1780668536,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/XMLNAME-2026-2027-Fall-Winter-Mobile-Engineer-Co-op--Charlotte_178959",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "1d929b62-c0c3-48c4-914d-2541b5ce214a",
+        "title": "Content Management Automation Student Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780697161,
+        "date_posted": 1780697092,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Content-Management-Automation-Student-Technician--open-to-work-study-and-non-work-study-_R_00046574",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sun Life",
+        "id": "026a0182-5a2f-41b9-91bc-bece2ce7ed98",
+        "title": "Student Martech Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780698890,
+        "date_posted": 1780697141,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Fall-2026-_JR00124719",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Kitchener, ON, Canada",
+                "normalized": {
+                    "city": "Kitchener",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "EPRI",
+        "id": "b08da527-aa9f-4292-a8fa-8227ac55125f",
+        "title": "Energy Storage Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780698558,
+        "date_posted": 1780697362,
+        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Washington-DC/Energy-Storage-Student-Employee_REQ-3997",
+        "locations": [
+            "Washington, DC",
+            "Texas"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Texas",
+                "normalized": {
+                    "city": null,
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
