@@ -447,41 +447,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
-        "title": "Automation & Test Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774305129,
-        "date_posted": 1774305129,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "El Segundo, CA",
-                "normalized": {
-                    "city": "El Segundo",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
@@ -3135,40 +3100,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Regal Rexnord",
-        "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
-        "title": "Electronics Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778250303,
-        "date_posted": 1778249315,
-        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Electronics-Co-Op--Fall-2026-_R26_02155",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fort Wayne, IN",
-                "normalized": {
-                    "city": "Fort Wayne",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -7431,40 +7362,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
-        "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780967472,
-        "date_posted": 1780956356,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Engineering-Operations---Equipment-and-Maintenance-Systems_JR-202612578",
-        "locations": [
-            "Oshawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oshawa, ON, Canada",
-                "normalized": {
-                    "city": "Oshawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Robert Bosch Venture Capital",
         "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
@@ -10602,76 +10499,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Valmont",
-        "id": "de1a502f-4481-4b98-8fac-2478e05a740f",
-        "title": "Software Engineering Web Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760744241,
-        "date_posted": 1760742849,
-        "url": "https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/Software-Engineering-Web-Intern_R25624",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Omaha, NE",
-                "normalized": {
-                    "city": "Omaha",
-                    "region": "Nebraska",
-                    "region_code": "NE",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "712b1857-6c41-4b9e-9d5a-f917bd9243bb",
-        "title": "Software Quality Engineer (Part-time)",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760746303,
-        "date_posted": 1760743031,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Tinker-AFB/XMLNAME-2026-Intern---Software-Quality-Engineer--Part-time-_R10209847",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oklahoma City, OK",
-                "normalized": {
-                    "city": "Oklahoma City",
-                    "region": "Oklahoma",
-                    "region_code": "OK",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -16095,6 +15922,38 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "State College, PA",
+                "normalized": {
+                    "city": "State College",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Primetals Technologies",
         "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
@@ -17335,40 +17194,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Smiths Detection Group",
-        "id": "0a319815-2604-4c98-94da-26b6a462a885",
-        "title": "Depot Service Engineer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778193575,
-        "date_posted": 1778191442,
-        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
-        "locations": [
-            "Gunpowder, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Gunpowder, MD",
-                "normalized": {
-                    "city": "Gunpowder",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -18720,6 +18545,40 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
+        "title": "Working Student - BCG Vantage - Insurance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875636,
+        "date_posted": 1775686226,
+        "url": "https://careers.bcg.com/global/en/job/57721",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Neukirchen-Vluyn, Germany",
+                "normalized": {
+                    "city": "Neukirchen-vluyn",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "Primetals Technologies",
         "id": "cf89476b-42ea-4688-a6b3-ee3b0cf397a0",
@@ -18750,6 +18609,40 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
+        "title": "Technical Service Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779920012,
+        "date_posted": 1779919479,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Parsippany-Troy Hills, NJ",
+                "normalized": {
+                    "city": "Parsippany-troy Hills",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Hardware",
@@ -18951,6 +18844,40 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
+        "title": "Servicenow Futures Summit Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780351827,
+        "date_posted": 1780351502,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129555059",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -19428,40 +19355,6 @@
                     "region_code": null,
                     "country": "Canada",
                     "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "a321ad73-583a-4203-bee3-a9fe75923346",
-        "title": "Futures Summit Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780438274,
-        "date_posted": 1780437900,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
-        "locations": [
-            "West Palm Beach, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "West Palm Beach, FL",
-                "normalized": {
-                    "city": "West Palm Beach",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -21100,42 +20993,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Cenovus Energy",
-        "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
-        "title": "Student Strategy and Business Performance",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780998576,
-        "date_posted": 1780956611,
-        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Block",
         "id": "d61f0f42-99b5-4c9d-a8bf-5561238b3014",
         "title": "Applied Research Intern PhD / Graduate Co-op",
@@ -21680,42 +21537,6 @@
     {
         "category": "Software",
         "company_name": "Nokia",
-        "id": "26de79ae-c547-4971-9157-77140eb4555b",
-        "title": "IP Routing App Engineer Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1781166437,
-        "date_posted": 1776809271,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34040",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nokia",
         "id": "e68b7328-b808-41fe-afd1-f8e886696ca0",
         "title": "Nokia Defense Software Co-op",
         "active": true,
@@ -21817,6 +21638,40 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
+        "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781187746,
+        "date_posted": 1781187032,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Year-in-Industry---Electronics-Embedded-Software-Assistant-Engineer_JR00036154",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bedford, UK",
+                "normalized": {
+                    "city": "Bedford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -22058,40 +21913,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "University of Arkansas",
-        "id": "cf38c534-dd45-4232-8025-bcf1f2d03f03",
-        "title": "CORE Research Assistant / Extra Help Assistant",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781258658,
-        "date_posted": 1781042721,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/CORE-Research-Assistant---Extra-Help-Assistant-1_R0085871-2",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Little Rock, AR",
-                "normalized": {
-                    "city": "Little Rock",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
         "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
         "title": "Graduate Assistant",
         "active": true,
@@ -22302,5 +22123,105 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
+        "title": "Technology Talent Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781425133,
+        "date_posted": 1781425133,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Letchworth Garden City, UK",
+                "normalized": {
+                    "city": "Letchworth Garden City",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
+        "title": "Application Developer 1 - Peoplesoft - Tcu",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781428622,
+        "date_posted": 1781428622,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "f4f6aea6-b621-4eb8-81a1-1ecc91bb291f",
+        "title": "Hiring Our Heroes Fellowship - AI & Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781487347,
+        "date_posted": 1781485752,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-Fellowship-12-week-program-AI-Engineering/356045",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
