@@ -40,7 +40,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Verkada | Frontend Software Engineer Intern | San Mateo, CA | ['Fall 2026'] | 2026-04-07 | [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5099529007) |
 | Electronic Arts | Software Engineer Intern | Orlando, FL | ['Fall 2026'] | 2026-04-08 | [Apply Here](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Frostbite/210911) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-08 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) |
-| TikTok | Software Engineer Intern - Recommendation Infrastructure | Seattle, WA | ['Fall 2026'] | 2025-10-31 | [Apply Here](https://lifeattiktok.com/search/7537493362585979154) |
 | Formlabs | Test Engineering Intern | Cambridge, MA | ['Fall 2026'] | 2026-04-13 | [Apply Here](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) |
 | TikTok | General Hire – Machine Learning Engineer Intern | San Jose, CA | ['Fall 2026'] | 2026-04-13 | [Apply Here](https://lifeattiktok.com/search/7625929879091300613) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-14 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) |
@@ -113,7 +112,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Skydio | Middleware Software Engineer Intern | San Mateo, CA | ['Fall 2026'] | 2026-05-21 | [Apply Here](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application) |
 | Rocket Lab USA | Software Intern | Albuquerque, NM | ['Fall 2026'] | 2026-05-21 | [Apply Here](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | NVIDIA | PhD Data Generation and User Simulation Research Intern | Santa Clara, CA | ['Fall 2026'] | 2026-05-21 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) |
-| TikTok | Machine Learning Engineer Intern - Brand Ads | San Jose, CA | ['Fall 2026'] | 2026-05-22 | [Apply Here](https://lifeattiktok.com/search/7600578929549035829) |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON, Canada | ['Fall 2026'] | 2026-05-22 | [Apply Here](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816) |
 | NVIDIA | PhD Software Engineer Intern - Decision Intelligence | Santa Clara, CA | ['Fall 2026'] | 2026-05-23 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
 | ASM International | Simulation and Modeling Intern | Phoenix, AZ | ['Fall 2026'] | 2026-04-22 | [Apply Here](https://www.asm.com/open-vacancies/?gh_jid=4830924101) |
@@ -143,7 +141,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | EUNA Solutions | Software Developer Co-op | Oakville, ON, Canada | ['Fall 2026'] | 2026-06-02 | [Apply Here](https://euna.bamboohr.com/careers/652/) |
 | Zipline | Perception Intern | Dallas, TX, San Bruno, CA | ['Fall 2026'] | 2026-06-03 | [Apply Here](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) |
 | Altom Transport | Software Development Intern | Markham, IL | ['Fall 2026'] | 2026-06-03 | [Apply Here](https://apply.workable.com/altom-transport/j/8536165C7B/apply) |
-| NPR | AI Research – Ethics and Readiness Intern | United States | ['Fall 2026'] | 2026-06-03 | [Apply Here](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4701925005) |
 | Al Warren Oil Company | Software Developer Intern | Elk Grove Village, IL | ['Fall 2026'] | 2026-06-03 | [Apply Here](https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/apply) |
 |  PrizePicks | Data Scientist Intern | Atlanta, GA | ['Fall 2026'] | 2026-06-04 | [Apply Here](http://prizepicks.com/position?gh_jid=7761731003) |
 | Ancestry | Data Science Co-op - AI Document Understanding | Remote in USA | ['Fall 2026'] | 2026-06-04 | [Apply Here](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371) |
@@ -206,6 +203,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Seaspan | Business Technology Solutions Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741) |
 | Seaspan | Engineering Quality Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803) |
 | Seaspan | Configuration and Data Management Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766) |
+| General Motors | Engineering Operations Co-op - Equipment and Maintenance Systems | Oshawa, ON, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Engineering-Operations---Equipment-and-Maintenance-Systems_JR-202612578) |
 | Robert Bosch Venture Capital | Hardware & Embedded Research Intern | Sunnyvale, CA | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) |
 | NVIDIA | Cloud Distributed Systems Backend Intern | Santa Clara, CA | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665) |
 | 1Password | Developer Intern - Data Security | Remote in USA, Remote in Canada | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application) |
@@ -246,7 +244,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | 1Password | Developer Intern - Client Secrets Management | Remote in USA, Remote in Canada | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) |
 | Together AI | Frontier Agents Intern | SF | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5157380007) |
 | CIBC | Data Analytics Co-op - Global Macro and Strategy team | Montreal, QC, Canada | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Data-Analytics-Co-op-Fall-2026---Global-Macro-and-Strategy-team---Bilingual_2612721) |
-| Together AI | Research Intern - Inference | SF | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) |
 | Tesla | Commercial UI Software Engineer Intern - Energy Engineering | Palo Alto, CA | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://www.tesla.com/careers/search/job/273723) |
 | Tesla | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | Palo Alto, CA | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://www.tesla.com/careers/search/job/273810) |
 | Together AI | Systems Research Engineer Intern - GPU Programming | SF | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) |
@@ -273,7 +270,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Susquehanna International Group (SIG) | Quantitative Research Intern | Ardmore, PA | ['Summer 2027'] | 2026-04-21 | [Apply Here](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Trading System Engineering Intern | Ardmore, PA | ['Summer 2027'] | 2026-04-23 | [Apply Here](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | Ardmore, PA | ['Summer 2027'] | 2026-04-23 | [Apply Here](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
-| TikTok | Research Scientist Intern - Nextgen LLM | San Jose, CA | ['Summer 2027'] | 2026-04-29 | [Apply Here](https://lifeattiktok.com/search/7633668061979543813) |
 | AQR Capital Management | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | ['Summer 2027'] | 2026-05-15 | [Apply Here](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) |
 | Susquehanna International Group (SIG) | Electricity + Natural Gas Analyst Intern | Ardmore, PA | ['Summer 2027'] | 2026-06-04 | [Apply Here](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) |
 | Walleye Capital | Risk Technology Analyst Intern | NYC | ['Summer 2027'] | 2026-06-10 | [Apply Here](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
@@ -305,7 +301,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Meta | Research Scientist Intern, Organic Optoelectronic Materials (PhD) | Redmond, WA | ['Summer 2026', 'Winter 2026', 'Spring 2026', 'Fall 2026'] | 2025-12-10 | [Apply Here](https://www.metacareers.com/profile/job_details/843617948284299) |
 | Meta | Research Scientist Intern, LLM Evaluation | New York, NY | ['Summer 2026', 'Winter 2026', 'Spring 2026', 'Fall 2026'] | 2025-12-11 | [Apply Here](https://www.metacareers.com/profile/job_details/4203446973242742) |
 | Palantir | Forward Deployed Software Engineer – Internship - US Government | Honolulu, HI | ['Winter 2027', 'Spring 2027', 'Summer 2027', 'Fall 2027'] | 2025-12-12 | [Apply Here](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) |
-| TikTok | Researcher Intern - Vision and Graphics - 2026 Start | San Jose, CA | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2025-12-13 | [Apply Here](https://lifeattiktok.com/search/7528196025854380306) |
 | Velera | Data Engineer | Remote in USA | ['Summer 2026', 'Winter 2026', 'Spring 2026', 'Fall 2026'] | 2025-12-16 | [Apply Here](https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844) |
 | Bosch | AI Research Intern - Wireless Perception | Pittsburgh, PA | ['Summer 2026', 'Fall 2026', 'Winter 2026', 'Spring 2026'] | 2025-12-16 | [Apply Here](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) |
 | The Exploration Company | Crew Systems Engineering Intern - Avionics/Software | Houston, TX | ['Spring 2026', 'Winter 2026'] | 2025-12-18 | [Apply Here](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) |
@@ -333,7 +328,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Tencent | Research Intern | Bellevue, WA | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-01-21 | [Apply Here](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) |
 | Point72 | Fund Flow Quantitative Researcher | Stamford, CT, NYC | ['N/A'] | 2026-01-23 | [Apply Here](https://boards.greenhouse.io/point72/jobs/8389431002) |
 | UT Southwestern Medical Center | Computational Scientist BioHPC | Dallas, TX | ['N/A'] | 2026-01-23 | [Apply Here](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=250000NE) |
-| TikTok | Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start | San Jose, CA | ['Spring 2026', 'Summer 2026'] | 2026-01-26 | [Apply Here](https://lifeattiktok.com/search/7598849238706735365) |
 | RWS | AI Data Specialist - North Carolina - US | North Carolina | ['N/A'] | 2026-01-13 | [Apply Here](https://jobs.lever.co/rws/b181fd3b-a1e6-4c95-a2d9-4ec756ccd948/apply) |
 | Wheely | Associate Product Manager | London, UK | ['N/A'] | 2026-01-29 | [Apply Here](https://boards.greenhouse.io/wheely/jobs/7608395003) |
 | John Deere | Part-Time Student - Software Engineering - Ames IA Technology CA | Ames, IA | ['N/A'] | 2026-02-03 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137478709942) |
@@ -477,6 +471,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Menasha Corporation | Custom Packaging Design Engineer Co-Op | Mentor, OH | ['Winter 2027', 'Spring 2027', 'Summer 2027'] | 2026-05-16 | [Apply Here](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12878) |
 | Marmon Holdings | Data Engineering Intern Co-op | Milwaukee, WI | ['Winter 2027', 'Spring 2027', 'Summer 2027'] | 2026-05-16 | [Apply Here](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
 | Meta | Research Scientist Intern - Monetization Generative AI - LLM | Seattle, WA, Menlo Park, CA, NYC, Bellevue, WA | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-03-05 | [Apply Here](https://www.metacareers.com/jobs/2916726525182155) |
+| Smiths Detection Group | Depot Service Engineer Intern | Parsippany-Troy Hills, NJ | ['N/A'] | 2026-05-18 | [Apply Here](https://jobs.smartrecruiters.com/SmithsGroup2/744000127050189) |
 | Lila Sciences | AI Resident - Material Science | Cambridge, MA | ['Winter 2026', 'Summer 2026', 'Fall 2026'] | 2026-05-19 | [Apply Here](https://job-boards.greenhouse.io/lilasciences/jobs/4031379009) |
 | SandboxAQ | Geospatial Analyst Resident | United States | ['N/A'] | 2026-05-19 | [Apply Here](https://jobs.ashbyhq.com/sandboxaq/3189f622-cd7c-4ddb-b4e4-494a5f75bf84/application) |
 | BlueLabs Analytics | Reporting Fellow | Washington, DC | ['N/A'] | 2026-05-19 | [Apply Here](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5142269007) |
@@ -499,13 +494,11 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Metropolitan Transportation Authority | Application Developer Level 1 - iOS | NYC | ['N/A'] | 2026-05-19 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/ocUhzfwG?nl=1&nl=1&fr=false) |
 | Boston Consulting Group | Working Student - BCG Vantage - Insurance | Neukirchen-Vluyn, Germany | ['N/A'] | 2026-04-08 | [Apply Here](https://careers.bcg.com/global/en/job/57721) |
 | Primetals Technologies | Product Line Management Associate | Orlando, FL | ['N/A'] | 2026-05-16 | [Apply Here](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-FL-32809/1388444233/?ats=successfactors) |
-| Smiths Detection Group | Technical Service Engineer Intern | Parsippany-Troy Hills, NJ | ['N/A'] | 2026-05-27 | [Apply Here](https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981) |
 | Nokia | Photonic Integrated Circuits Test Co-op | Sunnyvale, CA | ['Fall 2026', 'Winter 2026'] | 2026-05-27 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36486) |
 | Cotiviti | Generative AI Research Engineer Intern | Remote in USA | ['Summer 2026', 'Fall 2026'] | 2026-05-27 | [Apply Here](https://careers-cotiviti.icims.com/jobs/18972/job?mobile=true&needsRedirect=false) |
 | TikTok | Software Engineer Intern - Recommendation Infrastructure | San Jose, CA | ['Summer 2026', 'Fall 2026'] | 2026-05-28 | [Apply Here](https://lifeattiktok.com/search/7534878965941766408) |
 | Meta | Research Scientist Intern - Language & Multimodal Foundations | Seattle, WA, Menlo Park, CA, NYC | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-05-05 | [Apply Here](https://www.metacareers.com/jobs/24536664159369645) |
 | Fidelity Investments | Undergraduate Software Engineer - Software Engineer | NYC | ['N/A'] | 2026-05-30 | [Apply Here](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) |
-| ServiceNow | Servicenow Futures Summit Intern | West Palm Beach, FL | ['N/A'] | 2026-06-01 | [Apply Here](https://jobs.smartrecruiters.com/ServiceNow/744000129555059) |
 | Nokia | Software Development Co-op | Sunnyvale, CA | ['Fall 2026', 'Winter 2026'] | 2026-06-01 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36934) |
 | American University | Research Assistant - Student | Washington, DC | ['N/A'] | 2026-06-01 | [Apply Here](https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4315) |
 | SDSU Research Foundation | Graduate Student 1 - UAV/ Robotic Design - Development and Integration Project | San Diego, CA | ['N/A'] | 2026-06-01 | [Apply Here](https://careers-sdsurf.icims.com/jobs/20457/job?mobile=true&needsRedirect=false) |
@@ -515,6 +508,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | American University | Graduate Event Data Assistant - Student | Washington, DC | ['N/A'] | 2026-06-01 | [Apply Here](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326) |
 | Daktronics | Game Day Technician | State College, PA | ['N/A'] | 2026-06-02 | [Apply Here](https://careers-daktronics.icims.com/jobs/7395/job?mobile=true&needsRedirect=false) |
 | Lawrence Livermore National Laboratory (LLNL) | Machine Learning Physics Graduate Student Intern | Livermore, CA | ['N/A'] | 2026-06-02 | [Apply Here](https://jobs.smartrecruiters.com/LLNL/3743990013424486) |
+| ServiceNow | Futures Summit Intern | West Palm Beach, FL | ['N/A'] | 2026-06-02 | [Apply Here](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) |
 | TransMarket Group | Quantitative Trader Intern | Chicago, IL | ['Winter 2026', 'Spring 2027', 'Summer 2027'] | 2026-06-02 | [Apply Here](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 | ByteDance | Student Researcher - Multimedia Streaming | San Diego, CA | ['N/A'] | 2026-06-02 | [Apply Here](https://jobs.bytedance.com/en/position/7538291329349699848/detail) |
 | Sunwater Capital | Data Engineer Intern - Congressional Data | North Bethesda, MD | ['Summer 2026', 'Fall 2026'] | 2026-06-03 | [Apply Here](https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply) |

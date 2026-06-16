@@ -1269,41 +1269,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
-        "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1764235362,
-        "date_posted": 1761914446,
-        "url": "https://lifeattiktok.com/search/7537493362585979154",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "37c6d738-3d93-410b-a82e-6fd883d15498",
@@ -4173,41 +4138,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "c25a5882-1fd2-473e-b5cd-f38c9238730f",
-        "title": "Machine Learning Engineer Intern - Brand Ads",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779412321,
-        "date_posted": 1779412238,
-        "url": "https://lifeattiktok.com/search/7600578929549035829",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Hitachi",
         "id": "40027077-92ea-46e7-9d59-8ed4711ffedf",
         "title": "ALM Scripting & Reporting Intern",
@@ -5211,38 +5141,6 @@
                     "city": "Markham",
                     "region": "Illinois",
                     "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NPR",
-        "id": "b4c4b373-72a5-4a7f-99f6-d3accfadf4f0",
-        "title": "AI Research – Ethics and Readiness Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780525881,
-        "date_posted": 1780524679,
-        "url": "https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4701925005",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -7362,6 +7260,40 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
+        "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780967472,
+        "date_posted": 1780956356,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Engineering-Operations---Equipment-and-Maintenance-Systems_JR-202612578",
+        "locations": [
+            "Oshawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oshawa, ON, Canada",
+                "normalized": {
+                    "city": "Oshawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Robert Bosch Venture Capital",
         "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
@@ -8908,42 +8840,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Together AI",
-        "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
-        "title": "Research Intern - Inference",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781303507,
-        "date_posted": 1781302189,
-        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157759007",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "e899751e-0313-4b38-844c-137b5cba368a",
@@ -9947,40 +9843,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "810e50c9-00ba-458d-bdb0-89ae72adc9f9",
-        "title": "Research Scientist Intern - Nextgen LLM",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1777425121,
-        "date_posted": 1777425028,
-        "url": "https://lifeattiktok.com/search/7633668061979543813",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -11176,41 +11038,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "b49af921-2592-4429-807b-644549005c26",
-        "title": "Researcher Intern - Vision and Graphics - 2026 Start",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1765592304,
-        "date_posted": 1765592304,
-        "url": "https://lifeattiktok.com/search/7528196025854380306",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Velera",
         "id": "7e0fee85-6b27-4c02-a943-7b7b47f28ebd",
@@ -12247,42 +12074,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "fd2aa27a-d775-4452-8bfc-318d2021b364",
-        "title": "Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1769469477,
-        "date_posted": 1769469477,
-        "url": "https://lifeattiktok.com/search/7598849238706735365",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -17787,6 +17578,40 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "d7b70764-2bdf-4e34-9c39-5dd9943904dd",
+        "title": "Depot Service Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779142320,
+        "date_posted": 1779141897,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000127050189",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Parsippany-Troy Hills, NJ",
+                "normalized": {
+                    "city": "Parsippany-troy Hills",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Lila Sciences",
         "id": "d3eb0017-4b7c-45b9-bb73-96df9e032168",
@@ -18612,40 +18437,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Smiths Detection Group",
-        "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
-        "title": "Technical Service Engineer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779920012,
-        "date_posted": 1779919479,
-        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Parsippany-Troy Hills, NJ",
-                "normalized": {
-                    "city": "Parsippany-troy Hills",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Nokia",
         "id": "38d28da0-2f08-41e2-8661-35367fc982e0",
         "title": "Photonic Integrated Circuits Test Co-op",
@@ -18844,40 +18635,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
-        "title": "Servicenow Futures Summit Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780351827,
-        "date_posted": 1780351502,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129555059",
-        "locations": [
-            "West Palm Beach, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "West Palm Beach, FL",
-                "normalized": {
-                    "city": "West Palm Beach",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -19355,6 +19112,40 @@
                     "region_code": null,
                     "country": "Canada",
                     "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "a321ad73-583a-4203-bee3-a9fe75923346",
+        "title": "Futures Summit Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780438274,
+        "date_posted": 1780437900,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -22127,7 +21918,7 @@
     {
         "category": "Software",
         "company_name": "mthree",
-        "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
+        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
         "active": true,
         "terms": [
