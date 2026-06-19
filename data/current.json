@@ -1879,41 +1879,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Cirrus Logic",
-        "id": "d2dd7be2-3a27-4d64-9018-c6899e6ea4bc",
-        "title": "Co-Op - Design Verification Engineer",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777425042,
-        "date_posted": 1777424741,
-        "url": "https://jobs.eu.lever.co/cirrus/44d85e51-10bf-44d7-b0dc-2d177cf6e858/apply",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chandler, AZ",
-                "normalized": {
-                    "city": "Chandler",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Nokia",
         "id": "52b0385f-3c0b-43a8-ad5d-40c2772202be",
@@ -3189,40 +3154,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
-        "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778721218,
-        "date_posted": 1778721047,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Cohere",
         "id": "fc950795-e3d8-4ecb-8799-9fe711d3e880",
         "title": "Machine Learning Intern/Co-op",
@@ -3995,6 +3926,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "0a232e0e-ed75-4153-aa77-cced18b19904",
+        "title": "Engagement & Enablement Specialist Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779402852,
+        "date_posted": 1779401298,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Hitachi",
         "id": "40027077-92ea-46e7-9d59-8ed4711ffedf",
         "title": "ALM Scripting & Reporting Intern",
@@ -4061,6 +4026,38 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
+        "title": "Software Development Co-op/Intern - C++",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779671333,
+        "date_posted": 1779671117,
+        "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -8328,6 +8325,68 @@
     },
     {
         "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781302503,
+        "date_posted": 1781301997,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
+        "locations": [
+            "Sharonville, OH",
+            "Canton, OH",
+            "Ohio"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sharonville, OH",
+                "normalized": {
+                    "city": "Sharonville",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Canton, OH",
+                "normalized": {
+                    "city": "Canton",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Ohio",
+                "normalized": {
+                    "city": null,
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "1Password",
         "id": "b7154b79-2d09-4d3d-8208-f32ccf9b1d14",
         "title": "Developer Intern - Client Secrets Management",
@@ -8577,38 +8636,6 @@
             "MBA",
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Live Nation Entertainment",
-        "id": "81fe150b-0f84-4f61-b1ef-e09d6906466d",
-        "title": "Cassandra Team Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781646678,
-        "date_posted": 1781639095,
-        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146-1",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Culver City, CA",
-                "normalized": {
-                    "city": "Culver City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -9000,38 +9027,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Ticketmaster",
-        "id": "110d438d-c5c6-4c10-9e21-5b2f5e015e1b",
-        "title": "Cassandra Team Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781646406,
-        "date_posted": 1781639007,
-        "url": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Culver City, CA",
-                "normalized": {
-                    "city": "Culver City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -9466,6 +9461,324 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792319,
+        "date_posted": 1781791573,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in Canada",
+                "normalized": {
+                    "city": "Remote In Canada",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792011,
+        "date_posted": 1781791529,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in Canada",
+                "normalized": {
+                    "city": "Remote In Canada",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "f988ed7a-4db7-4967-8ace-f828dfaa952f",
+        "title": "Digital Logic + Design Verification Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792007,
+        "date_posted": 1781791533,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "c92c8ffc-48cf-49b7-8c51-6654a293801f",
+        "title": "Digital Logic + Design Verification Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792036,
+        "date_posted": 1781791548,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "9af788c7-f0f9-438a-81b4-dcd5df879ec4",
+        "title": "Hardware R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781822270,
+        "date_posted": 1781820840,
+        "url": "https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cambridge, MA",
+                "normalized": {
+                    "city": "Cambridge",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "cc7eaf50-2d27-4f31-89b7-4bf855cd03d2",
+        "title": "Software Developer Co-op/Intern - Core Algorithms",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781820730,
+        "date_posted": 1781820304,
+        "url": "https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "acdd6b7e-f680-49fd-ac64-781ec1cc6ecd",
+        "title": "Software Engineer Co-op - Global Technology Solutions - Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781821541,
+        "date_posted": 1781820415,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mt Laurel Township, NJ",
+                "normalized": {
+                    "city": "Mt Laurel Township",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "ce2f0cee-f7f1-4ae6-a8f0-00fd54dfe321",
+        "title": "Data Engineer Co-op - Global Technology Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781821559,
+        "date_posted": 1781820421,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Data-Engineer_R_1495653",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mt Laurel Township, NJ",
+                "normalized": {
+                    "city": "Mt Laurel Township",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "1Password",
+        "id": "b329a355-37a2-4a60-8ff5-bc9b42bf00c0",
+        "title": "Developer Intern - Service Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781821621,
+        "date_posted": 1781820605,
+        "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Remote in Canada",
+                "normalized": {
+                    "city": "Remote In Canada",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -10887,6 +11200,40 @@
                     "city": "Atlanta",
                     "region": "Georgia",
                     "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "946795ed-83f9-4f29-9159-81978281dfa3",
+        "title": "Software Developer Intern - Cyber & Analytics Business Area - Security Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1781187087,
+        "date_posted": 1781186755,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Annapolis Junction, MD",
+                "normalized": {
+                    "city": "Annapolis Junction",
+                    "region": "Maryland",
+                    "region_code": "MD",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -12611,55 +12958,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "c67a13f0-09f1-4760-b30a-c7e9cf8c9df2",
-        "title": "Data Science Participant",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765221188,
-        "date_posted": 1762533405,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2689",
-        "locations": [
-            "London, UK",
-            "Norwich, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Norwich, UK",
-                "normalized": {
-                    "city": "Norwich",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Consolidated Edison",
         "id": "f93adc7f-27a9-488a-9793-95cf1e83fdf1",
         "title": "Engineering Aide Temp Coops - College Students - Engineering Majors",
@@ -13150,6 +13448,42 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
+        "title": "Resa 1 - Texus",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770332566,
+        "date_posted": 1770332566,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/RESA-I---TExUS_R_00044060",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -14038,42 +14372,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "de46453a-ef54-4d06-94b4-f86021b89215",
-        "title": "Research Scientist Intern - Applied Perception Science - PhD",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1772752265,
-        "date_posted": 1772752265,
-        "url": "https://www.metacareers.com/jobs/25766888559672059",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -16617,38 +16915,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Pennsylvania State University",
-        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
-        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776242398,
-        "date_posted": 1776204516,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "State College, PA",
-                "normalized": {
-                    "city": "State College",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "7315eb67-1776-4681-97df-9c37415a35b3",
@@ -16764,6 +17030,43 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "b92a1efb-f8d9-4f78-a277-2655bbd07142",
+        "title": "PhD Residency Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1776724265,
+        "date_posted": 1776723465,
+        "url": "https://x.company/careers/8511401002?gh_jid=8511401002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
         ]
     },
     {
@@ -17647,40 +17950,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Zus Health",
-        "id": "fde33627-2e9a-4b21-9159-702b327694be",
-        "title": "Data Acquisition Software Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1778105161,
-        "date_posted": 1778105071,
-        "url": "https://jobs.lever.co/zushealth/86db99fb-95c2-4369-b54f-b0d21fa59ba0/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Smiths Detection Group",
         "id": "0a319815-2604-4c98-94da-26b6a462a885",
@@ -18118,40 +18387,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "University of Arkansas",
-        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
-        "title": "Student Research Assistant-2",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778883497,
-        "date_posted": 1778882672,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
-        "locations": [
-            "Pine Bluff, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pine Bluff, AR",
-                "normalized": {
-                    "city": "Pine Bluff",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -19253,6 +19488,54 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "dcd094ab-20fa-4799-aa84-529922b384f1",
+        "title": "Insights Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780280936,
+        "date_posted": 1780134781,
+        "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Belfast-10-Mays-Meadow/Allstate-NI-Insights-Programme-Summer-2026_R30918",
+        "locations": [
+            "Belfast, UK",
+            "Londonderry, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Belfast, UK",
+                "normalized": {
+                    "city": "Belfast",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Londonderry, UK",
+                "normalized": {
+                    "city": "Londonderry",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "fe347c80-23fe-4197-a774-4f3fe8bb2780",
@@ -19287,6 +19570,38 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "523ae494-45d3-4223-b476-2c169758a222",
+        "title": "Research Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780351857,
+        "date_posted": 1780351510,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4315",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -22104,40 +22419,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
-        "title": "Technician - Assembly & Integration",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781357764,
-        "date_posted": 1781345559,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
-        "locations": [
-            "Florida"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Florida",
-                "normalized": {
-                    "city": null,
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Mercer University",
         "id": "33fd521e-474f-45b3-851e-27d577a78a8b",
@@ -22589,38 +22870,6 @@
         "date_updated": 1781647792,
         "date_posted": 1781639311,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Liberatory-Tech-RA_REQ_0000079435-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "State College, PA",
-                "normalized": {
-                    "city": "State College",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "a03f7397-ee60-4bf7-8ec4-30e10e846fb7",
-        "title": "GIS Research Assistant",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781647793,
-        "date_posted": 1781639311,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Bangalore-Part-Time-GIS-project-Research-Assistant_REQ_0000079449-1",
         "locations": [
             "State College, PA"
         ],
@@ -23113,74 +23362,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Zoox",
-        "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
-        "title": "Software Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781736915,
-        "date_posted": 1781733722,
-        "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Mateo, CA",
-                "normalized": {
-                    "city": "San Mateo",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas at Austin",
-        "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
-        "title": "Course Support - Rhetoric",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781736403,
-        "date_posted": 1781734016,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Course-Support---Rhetoric--Open-to-Work-Study-and-Non-Work-Study-_R_00046798",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Consensus Cloud Solutions",
         "id": "6b3d598d-b62f-4c2f-82ac-d5a858cb7e83",
@@ -23215,40 +23396,6 @@
             "Bachelor's",
             "Master's",
             "MBA"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Alexion",
-        "id": "daf91a84-838c-41d0-b20f-dfccb59e051b",
-        "title": "Data & AI Solutions Associate",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781735941,
-        "date_posted": 1781734027,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Data---AI-Solutions-Associate_R-254731",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mississauga, ON, Canada",
-                "normalized": {
-                    "city": "Mississauga",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -23353,5 +23500,140 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Crosby",
+        "id": "21835217-495f-4d86-8ebe-ccf2d06dea0f",
+        "title": "Crosby Intelligence Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781771547,
+        "date_posted": 1781647864,
+        "url": "https://jobs.ashbyhq.com/crosby/340021ba-9be9-47dd-a609-0bc17b9ebd26/application",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "46f6f069-21ab-4c7b-871b-f43b2f13caf4",
+        "title": "Product Engineering Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781792435,
+        "date_posted": 1781791615,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leeds, UK",
+                "normalized": {
+                    "city": "Leeds",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "723f35b0-5afc-4c67-ba33-91b7d1fb06e2",
+        "title": "Insights Analyst - FMCG Customer Success - Retailer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781791561,
+        "date_posted": 1781791522,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000132873259",
+        "locations": [
+            "United Kingdom"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United Kingdom",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Oklahoma State Government",
+        "id": "933ba205-c388-4e90-860a-b5e1ca92ba18",
+        "title": "Information Systems Application Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781822167,
+        "date_posted": 1781820770,
+        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Information-Systems-Application-Specialist_JR61406",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oklahoma City, OK",
+                "normalized": {
+                    "city": "Oklahoma City",
+                    "region": "Oklahoma",
+                    "region_code": "OK",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
     }
 ]
