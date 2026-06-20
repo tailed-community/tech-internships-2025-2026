@@ -379,6 +379,41 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Varda Space",
+        "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
+        "title": "Automation & Test Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1774305129,
+        "date_posted": 1774305129,
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "El Segundo, CA",
+                "normalized": {
+                    "city": "El Segundo",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
@@ -2377,6 +2412,38 @@
             "Master's",
             "Associate's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "c45f7a09-140b-4725-9506-ade3453310fa",
+        "title": "Junior Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875218,
+        "date_posted": 1777874684,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -4431,110 +4498,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "Bank of Montreal",
-        "id": "4d3493e7-c56b-453f-a8c2-c46fdde8f81a",
-        "title": "Card Products Intern - 4 months",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779921078,
-        "date_posted": 1779919632,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "03dedc89-4423-4126-b37e-0771167f95b7",
-        "title": "Data Analysis Intern - Applied System Engineering",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779922088,
-        "date_posted": 1779919675,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Bank of Montreal",
-        "id": "5fc3c3e0-b9a6-4833-84c5-39214457d5d3",
-        "title": "Partnership Development Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779921424,
-        "date_posted": 1779919806,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Samsung Research America",
         "id": "8e310c90-a96b-4c89-87e2-21f6edcf3b89",
@@ -5208,40 +5171,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Tesla",
-        "id": "9df9d65e-4ffa-4eaf-9048-014c94fb022a",
-        "title": "Data Engineer Intern - Fleet Analytics",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780755860,
-        "date_posted": 1780754913,
-        "url": "https://www.tesla.com/careers/search/job/271696",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -8912,54 +8841,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Manulife Financial",
-        "id": "56026d05-4d6e-4b03-a396-cb5439888a69",
-        "title": "Digital Product Co-op - GDE Digital Product",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781649991,
-        "date_posted": 1781639357,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---GDE-Digital-Product_JR26060449",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "b6d72db2-c34a-4448-af6f-bd5ccee8077d",
@@ -9429,40 +9310,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Paccar",
-        "id": "51f43fa0-cf21-4737-8c20-18080a26021f",
-        "title": "Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781736511,
-        "date_posted": 1781734125,
-        "url": "https://jobs.paccar.com/job/Lewisville-Data-Scientist-Fall-Internship-2026-TX-75067/1405771033/?ats=successfactors",
-        "locations": [
-            "Lewisville, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lewisville, TX",
-                "normalized": {
-                    "city": "Lewisville",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Autodesk",
         "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
@@ -9779,6 +9626,172 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Baker Hughes",
+        "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
+        "title": "Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781878701,
+        "date_posted": 1781878114,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bristol, UK",
+                "normalized": {
+                    "city": "Bristol",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Interac",
+        "id": "64142086-10bc-4450-8938-7578f98d0a66",
+        "title": "AI Product Delivery Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781908562,
+        "date_posted": 1781907135,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2283",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "6198d30f-d48b-4179-b867-53db2b98abe5",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781907086,
+        "date_posted": 1781906721,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000133125725",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Halifax Regional Municipality, NS, Canada",
+                "normalized": {
+                    "city": "Halifax Regional Municipality",
+                    "region": "Nova Scotia",
+                    "region_code": "NS",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "D2L",
+        "id": "396a0efb-a968-4d94-8932-1a6e4ce56ffe",
+        "title": "Software Developer Co-op - Custom Development Services",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781908707,
+        "date_posted": 1781907313,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Kitchener, ON, Canada",
+                "normalized": {
+                    "city": "Kitchener",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "d195c292-9619-41e7-b95f-b1c4ff3c640d",
+        "title": "Technology Solutions Data Platform & Engineering Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781908518,
+        "date_posted": 1781906923,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -14690,39 +14703,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Thales",
-        "id": "f5bb15c2-a5c9-4488-96a3-27b94b792423",
-        "title": "Co-op Software Developer",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773298142,
-        "date_posted": 1773298142,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/COOP-Software-Developer--Summer-Fall-2026--8-months-term-_R0318614",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "ByteDance",
         "id": "7bf6db8c-27ff-4940-b8ef-19a292ee39bd",
         "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
@@ -16913,41 +16893,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "7315eb67-1776-4681-97df-9c37415a35b3",
-        "title": "Data Science and Advanced Analytics Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776294688,
-        "date_posted": 1776290893,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Science-des-donnes-et-analytique-avance---Automne-2026_01836944",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Longueuil, QC, Canada",
-                "normalized": {
-                    "city": "Longueuil",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -21617,27 +21562,27 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "EOS IT Solutions",
-        "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
-        "title": "Graduate Data Centre Technician",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
+        "title": "Undergraduate Research Assistant - Student",
         "active": true,
         "terms": [
             "N/A"
         ],
-        "date_updated": 1781083472,
-        "date_posted": 1780564005,
-        "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
+        "date_updated": 1781086676,
+        "date_posted": 1780739427,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Undergraduate-Research-Assistant--Student-_R4347",
         "locations": [
-            "Ohio"
+            "Washington, DC"
         ],
         "normalized_locations": [
             {
-                "raw": "Ohio",
+                "raw": "Washington, DC",
                 "normalized": {
-                    "city": null,
-                    "region": "Ohio",
-                    "region_code": "OH",
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -21646,9 +21591,7 @@
                 "confidence": 1.0
             }
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -22474,38 +22417,6 @@
                     "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
-        "title": "Technology Talent Programme",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781425133,
-        "date_posted": 1781425133,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Letchworth Garden City, UK",
-                "normalized": {
-                    "city": "Letchworth Garden City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -23635,5 +23546,103 @@
             "Bachelor's",
             "Certificate"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "9feea1a6-4256-4c37-a7c3-88143f2bff96",
+        "title": "Data Centre Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781862116,
+        "date_posted": 1781639523,
+        "url": "https://eosits.com/company/careers/?gh_jid=8594075002",
+        "locations": [
+            "Ohio"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ohio",
+                "normalized": {
+                    "city": null,
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "be3aad22-1999-4d92-b4d3-5da3726bd721",
+        "title": "Step Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781878076,
+        "date_posted": 1781877914,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87286153",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Broomfield, CO",
+                "normalized": {
+                    "city": "Broomfield",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "35464c68-296e-4cb3-b971-5178dae90330",
+        "title": "Student Research Assistant - Prof. Rivera",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781906762,
+        "date_posted": 1781906710,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Student-Research-Assistant---Prof-Rivera_JR0000078142",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Montreal, QC, Canada",
+                "normalized": {
+                    "city": "Montréal",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
