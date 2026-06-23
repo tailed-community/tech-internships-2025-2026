@@ -29,7 +29,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Atomic Semi | Packaging Engineering Intern | SF | ['Fall 2026'] | 2026-03-30 | [Apply Here](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) |
 | Commonwealth of Massachusetts | Office of Transportation Planning Environmental – And Governance Co-op | United States | ['Fall 2026'] | 2026-03-30 | [Apply Here](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002G0) |
 | TikTok | Machine Learning Engineer - Search Ads | San Jose, CA | ['Fall 2026'] | 2026-03-31 | [Apply Here](https://lifeattiktok.com/search/7623166667125508357) |
-| TikTok | Machine Learning Engineer Intern - App Ads | San Jose, CA | ['Fall 2026'] | 2026-03-31 | [Apply Here](https://lifeattiktok.com/search/7623166673809770757) |
 | Atomic Semi | Automation Software Engineering Intern | SF | ['Fall 2026'] | 2026-03-31 | [Apply Here](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) |
 | Hermeus | Human Machine Interface – Software Engineering Intern - Human Machine Interface | Atlanta, GA | ['Fall 2026'] | 2026-04-01 | [Apply Here](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) |
 | Impulse Space | Radio Frequency Engineering Intern | El Segundo, CA | ['Fall 2026'] | 2026-04-06 | [Apply Here](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) |
@@ -58,14 +57,12 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Nokia | IP R&D Lab Technologist Co-op/Intern | Kanata, Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
 | Nokia | Software Designer Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34714) |
 | Nokia | Hardware Developer Engineer Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231) |
-| Nokia | Tools and Automation SW Dev Intern/Co-op | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606) |
 | Nokia | Web Developer Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-04-30 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616) |
 | Atomic Semi | Infrastructure Software Engineering Intern | San Francisco, CA, Austin, TX | ['Fall 2026'] | 2026-05-01 | [Apply Here](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) |
 | TMEIC | Intern - Applications, AI and Machine Learning | Roanoke, VA | ['Fall 2026'] | 2026-05-01 | [Apply Here](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) |
 | Cirrus Logic | Analog/Mixed-Signal Verification Intern Co-op | Austin, TX | ['Fall 2026'] | 2026-05-01 | [Apply Here](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) |
 | Gemini | Software Engineer Intern | NYC | ['Fall 2026'] | 2026-05-01 | [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) |
 | Geotab | DataOps Developer Intern - Months | Oakville, ON, Canada | ['Fall 2026'] | 2026-05-04 | [Apply Here](https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008) |
-| Geotab | Software Developer Intern - Prism | Toronto, ON, Canada, Kitchener, ON, Canada | ['Fall 2026'] | 2026-05-04 | [Apply Here](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) |
 | Astranis | Reliability Test Intern | SF | ['Fall 2026'] | 2026-05-04 | [Apply Here](https://job-boards.greenhouse.io/astranis/jobs/4677973006) |
 | Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada | ['Fall 2026'] | 2026-05-04 | [Apply Here](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) |
 | Metropolitan Transportation Authority | Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location | NYC | ['Fall 2026'] | 2026-05-05 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/omt5zfwd?nl=1&nl=1&fr=false) |
@@ -86,12 +83,10 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Falcomm | ML Software Engineer Intern - AI/CAD Integration | Atlanta, GA | ['Fall 2026'] | 2025-10-30 | [Apply Here](https://apply.workable.com/falcomm/j/B5EB495F31/apply) |
 | Astranis | Assembly and Test Intern - Integration | SF | ['Fall 2026'] | 2026-05-12 | [Apply Here](https://job-boards.greenhouse.io/astranis/jobs/4679080006) |
 | Cohere | Machine Learning Intern/Co-op | Canada, United Kingdom, United States | ['Fall 2026'] | 2026-05-13 | [Apply Here](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
-| Geotab | Software Developer Intern - Multiple Teams | Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada | ['Fall 2026'] | 2026-05-12 | [Apply Here](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008) |
 | Metropolitan Transportation Authority | Data Analyst Intern | NYC | ['Fall 2026'] | 2026-05-12 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oZD5zfw0?nl=1&nl=1&fr=false) |
 | SOTI | Software Developer in Test Intern | Mississauga, ON, Canada | ['Fall 2026'] | 2026-05-12 | [Apply Here](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064) |
 | Metropolitan Transportation Authority | Data Analyst Intern - Power Control Center | NYC | ['Fall 2026'] | 2026-05-13 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/onr7zfwe?nl=1&nl=1&fr=false) |
 | Astranis | Software Engineer-Backend Intern | SF | ['Fall 2026'] | 2026-05-13 | [Apply Here](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
-| Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | ['Fall 2026'] | 2026-05-14 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890) |
 | ATCO | Data Analytics Co-op | Edmonton, AB, Canada | ['Fall 2026'] | 2026-05-14 | [Apply Here](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111) |
 | Medpace, Inc. | AI Engineer Intern | Cincinnati, OH | ['Fall 2026'] | 2026-05-14 | [Apply Here](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) |
 | Formlabs | Hardware Systems Integration Intern | Cambridge, MA | ['Fall 2026'] | 2026-05-15 | [Apply Here](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) |
@@ -186,13 +181,9 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Zipline | Computational Physics Intern | San Bruno, CA | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) |
 | Four Hands | Product Development Intern | Austin, TX | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) |
 | Seaspan | Digital Ship NLP Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755) |
-| Seaspan | Digital Shipyards Architecture Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812) |
-| Seaspan | Business Technology Solutions Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741) |
 | Seaspan | Engineering Quality Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803) |
-| Seaspan | Configuration and Data Management Intern | Vancouver, BC, Canada | ['Fall 2026'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766) |
 | Robert Bosch Venture Capital | Hardware & Embedded Research Intern | Sunnyvale, CA | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) |
 | 1Password | Developer Intern - Data Security | Remote in USA, Remote in Canada | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application) |
-| 1Password | Data Intern - Enterprise Analytics | Remote in USA, Remote in Canada | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application) |
 | Kinaxis | Software Developer Intern | Ottawa, ON, Canada | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) |
 | Tesla | Embedded Software Intern - Embedded Software Engineer - Optimus | Palo Alto, CA | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://www.tesla.com/careers/search/job/273272) |
 | Mach Industries | Engineering Co-op | Huntington Beach, CA | ['Fall 2026'] | 2026-06-09 | [Apply Here](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application) |
@@ -225,7 +216,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Zipline | Hardware Test Intern | San Bruno, CA | ['Fall 2026'] | 2026-05-26 | [Apply Here](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) |
 | General Motors | Research and Development Intern - Research & Development: AI/ML | Mountain View, CA, Warren, MI | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) |
 | 1Password | Developer Intern - Client Secrets Management | Remote in USA, Remote in Canada | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) |
-| Together AI | Frontier Agents Intern | SF | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5157380007) |
 | CIBC | Data Analytics Co-op - Global Macro and Strategy team | Montreal, QC, Canada | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Data-Analytics-Co-op-Fall-2026---Global-Macro-and-Strategy-team---Bilingual_2612721) |
 | Tesla | Commercial UI Software Engineer Intern - Energy Engineering | Palo Alto, CA | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://www.tesla.com/careers/search/job/273723) |
 | Tesla | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | Palo Alto, CA | ['Fall 2026'] | 2026-06-12 | [Apply Here](https://www.tesla.com/careers/search/job/273810) |
@@ -254,6 +244,11 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | General Dynamics UK | Software Developer Co-op | Halifax Regional Municipality, NS, Canada | ['Fall 2026'] | 2026-06-19 | [Apply Here](https://jobs.smartrecruiters.com/GDMSI/744000133125725) |
 | D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | ['Fall 2026'] | 2026-06-19 | [Apply Here](https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON, Canada | ['Fall 2026'] | 2026-06-19 | [Apply Here](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |
+| Interac | Software Development Intern | Toronto, ON, Canada | ['Fall 2026'] | 2026-06-22 | [Apply Here](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272) |
+| Figure | Firmware Intern | San Jose, CA | ['Fall 2026'] | 2026-06-22 | [Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
+| Together AI | Research reinforcement learning & Post-Training Systems Intern - Turbo | SF | ['Fall 2026'] | 2026-06-22 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5168929007) |
+| Kinaxis | Software Engineer Co-op/Intern - Developer Framework | Ottawa, ON, Canada | ['Fall 2026'] | 2026-06-22 | [Apply Here](https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false) |
+| Tesla | Data Analytics Intern - People Analytics | Austin, TX | ['Fall 2026'] | 2026-06-23 | [Apply Here](https://www.tesla.com/careers/search/job/274560) |
 | Rippling | Machine Learning Software Engineer Intern | SF | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
 | Rippling | Full Stack Software Engineer Intern | Seattle, WA, SF, NYC | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) |
 | Rippling | Software Engineer Intern - Backend Focused | Seattle, WA, SF, NYC | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) |
@@ -286,7 +281,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Walleye Capital | PhD Quantitative Researcher Intern | Boston, MA | ['Summer 2027'] | 2026-06-10 | [Apply Here](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) |
 | Walleye Capital | Quantitative Developer Intern | Boston, MA | ['Summer 2027'] | 2026-06-10 | [Apply Here](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Anduril | Software Engineer Intern | Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA | ['Summer 2027'] | 2026-06-11 | [Apply Here](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) |
-| Leidos | Software Developer Intern - Cyber & Analytics Business Area - Security Engineering | Annapolis Junction, MD | ['Summer 2027'] | 2026-06-11 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1) |
 | Optiver | FPGA Engineer Intern | Chicago, IL | ['Summer 2027'] | 2026-06-16 | [Apply Here](https://job-boards.greenhouse.io/optiverprivate/jobs/8592684002) |
 | GE Aerospace | Digital Technology Intern | Sharonville, OH, Livonia, MI | ['Summer 2027'] | 2026-06-16 | [Apply Here](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2027---Returning-Students_R5030092-2) |
 | BP | Supply, Trading & Shipping Intern - Multiple Teams | Houston, TX | ['Summer 2027'] | 2026-06-16 | [Apply Here](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading---Origination---Houston--TX_RQ112248) |
@@ -340,7 +334,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | RWS | AI Data Specialist - North Carolina - US | North Carolina | ['N/A'] | 2026-01-13 | [Apply Here](https://jobs.lever.co/rws/b181fd3b-a1e6-4c95-a2d9-4ec756ccd948/apply) |
 | Wheely | Associate Product Manager | London, UK | ['N/A'] | 2026-01-29 | [Apply Here](https://boards.greenhouse.io/wheely/jobs/7608395003) |
 | John Deere | Part-Time Student - Software Engineering - Ames IA Technology CA | Ames, IA | ['N/A'] | 2026-02-03 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137478709942) |
-| Vise | Accelerate Fellowship - Summer 2026 | NYC | ['N/A'] | 2026-02-03 | [Apply Here](https://job-boards.greenhouse.io/viseai/jobs/7615931003) |
 | University of Texas - Austin | Resa 1 - Texus | Austin, TX | ['N/A'] | 2026-02-05 | [Apply Here](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/RESA-I---TExUS_R_00044060) |
 | John Deere | Part Time Student - Data & Analytics - Data Analytics | Davenport, IA | ['N/A'] | 2026-02-05 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137477726188) |
 | John Deere | Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA) | Waterloo, IA | ['N/A'] | 2026-02-09 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137478896949) |
@@ -402,7 +395,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Atria Group | Informatica Admin | Plainview, NY | ['N/A'] | 2026-03-27 | [Apply Here](https://jobs.smartrecruiters.com/AtriaGroupLLC/87561367) |
 | Kanshe Infotech | Python Fullstack Training | Newark, NJ | ['N/A'] | 2026-03-27 | [Apply Here](https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616) |
 | Kanshe Infotech | Generative AI Training | Colorado Springs, CO | ['N/A'] | 2026-03-27 | [Apply Here](https://jobs.smartrecruiters.com/Learnkwikcom/744000072088905) |
-| Benchling | Software Engineer - Developer Platform | SF | ['N/A'] | 2026-03-27 | [Apply Here](https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b/application) |
 | Atria Group | Business Warehouse | Sunnyvale, CA | ['N/A'] | 2026-03-05 | [Apply Here](https://jobs.smartrecruiters.com/AtriaGroupLLC/88745994) |
 | Kanshe Infotech | Dot Net Developer | Houston, TX | ['N/A'] | 2026-02-24 | [Apply Here](https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307) |
 | Integrated Resources | Testing Assistant | Hickory, NC | ['N/A'] | 2026-02-24 | [Apply Here](https://jobs.smartrecruiters.com/IntegratedResourcesINC/104273121) |
@@ -467,6 +459,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Point72 | Investment Analyst Program for Upcoming Graduates | London, UK | ['N/A'] | 2026-05-14 | [Apply Here](https://boards.greenhouse.io/point72/jobs/8549734002) |
 | Akima | Unreal Game Designer | Huntsville, AL | ['N/A'] | 2026-05-14 | [Apply Here](https://careers.akima.com/jobs/22581?lang=en-us&icims=1) |
 | Meta | Research Scientist Intern - Multimodal Contextual AI | Redmond, WA | ['Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-05-15 | [Apply Here](https://www.metacareers.com/jobs/2160167211413098) |
+| University of Arkansas | Student Research Assistant-2 | Pine Bluff, AR | ['N/A'] | 2026-05-15 | [Apply Here](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) |
 | Akima | Unity Game Designer | Huntsville, AL | ['N/A'] | 2026-05-16 | [Apply Here](https://careers.akima.com/jobs/23147?lang=en-us&icims=1) |
 | Menasha Corporation | Custom Packaging Design Engineer Co-Op | Mentor, OH | ['Winter 2027', 'Spring 2027', 'Summer 2027'] | 2026-05-16 | [Apply Here](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12878) |
 | Marmon Holdings | Data Engineering Intern Co-op | Milwaukee, WI | ['Winter 2027', 'Spring 2027', 'Summer 2027'] | 2026-05-16 | [Apply Here](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
@@ -489,6 +482,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Metropolitan Transportation Authority | Enterprise Architecture Fellow - Technology & Engineer | NYC | ['N/A'] | 2026-05-13 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oZK6zfw8?nl=1&nl=1&fr=false) |
 | Metropolitan Transportation Authority | Onboard Fare Systems - Technology & Engineer Fellow | NYC | ['N/A'] | 2026-05-13 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oAz7zfwz?nl=1&nl=1&fr=false) |
 | Metropolitan Transportation Authority | Application Developer Level 1 - iOS | NYC | ['N/A'] | 2026-05-19 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/ocUhzfwG?nl=1&nl=1&fr=false) |
+| Boston Consulting Group | Working Student - BCG Vantage - Insurance | Neukirchen-Vluyn, Germany | ['N/A'] | 2026-04-08 | [Apply Here](https://careers.bcg.com/global/en/job/57721) |
 | Nokia | Photonic Integrated Circuits Test Co-op | Sunnyvale, CA | ['Fall 2026', 'Winter 2026'] | 2026-05-27 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36486) |
 | TikTok | Software Engineer Intern - Recommendation Infrastructure | San Jose, CA | ['Summer 2026', 'Fall 2026'] | 2026-05-28 | [Apply Here](https://lifeattiktok.com/search/7534878965941766408) |
 | Meta | Research Scientist Intern - Language & Multimodal Foundations | Seattle, WA, Menlo Park, CA, NYC | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-05-05 | [Apply Here](https://www.metacareers.com/jobs/24536664159369645) |
@@ -534,7 +528,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Tesla | Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus | Palo Alto, CA | ['Summer 2025', 'Fall 2025'] | 2026-06-07 | [Apply Here](https://www.tesla.com/careers/search/job/253454) |
 | VSC Fire & Security | Integrated Systems Technician Trainee | Dallas, TX | ['N/A'] | 2026-06-08 | [Apply Here](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5250423008) |
 | Tenstorrent | CPU/AI Workload Analysis Intern | Santa Clara, CA | ['Summer 2026', 'Fall 2026', 'Winter 2027'] | 2026-06-08 | [Apply Here](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) |
-| Seaspan | Systems Analyst Intern | Vancouver, BC, Canada | ['Fall 2026', 'Winter 2027', 'Spring 2027'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792) |
 | Zoox | Student Worker Automation & Behavioral Science Engineer | San Mateo, CA | ['N/A'] | 2026-06-09 | [Apply Here](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply) |
 | Cenovus Energy | Student Strategy and Business Performance | Calgary, AB, Canada | ['N/A'] | 2026-06-08 | [Apply Here](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708) |
 | Block | Applied Research Intern PhD / Graduate Co-op | Oakland, CA | ['Fall 2026', 'Winter 2027'] | 2026-06-09 | [Apply Here](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
@@ -542,9 +535,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | ['Fall 2026', 'Winter 2026'] | 2026-06-10 | [Apply Here](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) |
 | Cerebras | Software Engineer Intern | Toronto, ON, Canada | ['Winter 2027', 'Spring 2027', 'Fall 2026'] | 2026-06-10 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7619297003) |
 | Cerebras | Software Engineer Intern | Sunnyvale, CA | ['Fall 2026', 'Winter 2026'] | 2026-06-10 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7621006003) |
-| American University | Undergraduate Research Assistant - Student | Washington, DC | ['N/A'] | 2026-06-06 | [Apply Here](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Undergraduate-Research-Assistant--Student-_R4347) |
 | Seaspan | Energy Management Intern | Vancouver, BC, Canada | ['Fall 2026', 'Winter 2027', 'Spring 2027'] | 2026-06-08 | [Apply Here](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) |
-| Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026', 'Winter 2027', 'Spring 2027'] | 2026-06-10 | [Apply Here](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
 | Sandisk | Technology Development Intern | Milpitas, CA | ['Summer 2026', 'Fall 2026'] | 2026-06-10 | [Apply Here](https://jobs.smartrecruiters.com/Sandisk/744000131541969) |
 | Nokia | ASIC CAD Co-op/Intern | Ottawa, ON, Canada | ['Fall 2026', 'Winter 2026'] | 2026-06-10 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | Metropolitan Transportation Authority | Application Developer Level 1 - Information Technology | NYC | ['N/A'] | 2026-06-10 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oz2fAfwa?nl=1&nl=1&fr=false) |
@@ -554,6 +545,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Nokia | Nokia Defense Software Co-op | Naperville, IL | ['Fall 2026', 'Winter 2026'] | 2026-05-29 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36638) |
 | Nokia | Software Engineering Co-op - Information and Communication Technology | Vancouver, BC, Canada | ['Fall 2026', 'Winter 2026'] | 2026-05-28 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602) |
 | Nokia | Optical Test Co-op | San Jose, CA | ['Fall 2026', 'Winter 2027', 'Spring 2027', 'Summer 2027'] | 2026-05-26 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36616) |
+| ABB | Electronics Engineer - Electronics/Embedded Software Assistant Engineer | Bedford, UK | ['N/A'] | 2026-06-11 | [Apply Here](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Year-in-Industry---Electronics-Embedded-Software-Assistant-Engineer_JR00036154) |
 | AMAROK Security | Research and Development Intern | Columbia, SC | ['Summer 2026', 'Fall 2026'] | 2026-06-11 | [Apply Here](https://job-boards.greenhouse.io/amarok/jobs/6018661004) |
 | Cummins | Student – School to Work-Engineering | Columbus, IN | ['N/A'] | 2026-06-11 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430868) |
 | Xsolla | Engineering Intern - Student Application - Engineering | Raleigh, NC | ['N/A'] | 2026-06-11 | [Apply Here](https://jobs.lever.co/xsolla/e4d9543a-af24-4caa-97ab-78cff02e3037/apply) |
@@ -565,7 +557,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | University of Arkansas | Graduate Assistant | Fayetteville, AR | ['N/A'] | 2026-06-12 | [Apply Here](https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville-AR/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2) |
 | NatWest Group | Tech Insight Experience for Women - Engineering | London, UK, Edinburgh, UK | ['N/A'] | 2026-06-13 | [Apply Here](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Tech-Insight-Experience-for-Women---Engineering_R-00276059) |
 | Mercer University | Archival Digitization | Macon, GA | ['N/A'] | 2026-06-13 | [Apply Here](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Archival-digitization_JR102883) |
-| mthree | Technology Talent Programme | Letchworth Garden City, UK | ['N/A'] | 2026-06-14 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006) |
 | Metropolitan Transportation Authority | Application Developer 1 - Peoplesoft - Tcu | NYC | ['N/A'] | 2026-06-14 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false) |
 | Deloitte | Hiring Our Heroes Fellowship - AI & Engineering | Atlanta, GA | ['N/A'] | 2026-06-15 | [Apply Here](https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-Fellowship-12-week-program-AI-Engineering/356045) |
 | Palantir | Forward Deployed Software Engineer Intern - Defense Tech | Washington, DC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-16 | [Apply Here](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply) |
@@ -580,7 +571,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Definity Financial | Data Analyst Co-op/Intern | Toronto, ON, Canada | ['Summer 2026', 'Fall 2026'] | 2026-06-16 | [Apply Here](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) |
 | GE Vernova | Lead Engineer 2 - Customer Application Engineering | Markham, ON, Canada | ['N/A'] | 2026-06-13 | [Apply Here](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Lead-Engineer-2---Customer-Application-Engineering_R5036481-3) |
 | Meta | Research Scientist Intern - Photorealistic Telepresence | London, UK | ['Winter 2026', 'Spring 2026', 'Summer 2026', 'Fall 2026'] | 2026-06-17 | [Apply Here](https://www.metacareers.com/jobs/924149567345400) |
-| Old Republic Title | Mapper Trainee | Florida | ['N/A'] | 2026-06-16 | [Apply Here](https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Remote/Mapper-Trainee_R-4108) |
 | Together AI | Research Intern - Model Shaping | SF | ['Fall 2026', 'Winter 2026'] | 2026-06-16 | [Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) |
 | Dover | Software Engineer Intern | Brattleboro, VT | ['Summer 2026', 'Fall 2026', 'Winter 2026'] | 2026-06-16 | [Apply Here](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033/?ats=successfactors) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | ['Summer 2026', 'Fall 2026', 'Winter 2026'] | 2026-06-16 | [Apply Here](https://www.tesla.com/careers/search/job/274047) |
@@ -601,3 +591,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | McGill University | Student Research Assistant - Prof. Rivera | Montreal, QC, Canada | ['N/A'] | 2026-06-19 | [Apply Here](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Student-Research-Assistant---Prof-Rivera_JR0000078142) |
 | EPRI | Energy and Climate Modeling Intern | Palo Alto, CA, Washington, DC, Remote in USA | ['N/A'] | 2026-06-20 | [Apply Here](https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/RemoteHome-Based/Energy-and-Climate-Modeling-Student-Employee_REQ-4020) |
 | Nuro | Software Engineer Intern - AI Platform | Mountain View, CA | ['Winter 2026', 'Spring 2027', 'Summer 2027', 'Fall 2027'] | 2025-10-31 | [Apply Here](https://nuro.ai/careersitem?gh_jid=7351061) |
+| STEM Xpert | Tibco Spotfire | Alpharetta, GA | ['N/A'] | 2026-06-22 | [Apply Here](https://jobs.smartrecruiters.com/StemXpert1/77580792) |
+| Kanshe Infotech | Python Fullstack Training | Cincinnati, OH | ['N/A'] | 2026-06-22 | [Apply Here](https://jobs.smartrecruiters.com/KansheInfotech/744000066239151) |
+| AG Technologies | DevOps Java OBIEE Salesforce Training and Placement | Dallas, TX | ['N/A'] | 2026-06-22 | [Apply Here](https://jobs.smartrecruiters.com/AGTechnologies1/104662317) |
+| Berkshire Hathaway Energy | Sys & Development Analyst | Las Vegas, NV, Des Moines, IA, Sioux City, IA, Portland, OR | ['N/A'] | 2026-06-22 | [Apply Here](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005280) |

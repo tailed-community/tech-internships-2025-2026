@@ -887,41 +887,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "411b3542-fea3-4d69-9491-dea180fbc135",
-        "title": "Machine Learning Engineer Intern - App Ads",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774919701,
-        "date_posted": 1774919590,
-        "url": "https://lifeattiktok.com/search/7623166673809770757",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Atomic Semi",
         "id": "02602c1c-2cd3-4d65-9cd0-b63fb8599b97",
@@ -2124,41 +2089,6 @@
     {
         "category": "Software",
         "company_name": "Nokia",
-        "id": "bc902773-1b46-4f76-97d8-2c286464ddf6",
-        "title": "Tools and Automation SW Dev Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777511697,
-        "date_posted": 1777511345,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nokia",
         "id": "60ff2402-2f73-4588-8aff-0f7c78e9654d",
         "title": "Web Developer Co-op/Intern",
         "active": true,
@@ -2378,54 +2308,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Geotab",
-        "id": "adf2fbac-8753-47c5-bf29-9bfa01b9c46e",
-        "title": "Software Developer Intern - Prism",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777934521,
-        "date_posted": 1777933225,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -3180,68 +3062,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Geotab",
-        "id": "5f15e338-9e4f-4242-b54d-601ea20a4339",
-        "title": "Software Developer Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778710866,
-        "date_posted": 1778624445,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Oakville, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Metropolitan Transportation Authority",
         "id": "4d067a40-1552-4bc3-8efb-139946654932",
@@ -3372,40 +3192,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "2c6dec66-e2ef-4dd0-868c-553a6dc8bf9e",
-        "title": "Embedded Software Development Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778768611,
-        "date_posted": 1778767724,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -6639,74 +6425,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Seaspan",
-        "id": "8f9ad047-63a6-4765-9ba5-b67706af80ca",
-        "title": "Digital Shipyards Architecture Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780960196,
-        "date_posted": 1780956508,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "6fc5e027-6a37-4134-8822-04c768781902",
-        "title": "Business Technology Solutions Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780960182,
-        "date_posted": 1780956508,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
         "id": "477a8e90-d478-4830-9fe0-914c21768d04",
         "title": "Engineering Quality Intern",
         "active": true,
@@ -6716,40 +6434,6 @@
         "date_updated": 1780960178,
         "date_posted": 1780956508,
         "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "1392ad07-cefb-4971-9b22-7ce2863eb007",
-        "title": "Configuration and Data Management Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780960171,
-        "date_posted": 1780956508,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766",
         "locations": [
             "Vancouver, BC, Canada"
         ],
@@ -6819,52 +6503,6 @@
         "date_updated": 1781044021,
         "date_posted": 1781042915,
         "url": "https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "1Password",
-        "id": "62709f49-dca3-4418-9cbb-85fae7d3b7ce",
-        "title": "Data Intern - Enterprise Analytics",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781044021,
-        "date_posted": 1781042915,
-        "url": "https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application",
         "locations": [
             "Remote in USA",
             "Remote in Canada"
@@ -8132,41 +7770,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Together AI",
-        "id": "d717ac2f-5554-43f7-85ef-3f7f993fd3f2",
-        "title": "Frontier Agents Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781303499,
-        "date_posted": 1781302187,
-        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157380007",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "CIBC",
         "id": "3d4384dd-ddc5-4cbd-adb1-b55dd18704b6",
         "title": "Data Analytics Co-op - Global Macro and Strategy team",
@@ -9142,6 +8745,175 @@
                     "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Interac",
+        "id": "d85d289c-51f3-4f64-a4f9-fb72a227ccf2",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166333,
+        "date_posted": 1782166099,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Figure",
+        "id": "25f62594-b3b3-4b3c-940b-794ec8403c9d",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167041,
+        "date_posted": 1782166530,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
+        "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166539,
+        "date_posted": 1782165928,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5168929007",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c",
+        "title": "Software Engineer Co-op/Intern - Developer Framework",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166564,
+        "date_posted": 1782165948,
+        "url": "https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "045a974d-d808-45c9-b371-91f10e35e4bd",
+        "title": "Data Analytics Intern - People Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782178587,
+        "date_posted": 1782177528,
+        "url": "https://www.tesla.com/careers/search/job/274560",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -10425,40 +10197,6 @@
                     "city": "Atlanta",
                     "region": "Georgia",
                     "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "946795ed-83f9-4f29-9159-81978281dfa3",
-        "title": "Software Developer Intern - Cyber & Analytics Business Area - Security Engineering",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1781187087,
-        "date_posted": 1781186755,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Annapolis Junction, MD",
-                "normalized": {
-                    "city": "Annapolis Junction",
-                    "region": "Maryland",
-                    "region_code": "MD",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -12455,38 +12193,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Vise",
-        "id": "00cd722a-6801-4d80-9f34-348b1bd6e1e2",
-        "title": "Accelerate Fellowship - Summer 2026",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770161391,
-        "date_posted": 1770161391,
-        "url": "https://job-boards.greenhouse.io/viseai/jobs/7615931003",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -14679,41 +14385,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Benchling",
-        "id": "c701d3ec-b4d0-4c11-98f4-ba377c211462",
-        "title": "Software Engineer - Developer Platform",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774986841,
-        "date_posted": 1774649279,
-        "url": "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -17361,6 +17032,40 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "University of Arkansas",
+        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
+        "title": "Student Research Assistant-2",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778883497,
+        "date_posted": 1778882672,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pine Bluff, AR",
+                "normalized": {
+                    "city": "Pine Bluff",
+                    "region": "Arkansas",
+                    "region_code": "AR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Akima",
         "id": "1b47df5a-a950-4f67-8411-1bb9a8fd4554",
@@ -18219,6 +17924,40 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
+        "title": "Working Student - BCG Vantage - Insurance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875636,
+        "date_posted": 1775686226,
+        "url": "https://careers.bcg.com/global/en/job/57721",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Neukirchen-Vluyn, Germany",
+                "normalized": {
+                    "city": "Neukirchen-vluyn",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
         ]
     },
     {
@@ -20214,42 +19953,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "91612fd2-257f-438a-849c-5332f94bbe74",
-        "title": "Systems Analyst Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1780960193,
-        "date_posted": 1780956508,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Zoox",
         "id": "a094bbba-b159-429f-905a-e52b9cadc157",
         "title": "Student Worker Automation & Behavioral Science Engineer",
@@ -20511,38 +20214,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
-        "title": "Undergraduate Research Assistant - Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781086676,
-        "date_posted": 1780739427,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Undergraduate-Research-Assistant--Student-_R4347",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Seaspan",
         "id": "aad404ae-f5e1-4e23-833b-2011968dc347",
         "title": "Energy Management Intern",
@@ -20565,42 +20236,6 @@
                     "city": "Vancouver",
                     "region": "British Columbia",
                     "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "849e9f85-f7b7-4bc5-959a-d7d35173e559",
-        "title": "Embedded Software Engineer Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1781100647,
-        "date_posted": 1781100315,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -20921,6 +20556,40 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
+        "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781187746,
+        "date_posted": 1781187032,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Year-in-Industry---Electronics-Embedded-Software-Assistant-Engineer_JR00036154",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bedford, UK",
+                "normalized": {
+                    "city": "Bedford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -21299,38 +20968,6 @@
                     "region_code": "GA",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
-        "title": "Technology Talent Programme",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781425133,
-        "date_posted": 1781425133,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Letchworth Garden City, UK",
-                "normalized": {
-                    "city": "Letchworth Garden City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -21835,40 +21472,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Old Republic Title",
-        "id": "795e7012-c773-487f-bec9-930c4bfa2828",
-        "title": "Mapper Trainee",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781649904,
-        "date_posted": 1781639136,
-        "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Remote/Mapper-Trainee_R-4108",
-        "locations": [
-            "Florida"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Florida",
-                "normalized": {
-                    "city": null,
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -22589,6 +22192,180 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "STEM Xpert",
+        "id": "08d690e6-7adf-4b03-8777-af061b925183",
+        "title": "Tibco Spotfire",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137529,
+        "date_posted": 1782137245,
+        "url": "https://jobs.smartrecruiters.com/StemXpert1/77580792",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Alpharetta, GA",
+                "normalized": {
+                    "city": "Alpharetta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Kanshe Infotech",
+        "id": "07a5ff16-9935-4009-9cd2-32e9eb46b712",
+        "title": "Python Fullstack Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137161,
+        "date_posted": 1782137116,
+        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239151",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cincinnati, OH",
+                "normalized": {
+                    "city": "Cincinnati",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
+        "title": "DevOps Java OBIEE Salesforce Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137242,
+        "date_posted": 1782137099,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104662317",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "b53e8084-3f0d-4925-a01f-c1787a740570",
+        "title": "Sys & Development Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782166333,
+        "date_posted": 1782166098,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005280",
+        "locations": [
+            "Las Vegas, NV",
+            "Des Moines, IA",
+            "Sioux City, IA",
+            "Portland, OR"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Las Vegas, NV",
+                "normalized": {
+                    "city": "Las Vegas",
+                    "region": "Nevada",
+                    "region_code": "NV",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Des Moines, IA",
+                "normalized": {
+                    "city": "Des Moines",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Sioux City, IA",
+                "normalized": {
+                    "city": "Sioux City",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Portland, OR",
+                "normalized": {
+                    "city": "Portland",
+                    "region": "Oregon",
+                    "region_code": "OR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
