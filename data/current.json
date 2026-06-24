@@ -131,6 +131,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "f20fbf83-d899-41f4-a660-9c88cdebc5f9",
+        "title": "Memory and Personalization Intern - Memory and Personalization",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782221908,
+        "date_posted": 1772234356,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Commonwealth of Massachusetts",
         "id": "a0ea0638-9719-4706-801d-addc5edb1c91",
         "title": "RMV Crash Data Analytics Intern/Co-op",
@@ -1808,41 +1842,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "52b0385f-3c0b-43a8-ad5d-40c2772202be",
-        "title": "Software Developer Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777511521,
-        "date_posted": 1777511346,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -4118,38 +4117,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Al Warren Oil Company",
-        "id": "6fc10a51-85a5-4785-82a0-5a3b41d7eaf4",
-        "title": "Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779921756,
-        "date_posted": 1779919692,
-        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/061E87752B/apply",
-        "locations": [
-            "Elk Grove Village, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Elk Grove Village, IL",
-                "normalized": {
-                    "city": "Elk Grove Village",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Samsung Research America",
         "id": "8e310c90-a96b-4c89-87e2-21f6edcf3b89",
@@ -5030,38 +4997,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Tesla",
-        "id": "53a70aba-3176-46dc-915d-c1177b5f67d0",
-        "title": "Sales & Customer Support Intern - Analyst - Digital Communication",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780795481,
-        "date_posted": 1780795044,
-        "url": "https://www.tesla.com/careers/search/job/272095",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fremont, CA",
-                "normalized": {
-                    "city": "Fremont",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -6423,40 +6358,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "477a8e90-d478-4830-9fe0-914c21768d04",
-        "title": "Engineering Quality Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780960178,
-        "date_posted": 1780956508,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Robert Bosch Venture Capital",
         "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
@@ -6490,52 +6391,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "1Password",
-        "id": "d392b2b1-5d8e-4ea6-969f-665fbd492ba4",
-        "title": "Developer Intern - Data Security",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781044021,
-        "date_posted": 1781042915,
-        "url": "https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -6720,40 +6575,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "Quandri",
-        "id": "ac7a7ed7-6ec6-44be-a785-cbe7e9054d0b",
-        "title": "Product Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781053741,
-        "date_posted": 1781053697,
-        "url": "https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Quant",
@@ -7597,52 +7418,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "1Password",
-        "id": "b71c1aa2-4ccb-420a-a53e-cd09d3d3ba63",
-        "title": "Developer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781227081,
-        "date_posted": 1781226598,
-        "url": "https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Zipline",
         "id": "b47e22be-63c8-4907-bae9-8d159b87afa9",
@@ -8430,52 +8205,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "1Password",
-        "id": "1c5d2214-7ef5-428f-8804-fb1dfbb397d4",
-        "title": "Developer Intern - Open Source",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781736661,
-        "date_posted": 1781734373,
-        "url": "https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Definity Financial",
         "id": "63846327-9ed5-4b7e-a245-260bc3a42998",
@@ -8688,40 +8417,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "D2L",
-        "id": "396a0efb-a968-4d94-8932-1a6e4ce56ffe",
-        "title": "Software Developer Co-op - Custom Development Services",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781908707,
-        "date_posted": 1781907313,
-        "url": "https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Definity Financial",
         "id": "d195c292-9619-41e7-b95f-b1c4ff3c640d",
@@ -8914,6 +8609,395 @@
                     "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "e855295f-176f-4209-a6ce-21b8ee7ed4e3",
+        "title": "Database Analyst Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167018,
+        "date_posted": 1782166206,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "04d272dd-0cea-48e3-ab73-31d3f0c7bf44",
+        "title": "Reliability Design Associate Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167404,
+        "date_posted": 1782166904,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4681416006",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Muru",
+        "id": "b7ecf859-e102-435c-ad58-a6bb88c51c60",
+        "title": "Mobile Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782222034,
+        "date_posted": 1782222034,
+        "url": "https://www.murumed.com/job-listings/software-engineer-intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "New York, NY",
+                "normalized": {
+                    "city": "New York",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Muru",
+        "id": "ac9a60d7-eb51-4cbb-af68-97f00839f454",
+        "title": "Full-Stack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782222116,
+        "date_posted": 1782222116,
+        "url": "https://www.murumed.com/job-listings/web-software-engineer-intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "New York, NY",
+                "normalized": {
+                    "city": "New York",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782252361,
+        "date_posted": 1782252271,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8c0e53b2-9855-47d4-a4eb-5a83f80e3e7f",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782253621,
+        "date_posted": 1782252271,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "335d47b1-5a15-4ba4-8d65-94a8b563ff34",
+        "title": "Digital Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782253621,
+        "date_posted": 1782252264,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "b6c42e15-97af-489f-9211-33b2ce059197",
+        "title": "Software Engineering Intern - Vehicle Controls",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782259504,
+        "date_posted": 1782259504,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
+        "locations": [
+            "Irvine, CA",
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Irvine, CA",
+                "normalized": {
+                    "city": "Irvine",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Markem-Imaje",
+        "id": "c3281007-1ea1-4d32-80e2-62529613957b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782260033,
+        "date_posted": 1782260033,
+        "url": "https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033",
+        "locations": [
+            "Keene, NH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Keene, NH",
+                "normalized": {
+                    "city": "Keene",
+                    "region": "New Hampshire",
+                    "region_code": "NH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Delta Air Lines",
+        "id": "ce513b74-df7e-4731-9a61-31b178de7ccc",
+        "title": "Intern, Innovation - AI Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782260105,
+        "date_posted": 1782260105,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=32774",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "cd64a5ea-e39f-46da-9968-2118ff190093",
+        "title": "Product Management Intern - Product Engineer - Applications Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782264280,
+        "date_posted": 1782263415,
+        "url": "https://www.tesla.com/careers/search/job/274754",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Fremont, CA",
+                "normalized": {
+                    "city": "Fremont",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -9284,6 +9368,41 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Heron Power",
+        "id": "64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
+        "title": "Electronics Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1782253523,
+        "date_posted": 1782252524,
+        "url": "http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application",
+        "locations": [
+            "Santa Cruz, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Cruz, CA",
+                "normalized": {
+                    "city": "Santa Cruz",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Quantitative Finance",
@@ -10499,6 +10618,40 @@
     },
     {
         "category": "Software Engineering",
+        "company_name": "SimonComputing",
+        "id": "f06b088f-b45f-4daa-a9f2-f680f36623f0",
+        "title": "Software Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782222208,
+        "date_posted": 1782222208,
+        "url": "https://simoncomputing.applicantpro.com/jobs/4115690",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Alexandria, VA",
+                "normalized": {
+                    "city": "Alexandria",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
         "company_name": "Tesla",
         "id": "5b942900-9a31-4cd3-8db1-bc6f9b54ec4e",
         "title": "Operational Automation Engineer Intern",
@@ -10596,75 +10749,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "e86ff4c9-3a3c-48b9-9994-00dc8a3453a8",
-        "title": "Undergraduate Applications Developer Intern - OPMO - Consumer Industries",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761937562,
-        "date_posted": 1761510411,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309965",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "a6f17191-4de2-4b55-ae85-73056fa3b608",
-        "title": "Intern Bachelors AI",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1761495808,
-        "date_posted": 1761495808,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kanata, Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Kanata",
-                    "region": "Ottawa",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": []
@@ -16457,41 +16541,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Tesla",
-        "id": "19efdea7-fa87-4d6a-be78-1660ef45f9a0",
-        "title": "AI Tooling Intern - Fullstack Engineer - AI Tooling",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1778051047,
-        "date_posted": 1778050798,
-        "url": "https://www.tesla.com/careers/search/job/269810",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Apple",
         "id": "1d6bc24e-7367-4dfd-9b3f-53a17c97a567",
         "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
@@ -19179,69 +19228,6 @@
     {
         "category": "Software",
         "company_name": "Tesla",
-        "id": "ac4c4c0e-dfeb-412f-ae3e-29c2556aa07f",
-        "title": "Software Engineer Intern - Frontend Engineer - Applications Engineering",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1780795475,
-        "date_posted": 1780794900,
-        "url": "https://www.tesla.com/careers/search/job/271091",
-        "locations": [
-            "Fremont, CA",
-            "Austin, TX",
-            "Bellevue, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fremont, CA",
-                "normalized": {
-                    "city": "Fremont",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bellevue, WA",
-                "normalized": {
-                    "city": "Bellevue",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Tesla",
         "id": "f4601ab3-f480-4a5c-b297-ead3081a4469",
         "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
         "active": true,
@@ -19988,42 +19974,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Cenovus Energy",
-        "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
-        "title": "Student Strategy and Business Performance",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780998576,
-        "date_posted": 1780956611,
-        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Block",
         "id": "d61f0f42-99b5-4c9d-a8bf-5561238b3014",
         "title": "Applied Research Intern PhD / Graduate Co-op",
@@ -20659,40 +20609,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Xsolla",
-        "id": "14094a84-3d18-4ea9-80c0-60fb96678c99",
-        "title": "Engineering Intern - Student Application - Engineering",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781216627,
-        "date_posted": 1781215585,
-        "url": "https://jobs.lever.co/xsolla/e4d9543a-af24-4caa-97ab-78cff02e3037/apply",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Raleigh, NC",
-                "normalized": {
-                    "city": "Raleigh",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
         "id": "910e3e83-067b-4745-909a-efefbbacd8ec",
         "title": "Application Developer Level 1 - Geographic Information Systems",
@@ -20968,6 +20884,38 @@
                     "region_code": "GA",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
+        "title": "Technology Talent Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781425133,
+        "date_posted": 1781425133,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Letchworth Garden City, UK",
+                "normalized": {
+                    "city": "Letchworth Garden City",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -21389,40 +21337,6 @@
                 "raw": "Toronto, ON, Canada",
                 "normalized": {
                     "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "GE Vernova",
-        "id": "090c0f71-7d04-4108-b2d8-70502091fa80",
-        "title": "Lead Engineer 2 - Customer Application Engineering",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781640361,
-        "date_posted": 1781344205,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Lead-Engineer-2---Customer-Application-Engineering_R5036481-3",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Markham, ON, Canada",
-                "normalized": {
-                    "city": "Markham",
                     "region": "Ontario",
                     "region_code": "ON",
                     "country": "Canada",
@@ -21862,40 +21776,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Crosby",
-        "id": "21835217-495f-4d86-8ebe-ccf2d06dea0f",
-        "title": "Crosby Intelligence Fellow",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781771547,
-        "date_posted": 1781647864,
-        "url": "https://jobs.ashbyhq.com/crosby/340021ba-9be9-47dd-a609-0bc17b9ebd26/application",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "category": "Software",
@@ -22358,6 +22238,179 @@
                     "region_code": "OR",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "1021f365-61b2-4ead-a636-553d171168f7",
+        "title": "QNX Software Developer Co-op - Integration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782166412,
+        "date_posted": 1782165848,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Software-Developer-Student--Integration-_20260233",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Sandhills Global",
+        "id": "1560cb5a-5cc1-4788-aa55-44b8c25b2336",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782259595,
+        "date_posted": 1782259595,
+        "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Scottsdale, AZ",
+                "normalized": {
+                    "city": "Scottsdale",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Mindsmith",
+        "id": "d5f656c8-3f10-4705-8103-f3f7a76b54b1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782259714,
+        "date_posted": 1782259714,
+        "url": "https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lehi, UT",
+                "normalized": {
+                    "city": "Lehi",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "VetsEZ",
+        "id": "3b16aba4-17cf-4636-b0fa-03bc53122db2",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782259844,
+        "date_posted": 1782259844,
+        "url": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity",
+        "locations": [
+            "Remote in US"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in US",
+                "normalized": {
+                    "city": "Remote In Us",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "HARMAN",
+        "id": "8b859d22-1375-43c9-87ac-1af93ace29a5",
+        "title": "Intern – Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782259936,
+        "date_posted": 1782259936,
+        "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sunnyvale, CA",
+                "normalized": {
+                    "city": "Sunnyvale",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
