@@ -992,6 +992,41 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "SharkNinja",
+        "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
+        "title": "Applied AI & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1775170017,
+        "date_posted": 1775167757,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006",
+        "locations": [
+            "Miami, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Miami, FL",
+                "normalized": {
+                    "city": "Miami",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Impulse Space",
         "id": "8d3b136a-e903-480d-b1ff-ac54f742b8b7",
@@ -1805,6 +1840,54 @@
         ],
         "degrees": [
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "7248f7be-bf62-4a1b-a01b-3e4f27918644",
+        "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777338718,
+        "date_posted": 1777338403,
+        "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Los Gatos, CA",
+                "normalized": {
+                    "city": "Los Gatos",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
             "PhD"
         ]
     },
@@ -10551,72 +10634,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "5e47ad27-faef-4f9d-9623-8313cc843457",
-        "title": "Supply, Trading & Shipping Intern - Supply, Trading & Shipping - Commercial",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1781649192,
-        "date_posted": 1781647718,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ112249",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "f645e8eb-fd04-4046-86ae-79833cb1befb",
-        "title": "Supply, Trading & Shipping Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1781650031,
-        "date_posted": 1781647717,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Analytics--Chicago--IL_RQ112250",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software Engineering",
         "company_name": "SimonComputing",
         "id": "f06b088f-b45f-4daa-a9f2-f680f36623f0",
@@ -10638,41 +10655,6 @@
                     "city": "Alexandria",
                     "region": "Virginia",
                     "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Tesla",
-        "id": "5b942900-9a31-4cd3-8db1-bc6f9b54ec4e",
-        "title": "Operational Automation Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1762295256,
-        "date_posted": 1761547904,
-        "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-        "locations": [
-            "Draper, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Draper, UT",
-                "normalized": {
-                    "city": "Draper",
-                    "region": "Utah",
-                    "region_code": "UT",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -16710,6 +16692,80 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778279499,
+        "date_posted": 1778278880,
+        "url": "https://boards.greenhouse.io/point72/jobs/8541241002",
+        "locations": [
+            "SF",
+            "Florida",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Florida",
+                "normalized": {
+                    "city": null,
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "MongoDB",
         "id": "34e5f044-5304-4c9e-af40-55a70118657b",
@@ -22420,5 +22476,75 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "pony.ai",
+        "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
+        "title": "Research Intern - Deep Learning",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782275581,
+        "date_posted": 1780016899,
+        "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Fremont, CA",
+                "normalized": {
+                    "city": "Fremont",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
+        "title": "DSR Lab Data Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782310322,
+        "date_posted": 1782309925,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/DSR-Lab-Data-Student-Assistant--Open-to-Work-Study-and-Non-Work-Study-_R_00046913",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
