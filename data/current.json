@@ -11384,6 +11384,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "311bab17-1a4e-44b2-83ec-8effa88827de",
+        "title": "Health AI Scholar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766013625,
+        "date_posted": 1766013625,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8342576002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic AI Security Fellow",

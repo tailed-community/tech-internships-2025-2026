@@ -313,6 +313,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | The Exploration Company | Crew Systems Engineering Intern - Avionics/Software | Houston, TX | ['Spring 2026', 'Winter 2026'] | 2025-12-18 | [Apply Here](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) |
 | ASML | Internship - Software Development Engineer in Test | San Jose, CA | ['Summer 2026', 'Fall 2026', 'Spring 2026', 'Winter 2026'] | 2025-12-22 | [Apply Here](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) |
 | Major League Baseball | Data Scientist Fellow | Baltimore, MD | ['N/A'] | 2025-12-22 | [Apply Here](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5742975004) |
+| Samsung Research America | Health AI Scholar | Mountain View, CA | ['N/A'] | 2025-12-17 | [Apply Here](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8342576002) |
 | Anthropic | Anthropic AI Security Fellow | London, UK, SF, United States, Ontario, CA | ['N/A'] | 2025-12-12 | [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5030244008) |
 | Anthropic | AI Safety Fellow | London, UK, Ontario, CA, SF, United States | ['N/A'] | 2025-12-11 | [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) |
 | Major League Baseball | Fellow Baseball Strategist | Baltimore, MD | ['N/A'] | 2025-11-08 | [Apply Here](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5703204004) |
