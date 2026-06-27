@@ -98,6 +98,43 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "ac62701d-abb4-4530-b0c4-c54a9a94e3fd",
+        "title": "Fall 2026: Product Development Co-op - Shark - July to December",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1769029542,
+        "date_posted": 1769029542,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Needham, MA",
+                "normalized": {
+                    "city": "Needham",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Palantir",
         "id": "690e4022-41e1-411c-bf12-489f610f12f1",
@@ -16408,6 +16445,43 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
+        "title": "PhD Resident - AI for Chemistry - Early Stage Project",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1777933938,
+        "date_posted": 1777932724,
+        "url": "https://x.company/careers/8534828002?gh_jid=8534828002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": [
