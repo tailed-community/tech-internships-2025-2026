@@ -3053,40 +3053,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Falcomm",
-        "id": "07034482-de7a-4324-917d-b746e275d734",
-        "title": "ML Software Engineer Intern - AI/CAD Integration",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773739470,
-        "date_posted": 1761866951,
-        "url": "https://apply.workable.com/falcomm/j/B5EB495F31/apply",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Astranis",
         "id": "855330a8-8ad4-40b3-9ee1-7080a37406ba",
@@ -4704,41 +4670,6 @@
         ],
         "degrees": [
             "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "PathAI",
-        "id": "35ccd8f2-5371-4cda-9000-084c9d21fdec",
-        "title": "Machine Learning Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778228821,
-        "date_posted": 1761868770,
-        "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
             "Master's",
             "PhD"
         ]
@@ -10705,74 +10636,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "d5cbc4c5-f215-47fb-ad95-c91f1cfff1d4",
-        "title": "2026 – Internship - Markets - Systematic Trading - New York",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761858607,
-        "date_posted": 1761858607,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
-        "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761824262,
-        "date_posted": 1761824262,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bellevue, WA",
-                "normalized": {
-                    "city": "Bellevue",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Layup Parts",
         "id": "c4a9beb0-b616-4c71-a7ec-ea8276002b31",
@@ -11697,38 +11560,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "PVM",
-        "id": "3edf8525-a520-4b2c-95a3-3f32a1ba9a39",
-        "title": "Dow Skillbridge Fellowship-Software Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767898335,
-        "date_posted": 1761877116,
-        "url": "https://job-boards.greenhouse.io/pvminc/jobs/4073946007",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": []
@@ -22201,44 +22032,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Nuro",
-        "id": "242bc7fa-31c3-45b7-959c-5b55fe14cd07",
-        "title": "Software Engineer Intern - AI Platform",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1781641155,
-        "date_posted": 1761871651,
-        "url": "https://nuro.ai/careersitem?gh_jid=7351061",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "STEM Xpert",
         "id": "08d690e6-7adf-4b03-8777-af061b925183",
@@ -22654,5 +22447,42 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782206305,
+        "date_posted": 1781361437,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bellevue, WA",
+                "normalized": {
+                    "city": "Bellevue",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
