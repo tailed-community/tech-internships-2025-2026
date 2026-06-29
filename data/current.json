@@ -3763,41 +3763,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "40027077-92ea-46e7-9d59-8ed4711ffedf",
-        "title": "ALM Scripting & Reporting Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779487741,
-        "date_posted": 1779487565,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
@@ -4707,38 +4672,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "BC Pensions",
-        "id": "2a7c3ecb-f1b5-4710-b053-84b3881af02b",
-        "title": "Survey Research Analyst Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780698241,
-        "date_posted": 1780697325,
-        "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/188",
-        "locations": [
-            "Victoria, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Victoria, BC, Canada",
-                "normalized": {
-                    "city": "Victoria",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -7766,38 +7699,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "CIBC",
-        "id": "514973ce-a99a-4baa-951b-a2163ccc6df0",
-        "title": "Commercial Banking-Data Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781644697,
-        "date_posted": 1781638984,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "SoloPulse",
         "id": "6eab1924-cfad-4106-b8c6-162292dcc659",
@@ -9057,6 +8958,42 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "36c3316e-beef-4d82-99dd-0b061669b32a",
+        "title": "Maps Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782598323,
+        "date_posted": 1782598076,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Bruno, CA",
+                "normalized": {
+                    "city": "San Bruno",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -10416,56 +10353,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "2b884fec-e0f6-4fe2-98c8-b5229384ec51",
-        "title": "Digital Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1781649904,
-        "date_posted": 1781639123,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2027---Returning-Students_R5030092-2",
-        "locations": [
-            "Sharonville, OH",
-            "Livonia, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sharonville, OH",
-                "normalized": {
-                    "city": "Sharonville",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Livonia, MI",
-                "normalized": {
-                    "city": "Livonia",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "BP",
         "id": "3c980af0-4471-4de7-931f-ec478a60e796",
@@ -11565,40 +11452,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
-        "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764583171,
-        "date_posted": 1761912398,
-        "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Link",
         "id": "d921a86e-3534-4df6-8b40-d9513b5da98c",
@@ -11703,76 +11556,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Consolidated Edison",
-        "id": "f93adc7f-27a9-488a-9793-95cf1e83fdf1",
-        "title": "Engineering Aide Temp Coops - College Students - Engineering Majors",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761908906,
-        "date_posted": 1761908906,
-        "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/2727",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
-        "title": "Part-Time Student - Advanced Engineering - Radar Systems",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763206746,
-        "date_posted": 1761898839,
-        "url": "https://johndeere.eightfold.ai/careers/job/137465721076",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Davenport, IA",
-                "normalized": {
-                    "city": "Davenport",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
@@ -11872,72 +11655,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
-        "title": "Student Researcher - Seed - LLM Model",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761912904,
-        "date_posted": 1761912904,
-        "url": "https://jobs.bytedance.com/en/position/7377527065203607834/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Elicit",
-        "id": "3defc6e2-42aa-43c9-b5b0-c14abadede78",
-        "title": "ML Research Resident",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761907585,
-        "date_posted": 1761907585,
-        "url": "https://jobs.ashbyhq.com/elicit/e04136b7-57e5-44d5-9a7c-cced3e2cb0f8/application",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oakland, CA",
-                "normalized": {
-                    "city": "Oakland",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -18278,208 +17995,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "8e11b217-af00-44fb-88cd-cb241676e359",
-        "title": "Technology Development Program - Artificial Intelligence Analyst",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780352281,
-        "date_posted": 1780351948,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Technology-Development-Program--TDP----Applied-Intelligence-Analyst---NAELFY26_R00326732",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "SF",
-            "LA",
-            "Arlington, TX",
-            "Philadelphia, PA",
-            "Las Colinas, Irving, TX",
-            "Chicago, IL",
-            "Charlotte, NC",
-            "Columbus, OH",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Arlington, TX",
-                "normalized": {
-                    "city": "Arlington",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Las Colinas, Irving, TX",
-                "normalized": {
-                    "city": "Las Colinas",
-                    "region": "Irving",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Columbus, OH",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Sherwin-Williams",
         "id": "ce9cfe28-1f61-400e-a4d2-1cc1887fd921",
@@ -21973,66 +21488,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "EPRI",
-        "id": "779365fa-ca41-4107-b351-4398f59a4338",
-        "title": "Energy and Climate Modeling Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781993791,
-        "date_posted": 1781993228,
-        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/RemoteHome-Based/Energy-and-Climate-Modeling-Student-Employee_REQ-4020",
-        "locations": [
-            "Palo Alto, CA",
-            "Washington, DC",
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "STEM Xpert",
         "id": "08d690e6-7adf-4b03-8777-af061b925183",
         "title": "Tibco Spotfire",
@@ -22475,6 +21930,241 @@
                     "region_code": "WA",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Clio",
+        "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1782206629,
+        "date_posted": 1781639242,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Persona",
+        "id": "7604d0cf-e8a9-429f-be46-b92f905b4e8d",
+        "title": "Software Engineer - Infrastructure Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782522721,
+        "date_posted": 1782522583,
+        "url": "https://jobs.ashbyhq.com/persona/ed38a449-505e-4509-9a04-b9914181324b/application",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "58f6524f-2134-4e8e-83e4-975dcef45f99",
+        "title": "Associate Engineer - Cloud",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782522721,
+        "date_posted": 1782522555,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000699953",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Kanata, Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Kanata",
+                    "region": "Ottawa",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
+        "title": "Part-Time Student - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773123403,
+        "date_posted": 1773123403,
+        "url": "https://johndeere.eightfold.ai/careers/job/137465721076",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Davenport, IA",
+                "normalized": {
+                    "city": "Davenport",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610911,
+        "url": "https://jobs.bytedance.com/en/position/7377527065203607834/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
+        "title": "Graduate Software Development Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780466997,
+        "date_posted": 1780466900,
+        "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
