@@ -343,6 +343,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Sajix | Business Intelligence Analyst | Pleasanton, CA | ['N/A'] | 2026-02-26 | [Apply Here](https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446) |
 | Sajix | Data Analyst | Pleasanton, CA | ['N/A'] | 2026-02-26 | [Apply Here](https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603050) |
 | Sajix | Data Scientist | Pleasanton, CA | ['N/A'] | 2026-02-26 | [Apply Here](https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603525) |
+| Palantir | Software Engineer Intern | NYC | ['Winter 2027', 'Spring 2027', 'Summer 2027'] | 2025-11-07 | [Apply Here](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply) |
 | USM Business Systems | Front End with PHP - Need GC and USC | Columbus, OH | ['N/A'] | 2026-02-27 | [Apply Here](https://jobs.smartrecruiters.com/USM2/98203296) |
 | John Deere | Part Time Student - Software Engineering - Champaign, IL, Technology (CA) | Urbana, IL | ['N/A'] | 2026-02-27 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137479424866) |
 | AXQ Capital | Quantitative Research Intern | NYC | ['Summer 2026', 'Winter 2026'] | 2026-03-02 | [Apply Here](https://job-boards.greenhouse.io/axq/jobs/5575450004) |
@@ -594,3 +595,9 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | John Deere | Part-Time Student - Multiple Teams | Davenport, IA | ['N/A'] | 2026-03-10 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137465721076) |
 | ByteDance | Student Researcher - Multiple Teams | San Jose, CA | ['N/A'] | 2026-06-04 | [Apply Here](https://jobs.bytedance.com/en/position/7377527065203607834/detail) |
 | ByteDance | Graduate Software Development Engineer | San Jose, CA | ['N/A'] | 2026-06-03 | [Apply Here](https://jobs.bytedance.com/en/position/7509266973236152583/detail) |
+| Palantir | Software Engineer Intern | NYC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply) |
+| Palantir | Software Engineer Intern | Denver, CO | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply) |
+| Palantir | Software Engineer Intern | Palo Alto, CA | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply) |
+| Palantir | Software Engineer Intern - Infrastructure | Palo Alto, CA | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply) |
+| Palantir | Software Engineer Intern - Defense Tech | Washington, DC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply) |
+| Palantir | Software Engineer Intern | Washington, DC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply) |
