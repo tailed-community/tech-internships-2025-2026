@@ -251,6 +251,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Delta Air Lines | Intern, Innovation - AI Engineering | Atlanta, GA | ['Fall 2026'] | 2026-06-24 | [Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) |
 | Tesla | Product Management Intern - Product Engineer - Applications Engineering | Fremont, CA | ['Fall 2026'] | 2026-06-24 | [Apply Here](https://www.tesla.com/careers/search/job/274754) |
 | Zipline | Maps Intern | San Bruno, CA | ['Fall 2026'] | 2026-06-27 | [Apply Here](https://www.zipline.com/open-roles?gh_jid=7787868003) |
+| KRAFTON | Programming Intern | Montreal, QC, Canada | ['Fall 2026'] | 2026-06-30 | [Apply Here](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
 | Rippling | Machine Learning Software Engineer Intern | SF | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
 | Rippling | Full Stack Software Engineer Intern | Seattle, WA, SF, NYC | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) |
 | Rippling | Software Engineer Intern - Backend Focused | Seattle, WA, SF, NYC | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) |
@@ -601,3 +602,4 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Palantir | Software Engineer Intern - Infrastructure | Palo Alto, CA | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply) |
 | Palantir | Software Engineer Intern - Defense Tech | Washington, DC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply) |
 | Palantir | Software Engineer Intern | Washington, DC | ['Winter 2028', 'Spring 2028', 'Summer 2028'] | 2026-06-29 | [Apply Here](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply) |
+| Worcester Polytechnic Institute | Research Software Engineer | Worcester, MA | ['N/A'] | 2026-06-30 | [Apply Here](https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515) |

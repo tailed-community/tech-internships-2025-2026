@@ -8997,6 +8997,40 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "KRAFTON",
+        "id": "7445221a-4683-4040-9ebb-25e29d31c57f",
+        "title": "Programming Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782828644,
+        "date_posted": 1782828297,
+        "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Montreal, QC, Canada",
+                "normalized": {
+                    "city": "Montréal",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
@@ -22420,5 +22454,39 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "64f8ea93-94b9-49f5-8369-66579fc43d6d",
+        "title": "Research Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782828296,
+        "date_posted": 1782828043,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Worcester, MA",
+                "normalized": {
+                    "city": "Worcester",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
