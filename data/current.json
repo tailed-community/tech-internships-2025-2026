@@ -618,40 +618,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Atomic Semi",
-        "id": "8273dd4e-b31d-493a-9d57-963229920587",
-        "title": "Packaging Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774910701,
-        "date_posted": 1774908509,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "87c4798f-208e-4f29-895a-37bcfe8f6e0f",
@@ -1731,38 +1697,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "SOTI",
-        "id": "532987f0-bfae-4a4f-a3fb-c33755ac93fa",
-        "title": "Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777414540,
-        "date_posted": 1777414036,
-        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mississauga, ON, Canada",
-                "normalized": {
-                    "city": "Mississauga",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "ccebacf3-3a78-4dc6-8622-681d550955d1",
@@ -1794,41 +1728,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "80c7c165-b50f-4379-9cc0-b2370c069c36",
-        "title": "Web Developer Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777511521,
-        "date_posted": 1777511344,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -2484,6 +2383,40 @@
         ]
     },
     {
+        "category": "Product",
+        "company_name": "SOTI",
+        "id": "10b8ba9b-4b53-4c9d-ac43-9343422d6e2d",
+        "title": "Associate Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778278942,
+        "date_posted": 1778278116,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mississauga, ON, Canada",
+                "normalized": {
+                    "city": "Mississauga",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "SOTI",
         "id": "572bd542-bdd6-4494-adf5-c3e38316b280",
@@ -2839,6 +2772,40 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "SOTI",
+        "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
+        "title": "Product Manager Intern - Sales Enablement Products",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778768559,
+        "date_posted": 1778767715,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mississauga, ON, Canada",
+                "normalized": {
+                    "city": "Mississauga",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -3527,42 +3494,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ASM International",
-        "id": "fa13bf02-a314-4b2e-8bc3-b2ac7835ed67",
-        "title": "Simulation and Modeling Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779819398,
-        "date_posted": 1776895584,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4830924101",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Phoenix, AZ",
-                "normalized": {
-                    "city": "Phoenix",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "category": "Hardware",
@@ -6912,41 +6843,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "ABB",
-        "id": "2f83c02a-b2e6-4e93-b7cf-9f6e1871f276",
-        "title": "AI Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781648646,
-        "date_posted": 1781639478,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Morrisville, NC",
-                "normalized": {
-                    "city": "Morrisville",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "4ad87d63-2221-4e93-9644-1fafb2275d88",
@@ -7321,40 +7217,6 @@
         "date_updated": 1781908518,
         "date_posted": 1781906923,
         "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Interac",
-        "id": "d85d289c-51f3-4f64-a4f9-fb72a227ccf2",
-        "title": "Software Development Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782166333,
-        "date_posted": 1782166099,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272",
         "locations": [
             "Toronto, ON, Canada"
         ],
@@ -8448,38 +8310,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Sun Life",
-        "id": "de7e28ae-dd6e-4b47-82b3-0afd505f197e",
-        "title": "Student – B2B Analyst Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782772152,
-        "date_posted": 1782770912,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--B2B-Analyst--Fall-2026-_JR00123285",
-        "locations": [
-            "North York, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "North York, ON, Canada",
-                "normalized": {
-                    "city": "North York",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "58c07bf1-1207-453a-9803-cc5b3bcd94cb",
         "title": "Product Engineering Intern - Simulation and Verification",
@@ -8511,38 +8341,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "41ae06f8-2f03-4a37-8105-9b69f2aa172e",
-        "title": "Commercial Data Science Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782396361,
-        "date_posted": 1782396278,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154-1",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Celebration, FL",
-                "normalized": {
-                    "city": "Celebration",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -8680,38 +8478,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "256296b9-f70f-4a10-99a9-7fda3af904fb",
-        "title": "Commercial Data Science Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782396361,
-        "date_posted": 1782396282,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Celebration, FL",
-                "normalized": {
-                    "city": "Celebration",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -10104,40 +9870,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "109a73d9-1b88-4bc7-a011-1b5eda9250d7",
-        "title": "SOC AI Power and Performance Validation Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782965494,
-        "date_posted": 1782962944,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/SOC-AI-Power-and-Performance-Validation-Undergrad-Intern_JR0285242-1",
-        "locations": [
-            "Folsom, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Folsom, CA",
-                "normalized": {
-                    "city": "Folsom",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Oracle",
         "id": "d55da702-839a-42a9-8c4d-a6356630c452",
@@ -10407,40 +10139,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Copart",
-        "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
-        "title": "Strategic Analyst Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783031956,
-        "date_posted": 1783029930,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -10847,6 +10545,252 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Arlington County VA",
+        "id": "098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
+        "title": "Utility Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783059020,
+        "date_posted": 1783058679,
+        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Clio",
+        "id": "7683e17b-9d90-4bd7-9b3f-eaa0568bfa2a",
+        "title": "Data Modeling Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783072371,
+        "date_posted": 1782338899,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Business-Operations-Co-op_REQ-5061",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "2f63f3e7-afc3-4a28-a187-dca0d89123c1",
+        "title": "Print & Post Intern / Co-op - P&P",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783117449,
+        "date_posted": 1783116700,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Kitchener, ON, Canada",
+                "normalized": {
+                    "city": "Kitchener",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sentra",
+        "id": "33c527f2-ac7d-48ff-8bda-4961e809a00b",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783117418,
+        "date_posted": 1783116640,
+        "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "State of North Carolina",
+        "id": "ea6ba83a-cbc7-4a99-9493-82d668c1e4a0",
+        "title": "Geographic Information Systems Intern - GIS",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783117757,
+        "date_posted": 1783116551,
+        "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-Wake/Geographic-Information-Systems--GIS--Intern---Fall-2026_JR-118586",
+        "locations": [
+            "North Carolina"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "North Carolina",
+                "normalized": {
+                    "city": null,
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "44e2d8e0-1adf-4090-8543-87e3ee669f2f",
+        "title": "Integrated Motor Drive Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783127776,
+        "date_posted": 1783127562,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-Co-Op---Fall-2026_JR00040102",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Greenville, SC",
+                "normalized": {
+                    "city": "Greenville",
+                    "region": "South Carolina",
+                    "region_code": "SC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -13189,6 +13133,75 @@
                     "region_code": null,
                     "country": "United Kingdom",
                     "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Travelers",
+        "id": "8e880f43-881f-428a-a0df-2499ae363955",
+        "title": "Product Management Development Program Intern - Pricing Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783059529,
+        "date_posted": 1783058951,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst---Summer-2027_R-51216",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Travelers",
+        "id": "66abf653-73b2-4490-8902-fd003a1987ce",
+        "title": "Product Management Development Program Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783059442,
+        "date_posted": 1783058952,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -18025,6 +18038,38 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "State College, PA",
+                "normalized": {
+                    "city": "State College",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Primetals Technologies",
         "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
@@ -19366,40 +19411,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "University of Arkansas",
-        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
-        "title": "Student Research Assistant-2",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778883497,
-        "date_posted": 1778882672,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
-        "locations": [
-            "Pine Bluff, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pine Bluff, AR",
-                "normalized": {
-                    "city": "Pine Bluff",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Akima",
         "id": "1b47df5a-a950-4f67-8411-1bb9a8fd4554",
@@ -20189,6 +20200,40 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
+        "title": "Working Student - BCG Vantage - Insurance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875636,
+        "date_posted": 1775686226,
+        "url": "https://careers.bcg.com/global/en/job/57721",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Neukirchen-Vluyn, Germany",
+                "normalized": {
+                    "city": "Neukirchen-vluyn",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "38d28da0-2f08-41e2-8661-35367fc982e0",
@@ -20427,42 +20472,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Sherwin-Williams",
-        "id": "ce9cfe28-1f61-400e-a4d2-1cc1887fd921",
-        "title": "R&D Product Engineering Co-op - Commercialization Engineering - Process Engineering",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1780353022,
-        "date_posted": 1780351660,
-        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613523",
-        "locations": [
-            "Seven Hills, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seven Hills, OH",
-                "normalized": {
-                    "city": "Seven Hills",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -20801,42 +20810,6 @@
         "date_updated": 1780524361,
         "date_posted": 1780524238,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36945",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "d3e60fcc-0af6-48e5-a267-bff5b0cc2985",
-        "title": "AI R&D Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1780524361,
-        "date_posted": 1780524237,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36944",
         "locations": [
             "Sunnyvale, CA"
         ],
@@ -22168,38 +22141,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Cummins",
-        "id": "5c420a56-27d6-498b-8244-a21b9df392ba",
-        "title": "Student – School to Work-Engineering",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781186956,
-        "date_posted": 1781186869,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430868",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Columbus, IN",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
         "id": "910e3e83-067b-4745-909a-efefbbacd8ec",
         "title": "Application Developer Level 1 - Geographic Information Systems",
@@ -23120,41 +23061,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Oklahoma State Government",
-        "id": "933ba205-c388-4e90-860a-b5e1ca92ba18",
-        "title": "Information Systems Application Specialist",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781822167,
-        "date_posted": 1781820770,
-        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Information-Systems-Application-Specialist_JR61406",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oklahoma City, OK",
-                "normalized": {
-                    "city": "Oklahoma City",
-                    "region": "Oklahoma",
-                    "region_code": "OK",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
         ]
     },
     {
@@ -24104,54 +24010,6 @@
         "date_updated": 1782396361,
         "date_posted": 1782396346,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---Technology--Toronto-Waterloo-_JR26061548",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Sun Life",
-        "id": "d752d3de-1880-4a55-86e3-f62e4c6ce7d0",
-        "title": "Student Associate Front-End Developer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782339651,
-        "date_posted": 1782338879,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Fall-2026-_JR00125432",
         "locations": [
             "Toronto, ON, Canada",
             "Kitchener, ON, Canada"
@@ -26296,5 +26154,419 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "9d7568db-dd77-40a4-ab10-9ddea6a7c985",
+        "title": "Business Insights & Analytics Leadership Development Program - BI&a Ldp - Geospatial Participant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058951,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Participant_R-51331",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "St Paul, MN",
+                "normalized": {
+                    "city": "St Paul",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Travelers",
+        "id": "940c277c-55c2-4e03-8046-d765e0c14dd7",
+        "title": "Engineering Development Program - Engineering Development Program - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058949,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sparks, MD",
+                "normalized": {
+                    "city": "Sparks",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "St Paul, MN",
+                "normalized": {
+                    "city": "St Paul",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AtkinsRéalis",
+        "id": "958e93d4-5d28-4d64-aef4-7b3e4b7f6e1a",
+        "title": "Physics Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058900,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Physics-Student---Fall_R-159111",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mississauga, ON, Canada",
+                "normalized": {
+                    "city": "Mississauga",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "4e54f4f7-8945-46be-8759-53b17afb00ea",
+        "title": "Business Insights & Analytics Leadership Development Program - BI&A LDP",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058952,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Participant_R-51330",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "St Paul, MN",
+                "normalized": {
+                    "city": "St Paul",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
+        "title": "Engineering Development Program - Data Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058953,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-51184-1",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sparks, MD",
+                "normalized": {
+                    "city": "Sparks",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hartford, CT",
+                "normalized": {
+                    "city": "Hartford",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "St Paul, MN",
+                "normalized": {
+                    "city": "St Paul",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Cerence",
+        "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
+        "title": "Student Worker",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783088461,
+        "date_posted": 1783087615,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "McMaster-Carr",
+        "id": "4dd6c156-2cf7-47e3-a050-40fc952ae8ea",
+        "title": "Management Track",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783117441,
+        "date_posted": 1783117310,
+        "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009",
+        "locations": [
+            "Cleveland, OH",
+            "Fort Worth, TX",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cleveland, OH",
+                "normalized": {
+                    "city": "Cleveland",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Fort Worth, TX",
+                "normalized": {
+                    "city": "Fort Worth",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "61c906f4-8ea5-4177-8afa-854efd9a7e01",
+        "title": "Engineer Marketradar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783117184,
+        "date_posted": 1783116494,
+        "url": "https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
