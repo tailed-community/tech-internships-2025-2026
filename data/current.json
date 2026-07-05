@@ -618,6 +618,40 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Atomic Semi",
+        "id": "8273dd4e-b31d-493a-9d57-963229920587",
+        "title": "Packaging Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1774910701,
+        "date_posted": 1774908509,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "87c4798f-208e-4f29-895a-37bcfe8f6e0f",
@@ -3598,40 +3632,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Grow Financial Federal Credit Union",
-        "id": "a8bc42d0-6eff-43be-aa0e-0aefce608f22",
-        "title": "Community Development Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1779821462,
-        "date_posted": 1778278035,
-        "url": "https://careers-growfinancial.icims.com/jobs/2674/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tampa, FL",
-                "normalized": {
-                    "city": "Tampa",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Astranis",
         "id": "ef2272f8-2e44-4153-8877-7adba67d1fe5",
@@ -3984,52 +3984,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
-        "title": "Perception Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780449301,
-        "date_posted": 1780449234,
-        "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
-        "locations": [
-            "Dallas, TX",
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Altom Transport",
         "id": "95bf548d-b42d-4076-aee6-3afce1e110be",
@@ -4092,42 +4046,6 @@
             }
         ],
         "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Zipline",
-        "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
-        "title": "Embedded Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780726501,
-        "date_posted": 1780726498,
-        "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
             "Master's",
             "PhD"
         ]
@@ -5562,42 +5480,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Zipline",
-        "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
-        "title": "Enterprise Systems Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781054461,
-        "date_posted": 1781054356,
-        "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "1Password",
         "id": "4474324d-fc29-44ab-ac6b-ad29c0babae6",
         "title": "Developer Intern - Trust Platforms",
@@ -6451,54 +6333,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
-        "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781273927,
-        "date_posted": 1781273200,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-        "locations": [
-            "Mountain View, CA",
-            "Warren, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Warren, MI",
-                "normalized": {
-                    "city": "Warren",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
         "title": "Research Intern - Inference",
@@ -7061,40 +6895,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Kinaxis",
-        "id": "cc7eaf50-2d27-4f31-89b7-4bf855cd03d2",
-        "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781820730,
-        "date_posted": 1781820304,
-        "url": "https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "1Password",
         "id": "b329a355-37a2-4a60-8ff5-bc9b42bf00c0",
         "title": "Developer Intern - Service Development",
@@ -7341,38 +7141,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "e855295f-176f-4209-a6ce-21b8ee7ed4e3",
-        "title": "Database Analyst Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782167018,
-        "date_posted": 1782166206,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -7732,42 +7500,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "36c3316e-beef-4d82-99dd-0b061669b32a",
-        "title": "Maps Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782598323,
-        "date_posted": 1782598076,
-        "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "KRAFTON",
         "id": "7445221a-4683-4040-9ebb-25e29d31c57f",
@@ -8058,75 +7790,6 @@
                     "city": "Fremont",
                     "region": null,
                     "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
-        "id": "dc9f318d-f558-4ebb-990f-3e9a63f772fc",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782396361,
-        "date_posted": 1782396330,
-        "url": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Software-Engineer-Intern_JR0000554-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "d61485a9-6c16-4f35-ab29-9444caf5b0aa",
-        "title": "Software Engineering Co-op - 8 Months",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782223826,
-        "date_posted": 1782223443,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -8850,42 +8513,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Zipline",
-        "id": "ae07548a-a2c2-42c2-950d-889a02c663bc",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782522541,
-        "date_posted": 1782522464,
-        "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Tesla",
         "id": "87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
         "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
@@ -9342,42 +8969,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Advocate Health Care",
-        "id": "f411fbb0-e7e4-412c-baf8-d663f84fef6f",
-        "title": "Pearl Innovation District Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782961755,
-        "date_posted": 1782956596,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247321",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "Intermountain Healthcare",
         "id": "821df725-8277-4656-845f-df116ea22cc6",
@@ -9443,52 +9034,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "b94333b9-6fc0-4fd0-94d0-c0e6de1ad3e3",
-        "title": "Relationship Manager Business Markets Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782963189,
-        "date_posted": 1782958179,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRIDGEWATER-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178540-1",
-        "locations": [
-            "Lunenburg, NS, Canada",
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lunenburg, NS, Canada",
-                "normalized": {
-                    "city": "Lunenburg",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Halifax Regional Municipality, NS, Canada",
-                "normalized": {
-                    "city": "Halifax Regional Municipality",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -9822,52 +9367,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "b621400b-8b8b-4142-ba25-70aeb8b039ba",
-        "title": "Relationship Manager Business Markets Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782965343,
-        "date_posted": 1782958180,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TRURO-Nova-Scotia-Canada/Relationship-Manager-Business-Markets-Intern_R-0000178538",
-        "locations": [
-            "Dartmouth, NS, Canada",
-            "New Glasgow, NS, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dartmouth, NS, Canada",
-                "normalized": {
-                    "city": "Dartmouth",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "New Glasgow, NS, Canada",
-                "normalized": {
-                    "city": "New Glasgow",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -10759,33 +10258,181 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "ABB",
-        "id": "44e2d8e0-1adf-4090-8543-87e3ee669f2f",
-        "title": "Integrated Motor Drive Co-op",
+        "category": "AI/ML/Data",
+        "company_name": "Output Biosciences",
+        "id": "366c2106-60ad-48af-b7c0-95537c275a17",
+        "title": "Research Intern - Machine Learning",
         "active": true,
         "terms": [
             "Fall 2026"
         ],
-        "date_updated": 1783127776,
-        "date_posted": 1783127562,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-Co-Op---Fall-2026_JR00040102",
+        "date_updated": 1783156682,
+        "date_posted": 1783156182,
+        "url": "https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
         "locations": [
-            "Greenville, SC"
+            "SF",
+            "NYC"
         ],
         "normalized_locations": [
             {
-                "raw": "Greenville, SC",
+                "raw": "SF",
                 "normalized": {
-                    "city": "Greenville",
-                    "region": "South Carolina",
-                    "region_code": "SC",
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "f55b9a62-891c-491e-b541-edf1e930d143",
+        "title": "Assembly Process Technician Intern - Yield Enhancement / Failure Analysis",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783168623,
+        "date_posted": 1783161315,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101",
+        "locations": [
+            "Leander, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leander, TX",
+                "normalized": {
+                    "city": "Leander",
+                    "region": "Texas",
+                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Droyd Robotics",
+        "id": "d423afb4-e4be-41f7-923e-d55ed5e3bddb",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Verne Robotics",
+        "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174066,
+        "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Bruno, CA",
+                "normalized": {
+                    "city": "San Bruno",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Droyd Robotics",
+        "id": "457f1bf0-10ec-41b5-ab16-bc702e1a0fb4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174382,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -12248,41 +11895,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Vanguard",
-        "id": "d0f72c8c-e847-415b-82d7-2a6f0635fc6b",
-        "title": "IT Intern - Data Science",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1782339599,
-        "date_posted": 1782338850,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680",
-        "locations": [
-            "Malvern, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Malvern, PA",
-                "normalized": {
-                    "city": "Malvern",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "12c027ac-4d4e-436f-8165-633a717cc12a",
@@ -13214,36 +12826,38 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "The Home Depot",
-        "id": "f3334e9e-b58d-49f7-b126-3f786ea0ceb0",
-        "title": "Firmware Developer Intern",
+        "category": "Software",
+        "company_name": "CTGT",
+        "id": "8c8a1f21-e711-48d0-8cec-601018138920",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Fall 2027"
+            "Summer 2027"
         ],
-        "date_updated": 1782858239,
-        "date_posted": 1782857338,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Firmware-Developer_Req185608",
+        "date_updated": 1783174416,
+        "date_posted": 1783174097,
+        "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
         "locations": [
-            "Toronto, ON, Canada"
+            "SF"
         ],
         "normalized_locations": [
             {
-                "raw": "Toronto, ON, Canada",
+                "raw": "SF",
                 "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
                 },
                 "type": "onsite",
                 "unresolved": false,
-                "confidence": 1.0
+                "confidence": 0.7
             }
         ],
-        "degrees": []
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Software",
@@ -13313,40 +12927,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Home Depot",
-        "id": "f88cf8a9-bc5a-4c1c-9279-140b822920e4",
-        "title": "AI Machine Learning Developer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2027"
-        ],
-        "date_updated": 1782858227,
-        "date_posted": 1782857338,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req185607",
-        "locations": [
-            "North York, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "North York, ON, Canada",
-                "normalized": {
-                    "city": "North York",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -18038,38 +17618,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Pennsylvania State University",
-        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
-        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776242398,
-        "date_posted": 1776204516,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "State College, PA",
-                "normalized": {
-                    "city": "State College",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Primetals Technologies",
         "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
@@ -18712,40 +18260,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Loblaw Companies",
-        "id": "e78fc999-e787-4237-beb5-6e129705ecca",
-        "title": "Analyst Co-op - Finance Insights and Technology Engagement",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1777875350,
-        "date_posted": 1777874967,
-        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658455-1",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Brampton, ON, Canada",
-                "normalized": {
-                    "city": "Brampton",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -20197,40 +19711,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
-        "title": "Working Student - BCG Vantage - Insurance",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1779875636,
-        "date_posted": 1775686226,
-        "url": "https://careers.bcg.com/global/en/job/57721",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Neukirchen-Vluyn, Germany",
-                "normalized": {
-                    "city": "Neukirchen-vluyn",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Germany",
-                    "country_code": "DE"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -21687,6 +21167,40 @@
     },
     {
         "category": "Hardware",
+        "company_name": "Generac",
+        "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
+        "title": "GPS Apprentice - Electrical",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1780908707,
+        "date_posted": 1780524402,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Berlin-WI---USA/GPS-Student-Apprentice---Electrical_JR14694",
+        "locations": [
+            "Wisconsin"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Wisconsin",
+                "normalized": {
+                    "city": null,
+                    "region": "Wisconsin",
+                    "region_code": "WI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
         "company_name": "VSC Fire & Security",
         "id": "6c7f08b9-bb77-4989-a565-eb4e6b509e7f",
         "title": "Integrated Systems Technician Trainee",
@@ -22031,41 +21545,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "765ee212-ae49-4415-83b1-c513541055d8",
-        "title": "Software Engineering Co-op - Information and Communication Technology",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1781169563,
-        "date_posted": 1780005807,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -22625,55 +22104,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "3b47c328-0176-431a-949d-2f90f9911595",
-        "title": "Engineering Development Program - Engines - Computer Engineering/Science",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781640891,
-        "date_posted": 1781639126,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1",
-        "locations": [
-            "Sharonville, OH",
-            "Saugus, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sharonville, OH",
-                "normalized": {
-                    "city": "Sharonville",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Saugus, MA",
-                "normalized": {
-                    "city": "Saugus",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Definity Financial",
         "id": "35b298f5-dbfb-476b-a5c0-782ae622f7cd",
@@ -22915,40 +22345,6 @@
                     "country_code": "US"
                 },
                 "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas at Austin",
-        "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
-        "title": "Course Support - Rhetoric",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781736403,
-        "date_posted": 1781734016,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Course-Support---Rhetoric--Open-to-Work-Study-and-Non-Work-Study-_R_00046798",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -23484,38 +22880,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "University of Texas at Austin",
-        "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
-        "title": "DSR Lab Data Student Assistant",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782310322,
-        "date_posted": 1782309925,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/DSR-Lab-Data-Student-Assistant--Open-to-Work-Study-and-Non-Work-Study-_R_00046913",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Tencent",
         "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
         "title": "Research Intern",
@@ -23999,54 +23363,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "d73f017c-6e22-4f66-9a05-550380502c5c",
-        "title": "GRO Program - Technology",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782396361,
-        "date_posted": 1782396346,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---Technology--Toronto-Waterloo-_JR26061548",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Kabam",
         "id": "1f004155-2261-4b65-b964-4b7862bea55d",
@@ -24200,38 +23516,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Worcester Polytechnic Institute",
-        "id": "d3d4026f-7692-4702-b165-7ab30790335c",
-        "title": "Graduate Research Assistant - Fire Protection Engineering - JM",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782425081,
-        "date_posted": 1782424847,
-        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Graduate-Research-Assistant_R0003512",
-        "locations": [
-            "Worcester, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Worcester, MA",
-                "normalized": {
-                    "city": "Worcester",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -25527,56 +24811,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Alcon",
-        "id": "b1d6e239-4eee-4864-a45c-ce9af9df77a8",
-        "title": "Envision R&D Rotational Program - Track 2",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782916103,
-        "date_posted": 1782914896,
-        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2026-Envision-R-D-Rotational-Program---Track-2_R-2026-47915",
-        "locations": [
-            "Lake Forest, CA",
-            "Fort Worth, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lake Forest, CA",
-                "normalized": {
-                    "city": "Lake Forest",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Fort Worth, TX",
-                "normalized": {
-                    "city": "Fort Worth",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Climate Corps",
         "id": "ac0187b3-d62d-4462-8812-3f558065a8a5",
@@ -25714,41 +24948,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "b0bf160f-6eac-4862-8d26-22b97b2bc5b3",
-        "title": "Software Safety Engineer - Level",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1782957421,
-        "date_posted": 1782957318,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Safety-Engineer---Level-1-2_R10234431",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chandler, AZ",
-                "normalized": {
-                    "city": "Chandler",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -25921,41 +25120,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Aptiv",
-        "id": "f31b6c02-6615-4940-99d0-cbfb01419b3c",
-        "title": "Associate Engineer - Cloud",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1783031221,
-        "date_posted": 1783030170,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud_J000699956",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kanata, Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Kanata",
-                    "region": "Ottawa",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -26441,40 +25605,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Cerence",
-        "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
-        "title": "Student Worker",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1783088461,
-        "date_posted": 1783087615,
-        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "McMaster-Carr",
         "id": "4dd6c156-2cf7-47e3-a050-40fc952ae8ea",
@@ -26568,5 +25698,153 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Lovable",
+        "id": "b36ca521-c0c7-4fb0-a50a-04c0f2c5302d",
+        "title": "Product Experience Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783157761,
+        "date_posted": 1774908551,
+        "url": "https://jobs.ashbyhq.com/lovable/1d226bc3-d26c-481f-8619-88b6cc9179d8/application",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Moss & Associates",
+        "id": "eb7c9278-b747-41eb-bd43-ea34cc2fb046",
+        "title": "Construction Technologies Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783163564,
+        "date_posted": 1783161622,
+        "url": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710",
+        "locations": [
+            "McKinney, TX",
+            "Tampa, FL",
+            "Fort Lauderdale, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "McKinney, TX",
+                "normalized": {
+                    "city": "Mckinney",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Tampa, FL",
+                "normalized": {
+                    "city": "Tampa",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Fort Lauderdale, FL",
+                "normalized": {
+                    "city": "Fort Lauderdale",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "b3481e39-bfac-4371-a229-3988483eefff",
+        "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783170596,
+        "date_posted": 1783158437,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W",
+        "locations": [
+            "Georgia",
+            "Virginia"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Georgia",
+                "normalized": {
+                    "city": null,
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Virginia",
+                "normalized": {
+                    "city": null,
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
     }
 ]
