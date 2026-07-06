@@ -2185,6 +2185,41 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
+        "title": "Lab Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778019841,
+        "date_posted": 1778019004,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vandalia, OH",
+                "normalized": {
+                    "city": "Vandalia",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "358798bb-3dee-4d2f-a674-03e9665aead1",
@@ -3834,41 +3869,6 @@
     {
         "category": "Hardware",
         "company_name": "Nokia",
-        "id": "e3ae41c7-d6ca-4d08-aa0c-23cd1ac65dec",
-        "title": "Silicon Photonics Packaging Co-op/Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780437961,
-        "date_posted": 1780437805,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Nokia",
         "id": "5a631c04-f315-4cb5-b558-aa2ad0ea69fb",
         "title": "Silicon Photonics Packaging Engineer Co-op",
         "active": true,
@@ -5108,40 +5108,6 @@
     {
         "category": "Hardware",
         "company_name": "Tesla",
-        "id": "3f099127-5e46-4a19-bbda-3e62875498eb",
-        "title": "Systems Integration Engineer Intern - Body Controls",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780843018,
-        "date_posted": 1780842897,
-        "url": "https://www.tesla.com/careers/search/job/270617",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Tesla",
         "id": "88766d81-38a1-4e05-86b9-0d4f5f4f630b",
         "title": "Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms",
         "active": true,
@@ -5274,38 +5240,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "83eafbc5-8c79-43e8-8d3d-b06bff9f0c93",
-        "title": "Computational Physics Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780960142,
-        "date_posted": 1780956931,
-        "url": "https://www.zipline.com/careers?gh_jid=7766408003#open-roles",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Product",
@@ -6300,38 +6234,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Zipline",
-        "id": "b47e22be-63c8-4907-bae9-8d159b87afa9",
-        "title": "Hardware Test Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781256961,
-        "date_posted": 1779833594,
-        "url": "https://www.zipline.com/careers?gh_jid=7747248003#open-roles",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
@@ -7029,6 +6931,40 @@
                     "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Freeform",
+        "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
+        "title": "Process Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782080867,
+        "date_posted": 1781043772,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
+        "locations": [
+            "LA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -9642,6 +9578,40 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Copart",
+        "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
+        "title": "Strategic Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031956,
+        "date_posted": 1783029930,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
@@ -10130,100 +10100,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "2f63f3e7-afc3-4a28-a187-dca0d89123c1",
-        "title": "Print & Post Intern / Co-op - P&P",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783117449,
-        "date_posted": 1783116700,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Sentra",
-        "id": "33c527f2-ac7d-48ff-8bda-4961e809a00b",
-        "title": "Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783117418,
-        "date_posted": 1783116640,
-        "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "State of North Carolina",
         "id": "ea6ba83a-cbc7-4a99-9493-82d668c1e4a0",
         "title": "Geographic Information Systems Intern - GIS",
@@ -10437,6 +10313,42 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Seven Research",
+        "id": "7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
+        "title": "Core Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782943963,
+        "date_posted": 1782943781,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -12860,6 +12772,106 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "a619c6de-ef67-4039-af21-31cf505b8ee2",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "The Home Depot",
         "id": "98ab0522-0f4a-4c35-bc28-cf7cd06d5618",
@@ -14802,78 +14814,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1767695053,
-        "date_posted": 1762540593,
-        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1767695073,
-        "date_posted": 1762540592,
-        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -17618,6 +17558,38 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "State College, PA",
+                "normalized": {
+                    "city": "State College",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Primetals Technologies",
         "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
@@ -18506,40 +18478,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Smiths Detection Group",
-        "id": "0a319815-2604-4c98-94da-26b6a462a885",
-        "title": "Depot Service Engineer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778193575,
-        "date_posted": 1778191442,
-        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
-        "locations": [
-            "Gunpowder, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Gunpowder, MD",
-                "normalized": {
-                    "city": "Gunpowder",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -19699,6 +19637,74 @@
                 "raw": "Jackson Township, NJ",
                 "normalized": {
                     "city": "Jackson Township",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
+        "title": "Working Student - BCG Vantage - Insurance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875636,
+        "date_posted": 1775686226,
+        "url": "https://careers.bcg.com/global/en/job/57721",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Neukirchen-Vluyn, Germany",
+                "normalized": {
+                    "city": "Neukirchen-vluyn",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
+        "title": "Technical Service Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779920012,
+        "date_posted": 1779919479,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Parsippany-Troy Hills, NJ",
+                "normalized": {
+                    "city": "Parsippany-troy Hills",
                     "region": "New Jersey",
                     "region_code": "NJ",
                     "country": "United States",
@@ -21167,40 +21173,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Generac",
-        "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
-        "title": "GPS Apprentice - Electrical",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1780908707,
-        "date_posted": 1780524402,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Berlin-WI---USA/GPS-Student-Apprentice---Electrical_JR14694",
-        "locations": [
-            "Wisconsin"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wisconsin",
-                "normalized": {
-                    "city": null,
-                    "region": "Wisconsin",
-                    "region_code": "WI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "VSC Fire & Security",
         "id": "6c7f08b9-bb77-4989-a565-eb4e6b509e7f",
         "title": "Integrated Systems Technician Trainee",
@@ -21834,38 +21806,6 @@
     },
     {
         "category": "Software",
-        "company_name": "mthree",
-        "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
-        "title": "Technology Talent Programme",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1781425133,
-        "date_posted": 1781425133,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Letchworth Garden City, UK",
-                "normalized": {
-                    "city": "Letchworth Garden City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
         "id": "82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
         "title": "Application Developer 1 - Peoplesoft - Tcu",
@@ -22345,6 +22285,40 @@
                     "country_code": "US"
                 },
                 "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
+        "title": "Course Support - Rhetoric",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781736403,
+        "date_posted": 1781734016,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Course-Support---Rhetoric--Open-to-Work-Study-and-Non-Work-Study-_R_00046798",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -25795,41 +25769,27 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "b3481e39-bfac-4371-a229-3988483eefff",
-        "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
+        "category": "Hardware",
+        "company_name": "American University",
+        "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
+        "title": "Lab Technician - Student",
         "active": true,
         "terms": [
             "N/A"
         ],
-        "date_updated": 1783170596,
-        "date_posted": 1783158437,
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W",
+        "date_updated": 1783251276,
+        "date_posted": 1783157967,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/DaBL-Lab-Technician--Student-_R4402",
         "locations": [
-            "Georgia",
-            "Virginia"
+            "Washington, DC"
         ],
         "normalized_locations": [
             {
-                "raw": "Georgia",
+                "raw": "Washington, DC",
                 "normalized": {
-                    "city": null,
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Virginia",
-                "normalized": {
-                    "city": null,
-                    "region": "Virginia",
-                    "region_code": "VA",
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -25838,13 +25798,78 @@
                 "confidence": 1.0
             }
         ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
+        "title": "Software Engineer Intern - Defense Tech",
+        "active": true,
+        "terms": [
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1782770802,
+        "date_posted": 1782770693,
+        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
+        "title": "Software Engineer Intern - Defense Tech",
+        "active": true,
+        "terms": [
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1782770801,
+        "date_posted": 1782770692,
+        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
