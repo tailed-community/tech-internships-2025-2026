@@ -1490,6 +1490,41 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
+        "title": "Lab Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778019841,
+        "date_posted": 1778019004,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vandalia, OH",
+                "normalized": {
+                    "city": "Vandalia",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "358798bb-3dee-4d2f-a674-03e9665aead1",
@@ -1819,40 +1854,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
-        "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778721218,
-        "date_posted": 1778721047,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -7971,43 +7972,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
-        "title": "Field Engineer Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783462715,
-        "date_posted": 1783461977,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043345-1",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Jackson Township, NJ",
-                "normalized": {
-                    "city": "Jackson Township",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Amwins",
         "id": "96edf10e-0444-407a-bdcd-f798aedcb75d",
@@ -8071,74 +8035,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
-        "title": "Data Scientist Co-op/Internship - Months",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783463899,
-        "date_posted": 1783462710,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "5e294159-e3e6-40db-afb9-65ff63749aa3",
-        "title": "Data Scientist Co-op/Internship - Months",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783463745,
-        "date_posted": 1783462635,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -8242,79 +8138,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
-        "title": "Field Engineer Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783491308,
-        "date_posted": 1783490748,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1",
-        "locations": [
-            "California"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "California",
-                "normalized": {
-                    "city": null,
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
-        "title": "Field Engineer Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783508496,
-        "date_posted": 1783490748,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salt Lake City, UT",
-                "normalized": {
-                    "city": "Salt Lake City",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
         ]
     },
     {
@@ -8617,43 +8440,6 @@
     {
         "category": "Hardware",
         "company_name": "GE Healthcare",
-        "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
-        "title": "Field Engineer Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783587541,
-        "date_posted": 1783472744,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Little Rock, AR",
-                "normalized": {
-                    "city": "Little Rock",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
         "active": true,
@@ -8891,6 +8677,41 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+        "title": "Editorial Data Reporting Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783722508,
+        "date_posted": 1783641600,
+        "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -9156,79 +8977,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
-        "title": "Client Service Technician Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783845107,
-        "date_posted": 1783519495,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Plainview, NY",
-                "normalized": {
-                    "city": "Plainview",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
-        "title": "Field Service Apprentice",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783853717,
-        "date_posted": 1783472744,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180",
-        "locations": [
-            "Houston, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
         ]
     },
     {
@@ -11087,40 +10835,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Torch Technologies",
-        "id": "8c876217-e8c7-4d37-9703-ecd3485077ae",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1784241364,
-        "date_posted": 1784160000,
-        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Huntsville, AL",
-                "normalized": {
-                    "city": "Huntsville",
-                    "region": "Alabama",
-                    "region_code": "AL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Signify",
         "id": "53b05ee3-6604-4622-a8aa-3ec9ea7bfde6",
@@ -11444,43 +11158,29 @@
     {
         "category": "Hardware",
         "company_name": "GE Healthcare",
-        "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
-        "title": "Field Engineer Apprentice",
+        "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
+        "title": "Client Service Technician Apprentice",
         "active": true,
         "terms": [
             "Fall 2026"
         ],
-        "date_updated": 1784287528,
-        "date_posted": 1783987200,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559",
+        "date_updated": 1784288793,
+        "date_posted": 1783641600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043521-1",
         "locations": [
-            "Dayton, OH",
-            "Columbus, OH"
+            "Remote in USA"
         ],
         "normalized_locations": [
             {
-                "raw": "Dayton, OH",
+                "raw": "Remote in USA",
                 "normalized": {
-                    "city": "Dayton",
-                    "region": "Ohio",
-                    "region_code": "OH",
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
                     "country": "United States",
                     "country_code": "US"
                 },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Columbus, OH",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
+                "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -11488,7 +11188,6 @@
         "degrees": [
             "Bachelor's",
             "Master's",
-            "Associate's",
             "Certificate"
         ]
     },
@@ -11791,41 +11490,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Light & Wonder",
-        "id": "3206a3c7-6479-4c8b-a740-4ef15061ca24",
-        "title": "Mathematics Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1784394284,
-        "date_posted": 1782511486,
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -15475,6 +15139,518 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "80b3432f-f7a2-4886-bda6-698e860df082",
+        "title": "Real Estate Originations Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499376,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/New-York-2-Manhattan-West/PGIM--2027-Real-Estate--Originations-Summer-Investment-Analyst-Program_R-124635-1",
+        "locations": [
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Arlington, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "68ceeffa-36f0-4cd6-9256-42fd6f4f016d",
+        "title": "Real Estate Equity Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499369,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Newark, NJ",
+                "normalized": {
+                    "city": "Newark",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "5a269be3-70f1-404a-9253-05cad76cc524",
+        "title": "Real Estate – Agency Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499367,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Summer-Investment-Analyst-Program_R-124636",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "06633e4b-4d98-4a80-a791-5dc0f248390f",
+        "title": "Real Estate Originations Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499371,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/New-York-2-Manhattan-West/PGIM--2027-Real-Estate--Originations-Summer-Investment-Analyst-Program_R-124635-2",
+        "locations": [
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Arlington, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "d1a12763-bd6a-435c-bc94-05274ad822f1",
+        "title": "Real Estate Equity Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499130,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Newark, NJ",
+                "normalized": {
+                    "city": "Newark",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "849baafe-bf8b-4ebd-babd-b2a9b6f0e628",
+        "title": "Real Estate – Agency Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784499103,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Summer-Investment-Analyst-Program_R-124636-2",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arlington, VA",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "GE Aerospace",
         "id": "98b2d71c-c3a4-4892-8f99-819ee747189d",
@@ -16497,41 +16673,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TENEX.AI",
-        "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1763770704,
-        "date_posted": 1763770704,
-        "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -19640,6 +19781,38 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "State College, PA",
+                "normalized": {
+                    "city": "State College",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "RoboForce",
         "id": "cb8969ea-a048-45c2-8ba6-f00ae4e5743a",
@@ -20623,6 +20796,40 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "University of Arkansas",
+        "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
+        "title": "Student Research Assistant-2",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778883497,
+        "date_posted": 1778882672,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pine Bluff, AR",
+                "normalized": {
+                    "city": "Pine Bluff",
+                    "region": "Arkansas",
+                    "region_code": "AR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Akima",
         "id": "1b47df5a-a950-4f67-8411-1bb9a8fd4554",
@@ -20978,6 +21185,40 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
+        "title": "Reports Officer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779872243,
+        "date_posted": 1778943597,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Reports-Officer_R-00161172",
+        "locations": [
+            "Reston, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Reston, VA",
+                "normalized": {
+                    "city": "Reston",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -21374,38 +21615,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
-        "title": "Graduate Event Data Assistant - Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780390323,
-        "date_posted": 1780351509,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -25289,6 +25498,91 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "b3481e39-bfac-4371-a229-3988483eefff",
+        "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783170596,
+        "date_posted": 1783158437,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W",
+        "locations": [
+            "Georgia",
+            "Virginia"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Georgia",
+                "normalized": {
+                    "city": null,
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Virginia",
+                "normalized": {
+                    "city": null,
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "American University",
+        "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
+        "title": "Lab Technician - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783251276,
+        "date_posted": 1783157967,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/DaBL-Lab-Technician--Student-_R4402",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Palantir",
         "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
@@ -26028,46 +26322,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
-        "title": "Field Service Apprentice",
-        "active": true,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1783585745,
-        "date_posted": 1783490750,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Minneapolis, MN",
-                "normalized": {
-                    "city": "Minneapolis",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Brevium",
         "id": "6de13808-7632-4d90-b7bb-993b55170ec7",
@@ -26253,40 +26507,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "M&T Bank",
-        "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
-        "title": "Technology Development Program",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1783923031,
-        "date_posted": 1783900800,
-        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Buffalo, NY",
-                "normalized": {
-                    "city": "Buffalo",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Product",
@@ -27334,5 +27554,221 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "ae61434b-9142-44d7-96d5-7e8a5731372f",
+        "title": "Real Estate - Equity Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784499400,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Newark, NJ",
+                "normalized": {
+                    "city": "Newark",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "9f4e4614-b132-4a36-8ec6-51a051c0ef58",
+        "title": "Real Estate - Equity Investment Analyst Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784499101,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631-2",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Newark, NJ",
+                "normalized": {
+                    "city": "Newark",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Akuna Capital University",
+        "id": "6a196f62-5321-4ff7-b50a-011045a440fc",
+        "title": "Expression of Interest: Trading Sneak Peek Weeks",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784510335,
+        "date_posted": 1784510240,
+        "url": "https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
