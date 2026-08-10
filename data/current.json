@@ -2861,54 +2861,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
-        "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1781273927,
-        "date_posted": 1781273200,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-        "locations": [
-            "Mountain View, CA",
-            "Warren, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Warren, MI",
-                "normalized": {
-                    "city": "Warren",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Synchrony Financial",
         "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
@@ -5616,40 +5568,6 @@
             "Master's",
             "Associate's",
             "Certificate"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
-        "title": "Data Scientist Co-op/Internship - Months",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783463899,
-        "date_posted": 1783462710,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -12741,38 +12659,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "The Home Depot",
-        "id": "7e366937-87f7-41fb-9481-e1c24fa3a9dd",
-        "title": "AI Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785449914,
-        "date_posted": 1785369600,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "fbc2121f-6452-434e-a732-904dabe11cd7",
@@ -14320,6 +14206,42 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Postman",
+        "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785624665,
+        "date_posted": 1785622401,
+        "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Berkeley, CA",
+                "normalized": {
+                    "city": "Berkeley",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -17259,41 +17181,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "2fcbb0e5-821d-4c7e-9f0f-8e20e007602f",
-        "title": "Machine Learning Researcher Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785969046,
-        "date_posted": 1785888000,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471",
-        "locations": [
-            "East Hartford, CT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "East Hartford, CT",
-                "normalized": {
-                    "city": "East Hartford",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "76291290-bef0-475b-8a78-7859ffb4fd99",
         "title": "AI/LLM Network Research Intern - High Speed Network - PhD",
@@ -18630,40 +18517,6 @@
                     "city": "Burnaby",
                     "region": "British Columbia",
                     "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Bank of Montreal",
-        "id": "22bd8216-0e96-4a9c-858c-61b383700c83",
-        "title": "Card Products Intern Co-op - Customer Solutions",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786142443,
-        "date_posted": 1786060800,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -25613,42 +25466,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Microsoft",
-        "id": "b7198b61-27db-46c1-8155-5a5bdb14370f",
-        "title": "Product Manager Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1785737827,
-        "date_posted": 1785737301,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "aa8461e0-479c-42e8-b21c-4489e4881002",
@@ -31521,40 +31338,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "55d8eebc-3068-41c4-bbd7-add2f7ce530b",
-        "title": "Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1785939340,
-        "date_posted": 1785888000,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Annapolis Junction, MD",
-                "normalized": {
-                    "city": "Annapolis Junction",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Incomplete"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "Maven Securities",
         "id": "f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
@@ -33261,6 +33044,102 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "ecf9f185-f2d1-4cc0-b34b-c49855781ce2",
+        "title": "Strategic Technology Intern - SED Division",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786313608,
+        "date_posted": 1786233600,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092",
+        "locations": [
+            "Tampa, FL",
+            "Tallahassee, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Tampa, FL",
+                "normalized": {
+                    "city": "Tampa",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Tallahassee, FL",
+                "normalized": {
+                    "city": "Tallahassee",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "19e8cd86-cd45-45f4-a5f1-a82b1077c564",
+        "title": "Strategic Technology Intern - SED Division",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786313605,
+        "date_posted": 1786233600,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
+        "locations": [
+            "Tampa, FL",
+            "Tallahassee, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Tampa, FL",
+                "normalized": {
+                    "city": "Tampa",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Tallahassee, FL",
+                "normalized": {
+                    "city": "Tallahassee",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Georgian Partners Growth",
         "id": "e82820b4-2e75-4801-98c5-fd73b5bcc48f",
         "title": "AI/ML Engineer Intern",
@@ -33674,41 +33553,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "ada5c220-536e-454a-8ba0-1f7629d949e6",
-        "title": "Forward Deployed Software Engineer – Internship - US Government",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1765581501,
-        "date_posted": 1765581501,
-        "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-        "locations": [
-            "Honolulu, HI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Honolulu, HI",
-                "normalized": {
-                    "city": "Honolulu",
-                    "region": "Hawaii",
-                    "region_code": "HI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
