@@ -14819,40 +14819,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Canva",
-        "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
-        "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786054145,
-        "date_posted": 1786054035,
-        "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Alayacare",
         "id": "25caade8-8d17-4ab4-bf25-ec493e15a86a",
@@ -15152,6 +15118,40 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Canva",
+        "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
+        "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786093381,
+        "date_posted": 1786093364,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
     },
     {
         "category": "Hardware",
@@ -20070,6 +20070,38 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Photon",
+        "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
+        "title": "Software Engineering Intern - AI",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786843304,
+        "date_posted": 1786843116,
+        "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": []
@@ -38343,6 +38375,109 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768208,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175424?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
+        "title": "Summer Associate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171566?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
+        "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/170935?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "RTX",
         "id": "aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
@@ -38366,6 +38501,146 @@
                     "region_code": null,
                     "country": "Canada",
                     "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806930,
+        "date_posted": 1786767947,
+        "url": "https://higher.gs.com/roles/171535?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806931,
+        "date_posted": 1786767951,
+        "url": "https://higher.gs.com/roles/171563?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
+        "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806924,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/170675?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+        "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806912,
+        "date_posted": 1786767935,
+        "url": "https://higher.gs.com/roles/181628?type=students",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -38412,6 +38687,38 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Boom Supersonic",
+        "id": "e20e8881-f8a9-45e1-84db-11e452da1606",
+        "title": "Engineering and Tech Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786922531,
+        "date_posted": 1786922298,
+        "url": "https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Centennial, CO",
+                "normalized": {
+                    "city": "Centennial",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",

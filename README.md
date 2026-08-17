@@ -415,7 +415,6 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Nokia | AI R&D Engineer Co-op | Sunnyvale, CA | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288) |
 | PlusAI | Deep Learning Research Intern - Multimodal BEV Perception | Santa Clara, CA | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) |
 | State of Nebraska | IT Construction Systems Intern | Lincoln, NE | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00028484-1) |
-| Canva | PhD Research Scientist Intern - Reinforcement Learning - Images | London, UK | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://jobs.smartrecruiters.com/Canva/6000000001292768) |
 | Alayacare | Full-Stack Developer Intern - Python | Montreal, QC, Canada | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | San Ramon, CA | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) |
 | Centerfield | Frontend Engineer Intern | LA | ['Fall 2026'] | 2026-08-06 | [Apply Here](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4/application?embed=true) |
@@ -425,6 +424,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Terranova | Software Engineer Intern | Berkeley, CA | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) |
 | Luminance | AI Engineering Intern | Cambridge, UK | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) |
 | tarte cosmetics | Product Development Intern | NYC | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) |
+| Canva | PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling | London, UK | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://jobs.smartrecruiters.com/Canva/6000000001295209) |
 | Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
 | Delta Dental | Application Development Intern | Okemos, MI | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) |
 | RTX | Systems Engineer 1 Intern - Intern Conversion | Cedar Rapids, IA | ['Fall 2026'] | 2026-08-07 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) |
@@ -545,6 +545,7 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | Abridge | Software Engineer Intern | SF, NYC | ['Fall 2026'] | 2026-08-15 | [Apply Here](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) |
 | Dedalus Labs | Product Manager Intern | SF | ['Fall 2026'] | 2026-08-15 | [Apply Here](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 | Dedalus Labs | Design Engineer Intern | SF | ['Fall 2026'] | 2026-08-15 | [Apply Here](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) |
+| Photon | Software Engineering Intern - AI | Remote in USA | ['Fall 2026'] | 2026-08-16 | [Apply Here](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Academy Performance Analyst Intern - Academy Performance Analysis | Cincinnati, OH | ['Winter 2027'] | 2026-05-20 | [Apply Here](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) |
 | Rippling | Machine Learning Software Engineer Intern | SF | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
 | Rippling | Full Stack Software Engineer Intern | Seattle, WA, SF, NYC | ['Winter 2027'] | 2026-06-05 | [Apply Here](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) |
@@ -976,8 +977,16 @@ This repository contains scraped data of active tech internships for 2025-2026.
 | RTX | Software Engineer Intern | West Valley City, UT | ['Summer 2027'] | 2026-08-14 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) |
 | RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | ['Summer 2027'] | 2026-08-14 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) |
 | Freeform | Software Engineer Intern - Summer 2027 | LA | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
+| Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | London, UK | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/175424?type=students) |
+| Goldman Sachs | Summer Associate Intern - Multiple Teams | NYC | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/171566?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Wealth Management - Product Management and Design | London, UK | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/170935?type=students) |
 | RTX | Software Engineer Intern | San Jose, CA | ['Summer 2027'] | 2026-08-14 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) |
+| Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/171535?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | NYC | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/171563?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC & Equities - Sales & Trading | London, UK | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/170675?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://higher.gs.com/roles/181628?type=students) |
 | Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | ['Summer 2027'] | 2026-08-15 | [Apply Here](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) |
+| Boom Supersonic | Engineering and Tech Intern | Centennial, CO | ['Summer 2027'] | 2026-08-16 | [Apply Here](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON, Canada | ['Fall 2027'] | 2026-07-21 | [Apply Here](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) |
 | East Penn Manufacturing Company | Product Engineer Intern | Ann Arbor, MI | ['Fall 2027'] | 2026-07-27 | [Apply Here](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) |
 | ConocoPhillips | Geosciences Intern | Midland, TX, Houston, TX, Anchorage, AK | ['Fall 2027'] | 2026-08-01 | [Apply Here](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) |
