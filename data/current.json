@@ -957,38 +957,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "SOTI",
-        "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
-        "title": "Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778709195,
-        "date_posted": 1778623764,
-        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mississauga, ON, Canada",
-                "normalized": {
-                    "city": "Mississauga",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Medpace, Inc.",
         "id": "ea8ff237-6cb5-424b-917e-9ce08abf23a1",
         "title": "AI Engineer Intern",
@@ -1796,6 +1764,42 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Mach Industries",
+        "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781044021,
+        "date_posted": 1781042929,
+        "url": "https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Huntington Beach, CA",
+                "normalized": {
+                    "city": "Huntington Beach",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -12414,6 +12418,40 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Canva",
+        "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
+        "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054145,
+        "date_posted": 1786054035,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Alayacare",
         "id": "25caade8-8d17-4ab4-bf25-ec493e15a86a",
@@ -12715,40 +12753,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Canva",
-        "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
-        "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786093381,
-        "date_posted": 1786093364,
-        "url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "63347020-90de-4daa-bacc-ff4e521ca908",
@@ -12947,40 +12951,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Canva",
-        "id": "6a212112-d9f9-4c10-9b56-d8fd10c8fd96",
-        "title": "PhD Research Scientist Intern - Edge AI",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786140541,
-        "date_posted": 1786140405,
-        "url": "https://jobs.smartrecruiters.com/Canva/6000000001295782",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -16039,40 +16009,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Smiths Detection Group",
-        "id": "58e947f1-9077-412b-ba6c-b7399ec951f9",
-        "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786974482,
-        "date_posted": 1786974350,
-        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
-        "locations": [
-            "Slough, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Slough, UK",
-                "normalized": {
-                    "city": "Slough",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "154ae79b-60c6-40a6-9be2-a48637bb96ff",
         "title": "Machine Learning Engineer Intern - E-Commerce Governance",
@@ -16207,40 +16143,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "f3e59677-5514-4b20-94b5-e6729edf6fd5",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787006881,
-        "date_posted": 1787006774,
-        "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors",
-        "locations": [
-            "Clifton, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Clifton, NJ",
-                "normalized": {
-                    "city": "Clifton",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -16886,42 +16788,6 @@
                     "city": "Palm Bay",
                     "region": "Florida",
                     "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "8ea3fe5c-b537-4649-8327-c44bf0d81ec5",
-        "title": "Integration/Test Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787063605,
-        "date_posted": 1787006767,
-        "url": "https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ashburn, VA",
-                "normalized": {
-                    "city": "Ashburn",
-                    "region": "Virginia",
-                    "region_code": "VA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -17616,69 +17482,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Normal Computing",
-        "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
-        "title": "Thermodynamic Hardware Resident",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787128138,
-        "date_posted": 1787127897,
-        "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
-        "locations": [
-            "Palo Alto, CA",
-            "Silicon Valley, CA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Silicon Valley, CA",
-                "normalized": {
-                    "city": "Silicon Valley",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -22586,38 +22389,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "740d3c67-d925-48d7-995a-410073f010e8",
-        "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1787410669,
-        "date_posted": 1787270400,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Longueuil, QC, Canada",
-                "normalized": {
-                    "city": "Longueuil",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -37916,6 +37687,54 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
+        "title": "Quantitative Developer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786630215,
+        "date_posted": 1786630093,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dubai - United Arab Emirates",
+                "normalized": {
+                    "city": "Dubai - United Arab Emirates",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Vertiv",
         "id": "4f23e9dd-6a06-4813-9f65-99da3eb4ef0d",
@@ -38580,41 +38399,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "BP",
-        "id": "fcc9a4e8-bcc7-4a2b-9be5-d0a57e5760c4",
-        "title": "Geoscience Intern - Geoscientist",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1786745948,
-        "date_posted": 1786665600,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816",
-        "locations": [
-            "Houston, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "WEC Energy Group",
         "id": "1192c27b-cd32-49d0-b4a3-98a8f23f46ae",
         "title": "Renewables Data Analytics Intern",
@@ -39134,17 +38918,17 @@
         ]
     },
     {
-        "category": "Quant",
+        "category": "Product",
         "company_name": "Goldman Sachs",
-        "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-        "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+        "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
+        "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
         "active": true,
         "terms": [
             "Summer 2027"
         ],
         "date_updated": 1786768197,
-        "date_posted": 1786767954,
-        "url": "https://higher.gs.com/roles/175423?type=students",
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/170935?type=students",
         "locations": [
             "London, UK"
         ],
@@ -39161,6 +38945,40 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806930,
+        "date_posted": 1786767947,
+        "url": "https://higher.gs.com/roles/171535?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -39236,6 +39054,41 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+        "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806912,
+        "date_posted": 1786767935,
+        "url": "https://higher.gs.com/roles/181628?type=students",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -42396,55 +42249,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "InfiniteQuant",
-        "id": "480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
-        "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1787147178,
-        "date_posted": 1787139474,
-        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
-        "locations": [
-            "Dubai - United Arab Emirates",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dubai - United Arab Emirates",
-                "normalized": {
-                    "city": "Dubai - United Arab Emirates",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -55963,40 +55767,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Sensata",
-        "id": "4970d8e6-5a35-42a8-b190-f87e93fe1d23",
-        "title": "Hardware Engineer Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1786633760,
-        "date_posted": 1786633710,
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147",
-        "locations": [
-            "Newtownabbey, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Newtownabbey, UK",
-                "normalized": {
-                    "city": "Newtownabbey",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "SchoolMint",
         "id": "3635c5ce-e586-43b2-8ef0-643f97cd223d",
@@ -56322,38 +56092,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
-        "title": "Intern - Multiple Teams",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1786768198,
-        "date_posted": 1786767950,
-        "url": "https://higher.gs.com/roles/171437?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
