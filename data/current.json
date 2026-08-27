@@ -633,102 +633,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Magnet Forensics",
-        "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
-        "title": "Software Developer Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778105161,
-        "date_posted": 1778105064,
-        "url": "https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Halifax Regional Municipality, NS, Canada",
-                "normalized": {
-                    "city": "Halifax Regional Municipality",
-                    "region": "Nova Scotia",
-                    "region_code": "NS",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Magnet Forensics",
-        "id": "798c001c-3faa-430c-8a69-25c9e5746c89",
-        "title": "Software Developer Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778105881,
-        "date_posted": 1778105063,
-        "url": "https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply",
-        "locations": [
-            "Canada",
-            "Ottawa, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Canada",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kitchener, ON, Canada",
-                "normalized": {
-                    "city": "Kitchener",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Squarepoint Capital",
         "id": "c7f1c784-ada4-411c-85aa-060cd89e52c6",
         "title": "Software Developer Intern",
@@ -794,38 +698,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Super",
-        "id": "4b224d26-3462-4bfa-9ac0-bbabe852eea9",
-        "title": "Software Engineer Intern - Product - Full-Stack",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1778538444,
-        "date_posted": 1778537293,
-        "url": "https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -1268,40 +1140,6 @@
         "date_updated": 1780795285,
         "date_posted": 1780794539,
         "url": "https://www.tesla.com/careers/search/job/271372",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Tesla",
-        "id": "73ed244d-cc7c-4920-8097-19a925c97233",
-        "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1780796027,
-        "date_posted": 1780795950,
-        "url": "https://www.tesla.com/careers/search/job/272601",
         "locations": [
             "Palo Alto, CA"
         ],
@@ -2455,40 +2293,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Persistent Systems",
-        "id": "99b96750-4604-4ae8-8e56-d3c3287cc493",
-        "title": "Embedded Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1782166293,
-        "date_posted": 1782165808,
-        "url": "https://careers-persistentsystems.icims.com/jobs/2272/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Altom Transport",
         "id": "4ff4ed6a-dc28-48f6-a2db-ebf1cdbab9c2",
@@ -3190,41 +2994,6 @@
         "date_updated": 1783041736,
         "date_posted": 1783041221,
         "url": "https://lifeattiktok.com/search/7657541997725288757",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "8f92877d-e680-4332-960c-8f9f8242c24d",
-        "title": "Product Manager Intern - TikTok Product Content Ecosystem",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1783041715,
-        "date_posted": 1783041221,
-        "url": "https://lifeattiktok.com/search/7657778928769534213",
         "locations": [
             "San Jose, CA"
         ],
@@ -8655,41 +8424,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Aptiv",
-        "id": "3e85b72b-71fc-400c-ba5f-6453f85dff12",
-        "title": "Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785450601,
-        "date_posted": 1785369600,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kanata, Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Kanata",
-                    "region": "Ottawa",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "LightGuide, Inc.",
         "id": "cdaa541b-91c1-4d8e-9532-02dc579cfa22",
         "title": "Application Engineering Co-op",
@@ -10145,42 +9879,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Naver U.Hub INC",
-        "id": "4c13d76e-b205-4010-a271-55fb853f5767",
-        "title": "Product Management Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785739224,
-        "date_posted": 1785737719,
-        "url": "https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern",
-        "locations": [
-            "Redwood City, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redwood City, CA",
-                "normalized": {
-                    "city": "Redwood City",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "b84f454b-25b1-4def-a3c5-0182400b2cc9",
@@ -10345,40 +10043,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Rodan Energy Solutions Inc.",
-        "id": "8834c0d1-5351-40d0-9bd5-cf8d147e7e0a",
-        "title": "AI Solutions Specialist Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785740480,
-        "date_posted": 1785738058,
-        "url": "https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mississauga, ON, Canada",
-                "normalized": {
-                    "city": "Mississauga",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -11198,40 +10862,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "McKesson",
-        "id": "6460be14-109c-4ede-a2ad-63b0be123a5a",
-        "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1785849953,
-        "date_posted": 1785715200,
-        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Montreal, QC, Canada",
-                "normalized": {
-                    "city": "Montréal",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -12620,40 +12250,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Caddi Workflow Automation",
-        "id": "12ce52b4-da60-4458-9f42-1581e549d94c",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786411981,
-        "date_posted": 1786411938,
-        "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "OpusClip",
         "id": "bbf77bc1-a60b-4e9b-94f4-e788816c9c46",
@@ -13281,40 +12877,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Heidelberg Materials",
-        "id": "fd834b51-eaca-403e-9f81-222731055fd4",
-        "title": "Master Data Intern - Service & Support",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786572543,
-        "date_posted": 1786492800,
-        "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1",
-        "locations": [
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Oracle",
         "id": "685487cc-2bf1-41f3-9324-4441e3ba0475",
@@ -13478,6 +13040,40 @@
         ],
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Gartner",
+        "id": "9dc8db6c-b35c-402e-9c20-fa7fae5fdc61",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786601603,
+        "date_posted": 1786579200,
+        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297",
+        "locations": [
+            "Irving, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Irving, TX",
+                "normalized": {
+                    "city": "Irving",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -15022,40 +14618,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Levi Strauss & Co.",
-        "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
-        "title": "Analytics Intern - eCommerce",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1786975220,
-        "date_posted": 1786924800,
-        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "DiDi Global",
         "id": "04e15531-638a-4578-bc04-9d717f8f01f0",
         "title": "Motion Planning Engineer Intern - PhD",
@@ -15853,40 +15415,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Foresters Financial",
-        "id": "28146442-50c8-40b1-b11f-dce51fd98379",
-        "title": "Software Engineer Co-op - AI",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787091997,
-        "date_posted": 1787011200,
-        "url": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2305",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -18473,54 +18001,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787602885,
-        "date_posted": 1787529600,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
-        "locations": [
-            "Seattle, WA",
-            "Bremerton, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bremerton, WA",
-                "normalized": {
-                    "city": "Bremerton",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Canadian Solar",
         "id": "7037d659-2547-4963-be41-0cc634026324",
@@ -18612,6 +18092,55 @@
                     "city": "Boise",
                     "region": "Idaho",
                     "region_code": "ID",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "3d9f6139-bedb-4b94-9e84-1b542b3250ac",
+        "title": "Robotics Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787604144,
+        "date_posted": 1787603997,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
+        "locations": [
+            "LA",
+            "Pittsburgh, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Pittsburgh, PA",
+                "normalized": {
+                    "city": "Pittsburgh",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -18742,40 +18271,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Hoffman Construction",
-        "id": "8752d1e7-6282-4f74-ad3c-ae9de53e44ed",
-        "title": "Data Analyst Intern",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787609903,
-        "date_posted": 1787608629,
-        "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490",
-        "locations": [
-            "Boise, ID"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boise, ID",
-                "normalized": {
-                    "city": "Boise",
-                    "region": "Idaho",
-                    "region_code": "ID",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Intuitive Surgical",
         "id": "b1eb0fff-6852-49b0-a60f-334931313442",
         "title": "Computer Vision Engineer Intern - Fall 2026",
@@ -18807,40 +18302,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "CLEAResult",
-        "id": "0cdb99d3-9690-4d7a-8727-bd690d7f51ff",
-        "title": "Energy Efficiency Analyst Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787609555,
-        "date_posted": 1787529600,
-        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0018032",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -20581,40 +20042,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "a1ed0eeb-abf6-4f36-b1e0-18fd23fe6bee",
-        "title": "Data Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1787692141,
-        "date_posted": 1787616000,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Data-Engineering-Co-op_R-276316",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "King of Prussia, PA",
-                "normalized": {
-                    "city": "King Of Prussia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Xpansiv",
         "id": "8cf244f2-f67a-4786-b968-74bd6c7aec38",
@@ -21035,6 +20462,1056 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Eight Sleep",
+        "id": "39c9d804-8368-400d-a5f8-818159715b67",
+        "title": "Hardware Support & Test Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787704201,
+        "date_posted": 1787704163,
+        "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "The Browser Company",
+        "id": "120b5dc5-005a-459d-848c-a05d3a0eba5e",
+        "title": "AI Prototyper Resident",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787704303,
+        "date_posted": 1787704137,
+        "url": "https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "0f01cb2b-2581-4732-869e-88c6354eb358",
+        "title": "Image Science Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787704216,
+        "date_posted": 1787703773,
+        "url": "https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Rochester, NY",
+                "normalized": {
+                    "city": "Rochester",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "27a6ad01-fe1e-43d5-b073-0910ba54f479",
+        "title": "AI Research Intern - Foundation Models",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787734893,
+        "date_posted": 1787734629,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true",
+        "locations": [
+            "LA",
+            "Carson, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Carson, CA",
+                "normalized": {
+                    "city": "Carson",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "54895a2c-533f-4466-a619-4c4176fde4ff",
+        "title": "Silicon Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787752188,
+        "date_posted": 1787751954,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
+        "locations": [
+            "Raleigh, NC",
+            "Santa Clara, CA",
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Raleigh, NC",
+                "normalized": {
+                    "city": "Raleigh",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Maxinsights",
+        "id": "16a33b72-1c61-4db1-b55e-63d10155b928",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787755861,
+        "date_posted": 1786505399,
+        "url": "https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060/application?embed=true",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Sabre Systems",
+        "id": "d32abe7f-a579-49b8-9d71-10a16fdf5fc6",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787757301,
+        "date_posted": 1787757273,
+        "url": "https://careers.sabresystems.com/jobs/4759?icims=1",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lexington Park, MD",
+                "normalized": {
+                    "city": "Lexington Park",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Customers Bank",
+        "id": "9e3ed4d7-5a77-4dde-b720-f3ff80ee7d95",
+        "title": "AI Innovation Risk Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781223,
+        "date_posted": 1787702400,
+        "url": "https://customersbank.wd1.myworkdayjobs.com/customersbankcareers/job/Malvern-PA/AI-Innovation-Risk-Co-Op_REQ-2026-978",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Malvern, PA",
+                "normalized": {
+                    "city": "Malvern",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0113b8ff-9c81-4a2c-9914-397567a8f13f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781127,
+        "date_posted": 1787780767,
+        "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423747400/?ats=successfactors",
+        "locations": [
+            "Northampton, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Northampton, MA",
+                "normalized": {
+                    "city": "Northampton",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "36060455-fa17-493d-b8ef-d2cd49b8d6fa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781242,
+        "date_posted": 1787780764,
+        "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
+        "locations": [
+            "Northampton, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Northampton, MA",
+                "normalized": {
+                    "city": "Northampton",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "15f5617b-df43-41d3-b529-d1458277c5cd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781242,
+        "date_posted": 1787780764,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1423742600/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Colorado Springs, CO",
+                "normalized": {
+                    "city": "Colorado Springs",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "83c30d71-5029-4a20-87e9-15ae1661b155",
+        "title": "Integration and Test Engineer Intern - Non-Automation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781242,
+        "date_posted": 1787780765,
+        "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Integration-and-Test-Engineering-Non-Automation-MA-01060/1423743300/?ats=successfactors",
+        "locations": [
+            "Northampton, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Northampton, MA",
+                "normalized": {
+                    "city": "Northampton",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Johnson Electric",
+        "id": "ac212bc1-fae8-4aaf-b3de-13d70ae5fa0a",
+        "title": "Lab Technician Apprentice - Electrical Lab",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787780702,
+        "date_posted": 1787702400,
+        "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Plymouth-MI/Lab-Technician-Apprentice_R00030855",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plymouth, MI",
+                "normalized": {
+                    "city": "Plymouth",
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "5022bef0-ef20-4549-8823-95bd6b2141f5",
+        "title": "Crisis Management Meteorology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781069,
+        "date_posted": 1787702400,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Meteorology-Intern_033896-2",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Peoria, IL",
+                "normalized": {
+                    "city": "Peoria",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Ancestry",
+        "id": "ee03f6e5-4ee4-4045-9664-e38ffc7617bd",
+        "title": "Software Engineer Co-op - Observability",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787781069,
+        "date_posted": 1787702400,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ambarella",
+        "id": "c9f13018-0f28-472d-a355-1d35416d8429",
+        "title": "ASIC Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787780702,
+        "date_posted": 1787702400,
+        "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "4e4aff22-f8af-490d-93bd-7ac439065d71",
+        "title": "Verification Intern - Verification",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787780713,
+        "date_posted": 1787702400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chandler, AZ",
+                "normalized": {
+                    "city": "Chandler",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "eb709646-3a9b-42fb-8559-6d5b0f0b074c",
+        "title": "Design Intern - Design",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787780712,
+        "date_posted": 1787702400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Design-_R3695-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chandler, AZ",
+                "normalized": {
+                    "city": "Chandler",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "American Institutes for Research",
+        "id": "6f50d3bd-2b11-4d7a-aec6-d9ccd2482305",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787783257,
+        "date_posted": 1787783057,
+        "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Arlington County, Arlington, VA",
+                "normalized": {
+                    "city": "Arlington County",
+                    "region": "Arlington",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Somerce",
+        "id": "1097e9c1-f863-429b-b9b7-617c3556522e",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782321,
+        "date_posted": 1787782225,
+        "url": "https://apply.workable.com/somerce/j/DD49E21C54/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Manchester, UK",
+                "normalized": {
+                    "city": "Manchester",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Eaton",
+        "id": "c7e1704b-e6a7-44d0-a786-74424b6da2fd",
+        "title": "Data Analyst Intern - Marketing",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782143,
+        "date_posted": 1787782097,
+        "url": "https://eaton.eightfold.ai/careers/job/687238373522",
+        "locations": [
+            "Slough, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Slough, UK",
+                "normalized": {
+                    "city": "Slough",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Realm",
+        "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782168,
+        "date_posted": 1787781979,
+        "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Chemours",
+        "id": "1d3a3cb1-5384-4ce2-848b-1b8a5a69d356",
+        "title": "Generative AI and Data Science Intern - AI & Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785791,
+        "date_posted": 1787702400,
+        "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Wilmington, DE",
+                "normalized": {
+                    "city": "Wilmington",
+                    "region": "Delaware",
+                    "region_code": "DE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Lightcast",
+        "id": "0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4",
+        "title": "Software Engineer Intern - API Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787785257,
+        "url": "https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9/apply",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Moscow, ID",
+                "normalized": {
+                    "city": "Moscow",
+                    "region": "Idaho",
+                    "region_code": "ID",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Conduent",
+        "id": "4b41cc6a-c7ca-4364-bf7c-41f6ca98409e",
+        "title": "Applied AI Engineer Intern - Government Healthcare Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787785268,
+        "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "fd89ae0c-d315-47fd-910a-9c9b60aefe74",
+        "title": "Engineering Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787796098,
+        "date_posted": 1787795952,
+        "url": "https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423786200/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Waco, TX",
+                "normalized": {
+                    "city": "Waco",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8ec2e0cc-9193-4d77-9021-5dd3029b637c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787796116,
+        "date_posted": 1787795954,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1423787000/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Colorado Springs, CO",
+                "normalized": {
+                    "city": "Colorado Springs",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "57123fb8-44cd-438c-bcd0-f1c97fcd5c9c",
+        "title": "Engineering Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787796100,
+        "date_posted": 1787795950,
+        "url": "https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423785700/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Waco, TX",
+                "normalized": {
+                    "city": "Waco",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "1f1c1fff-7634-4750-9468-b5b805ceb862",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787796096,
+        "date_posted": 1787795949,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Intern-,-Artificial-Intelligence-FL-32919/1423790400/?ats=successfactors",
+        "locations": [
+            "Rochester, NY",
+            "Melbourne, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Rochester, NY",
+                "normalized": {
+                    "city": "Rochester",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Melbourne, FL",
+                "normalized": {
+                    "city": "Melbourne",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
         "id": "02a3daa8-78be-409a-bd55-b630dfae60c1",
@@ -21201,6 +21678,97 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
+        "title": "Software Engineer Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054236,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -24678,40 +25246,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Kodiak Robotics",
-        "id": "915b30af-2938-4d48-8548-bc6ea6190333",
-        "title": "Controls Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1787654149,
-        "date_posted": 1787603743,
-        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "f2ca9508-2adb-4b58-8b67-30ca90534cb1",
         "title": "Commercial Portfolio Risk & Credit Analytics Intern - Grm",
@@ -24843,6 +25377,683 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5d29a21d-96f0-4931-8692-66e38b5818e4",
+        "title": "Retail Risk Modeling Analyst Intern - 8 Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787752548,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "1ff986e7-1259-4ef6-be26-7e2bcc66303b",
+        "title": "Data & AI Intern - Balance Sheet and Liquidity Risk",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787752546,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "d3633b94-e956-4f3a-9fc4-5a0b4a57a16b",
+        "title": "Retail Risk Modeling Analyst Intern - 8 Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787752458,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "8a31b58f-d4ac-415b-8246-de97ab1c39b4",
+        "title": "Data & AI Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787752456,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "ce59423a-ece5-418f-bd39-14da130d9598",
+        "title": "Insights and Analytics Intern - ABC News",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787752391,
+        "date_posted": 1787702400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500-1",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "97e495f1-2aae-4889-95a9-4b382506f276",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755401,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "d69b4378-d3d7-4270-8839-244fb787224d",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755194,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Mackenzie Investments",
+        "id": "22da6961-acb7-4c21-b55b-05a5a8ee6bde",
+        "title": "Platform Developer Intern - Platform Developer",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781426,
+        "date_posted": 1787781224,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "4d16d787-6247-429c-a18b-998836771f49",
+        "title": "Portfolio Risk & Credit Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781313,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185978-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5e7b0344-f66a-4289-ab6b-bd84b5253fd3",
+        "title": "Portfolio Risk & Credit Analytics Intern - Grm",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781281,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185978",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5085870d-2f73-4f0d-a47b-f4e302f8a3f4",
+        "title": "Model Risk Intern - Enterprise Model Risk Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781283,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5f71be3e-01e2-44bb-a778-ffaf3c308944",
+        "title": "Model Risk Intern - Grm",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781601,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "f0439451-18a0-4124-8fb4-61359a23df26",
+        "title": "Data Scientist Intern - Ecco",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781260,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "17482259-9e95-4558-adef-daf45ff85e78",
+        "title": "Machine Learning Scientist Intern - AI",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780771,
+        "date_posted": 1787780500,
+        "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Los Gatos, CA",
+                "normalized": {
+                    "city": "Los Gatos",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "5a9ddf5e-7efd-444f-9eb2-f4e5c80da75c",
+        "title": "Machine Learning/AI Infrastructure Engineering Intern - AI Platform",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780768,
+        "date_posted": 1787780500,
+        "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Los Gatos, CA",
+                "normalized": {
+                    "city": "Los Gatos",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bdb07e32-29e8-4fe6-bfc8-854f3a4ce18b",
+        "title": "Automation Solutions Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780429,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Longueuil, QC, Canada",
+                "normalized": {
+                    "city": "Longueuil",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
+        "title": "Engine Performance Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780428,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01862220",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Longueuil, QC, Canada",
+                "normalized": {
+                    "city": "Longueuil",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
+        "title": "Customer Data Management and Analysis Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780427,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Longueuil, QC, Canada",
+                "normalized": {
+                    "city": "Longueuil",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "63e239ba-5158-420e-a919-5bc91fe0d2e0",
+        "title": "Engine Performance Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787780428,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01861168",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Longueuil, QC, Canada",
+                "normalized": {
+                    "city": "Longueuil",
+                    "region": "Quebec",
+                    "region_code": "QC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "1e908d1e-e2d2-490f-8aef-f6b6d7b5789d",
+        "title": "Data Scientist Intern - ECT AI and Automation",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781770,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -26730,6 +27941,482 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "a687b7a4-e59f-46fc-81d2-72d37d677ffb",
+        "title": "Embedded Software Engineer Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787704201,
+        "date_posted": 1787704032,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+        "locations": [
+            "South SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "South SF",
+                "normalized": {
+                    "city": "South Sf",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "b7962d2f-67df-4058-bbd5-91dc4be202c4",
+        "title": "Insights and Analytics Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787752392,
+        "date_posted": 1787702400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ffc80c46-0710-4acb-82cc-c1e1d640674c",
+        "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787754068,
+        "date_posted": 1787752959,
+        "url": "https://www.tesla.com/careers/search/job/281233",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX",
+            "Fort Collins, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Fort Collins, CO",
+                "normalized": {
+                    "city": "Fort Collins",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "de753ad7-a941-4751-85c8-ff3d1b697b54",
+        "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772468,
+        "date_posted": 1787772307,
+        "url": "https://www.tesla.com/careers/search/job/280604",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "cb4c69f2-62ef-46ff-b70a-352ab1e61af2",
+        "title": "Embedded Software Engineer Intern - Firmware Platforms",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772468,
+        "date_posted": 1787772316,
+        "url": "https://www.tesla.com/careers/search/job/281102",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a",
+        "title": "Fullstack Software Engineer Intern - Fleetnet - Fullstack Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772479,
+        "date_posted": 1787772314,
+        "url": "https://www.tesla.com/careers/search/job/281099",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "a96f8f9b-926d-483b-ba4f-ab46b0e78ac2",
+        "title": "Software Engineer Intern - Maps & Navigation Validation",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772470,
+        "date_posted": 1787772317,
+        "url": "https://www.tesla.com/careers/search/job/281271",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "6f67b1f9-a488-41fb-81ab-1c90fbd557d4",
+        "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772477,
+        "date_posted": 1787772312,
+        "url": "https://www.tesla.com/careers/search/job/280960",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0b09ad76-6210-4b87-94c9-b662b170d268",
+        "title": "Android Engineer Intern - Mobile Software",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772467,
+        "date_posted": 1787772309,
+        "url": "https://www.tesla.com/careers/search/job/280605",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "0f474509-a4fe-4afd-a3b2-875ee4689df0",
+        "title": "Data Science Co-op - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787781443,
+        "date_posted": 1787702400,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cincinnati, OH",
+                "normalized": {
+                    "city": "Cincinnati",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Gulfstream",
+        "id": "20b30454-6c6f-4849-a6ae-74cbefd7f1bb",
+        "title": "Reliability & Performance Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787780882,
+        "date_posted": 1787780469,
+        "url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-Reliability-&-Performance-Analytics-Collegiate-Associate-Intern-GA-31401/1423630500/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Savannah, GA",
+                "normalized": {
+                    "city": "Savannah",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "b462e075-bb56-4c03-96a0-66b92898fc03",
+        "title": "Embedded Software Engineer Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787781803,
+        "date_posted": 1787781211,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+        "locations": [
+            "South SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "South SF",
+                "normalized": {
+                    "city": "South Sf",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "8b9160e4-1462-4f6c-a1bd-b3b35e9f61d2",
+        "title": "Software Engineer Co-op - MedTech",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787790556,
+        "date_posted": 1787702400,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cincinnati, OH",
+                "normalized": {
+                    "city": "Cincinnati",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -37892,6 +39579,97 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786143220,
+        "date_posted": 1786141165,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "The Nuclear Company",
         "id": "cca92450-5ead-4d71-8d7f-084c27b9d1f9",
@@ -40212,40 +41990,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "b560def8-65f9-4a57-a4f0-06cb45b403c3",
-        "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1786575094,
-        "date_posted": 1786492800,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Melbourne, FL",
-                "normalized": {
-                    "city": "Melbourne",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "aa733ff3-312d-4f91-935f-9b74817edc2b",
@@ -41709,41 +43453,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
-        "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1786757145,
-        "date_posted": 1786665600,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Freeform",
         "id": "6e3ed174-33a5-41fb-9927-ca07c12a6774",
         "title": "Software Engineer Intern - Summer 2027",
@@ -41776,6 +43485,323 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768208,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175424?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
+        "title": "Summer Associate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171566?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
+        "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/170935?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+        "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175423?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806925,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/175427?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806930,
+        "date_posted": 1786767947,
+        "url": "https://higher.gs.com/roles/171535?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806931,
+        "date_posted": 1786767951,
+        "url": "https://higher.gs.com/roles/171563?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
+        "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806924,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/170675?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+        "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806912,
+        "date_posted": 1786767935,
+        "url": "https://higher.gs.com/roles/181628?type=students",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -44896,41 +46922,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
-        "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1787172069,
-        "date_posted": 1787097600,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691",
-        "locations": [
-            "Sterling, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sterling, VA",
-                "normalized": {
-                    "city": "Sterling",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Regions Bank",
         "id": "8c04dc52-976b-4e59-af17-e239d9f6fb47",
@@ -45478,6 +47469,73 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
+        "title": "Summer Analyst Intern - Americas - AWM Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787235594,
+        "date_posted": 1787172277,
+        "url": "https://higher.gs.com/roles/182389?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+        "title": "AWM Product Management Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787235591,
+        "date_posted": 1787172276,
+        "url": "https://higher.gs.com/roles/171513?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -49039,41 +51097,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "73bad9f8-aa3c-4578-9551-8df84938f6a3",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1787609903,
-        "date_posted": 1787529600,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Annapolis Junction, MD",
-                "normalized": {
-                    "city": "Annapolis Junction",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "e012dfd4-c33a-4639-8ea0-3e6586db2b77",
@@ -49599,41 +51622,6 @@
         "degrees": [
             "Bachelor's",
             "MBA"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "a79f265c-746e-46d7-b61c-a46e35dde12a",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1787681785,
-        "date_posted": 1787616000,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485",
-        "locations": [
-            "Jupiter, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Jupiter, FL",
-                "normalized": {
-                    "city": "Jupiter",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -50549,6 +52537,1294 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "76570b32-69dc-4557-ad0d-dfd2480f1605",
+        "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787704580,
+        "date_posted": 1787704451,
+        "url": "https://lifeattiktok.com/search/7672671220798818613",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "DV Trading",
+        "id": "cca94bc1-ca14-4a30-b4a1-7484452d46f6",
+        "title": "Futures & Options Trading Analyst Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787704201,
+        "date_posted": 1787704197,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Steven's Capital Management",
+        "id": "3350268b-7da8-41ee-bcc6-c85f795975ac",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787706974,
+        "date_posted": 1787706974,
+        "url": "https://grnh.se/abfli75k1us",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Radnor, PA",
+                "normalized": {
+                    "city": "Radnor",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "8172b446-22d1-4377-b335-6f5fd54371aa",
+        "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787706618,
+        "date_posted": 1787706451,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+        "locations": [
+            "South SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "South SF",
+                "normalized": {
+                    "city": "South Sf",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "41047974-7321-45cf-b910-ac9710ae6e39",
+        "title": "Business Technology Solutions Intern - Data & Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787706618,
+        "date_posted": 1787706452,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Irvine, CA",
+                "normalized": {
+                    "city": "Irvine",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "QTS",
+        "id": "dba52fd7-4f33-4675-9e38-c7d3f597d3ec",
+        "title": "Data Center Infrastructure Management Intern - DCIM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752528,
+        "date_posted": 1787702400,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892",
+        "locations": [
+            "Ashburn, VA",
+            "Suwanee, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ashburn, VA",
+                "normalized": {
+                    "city": "Ashburn",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Suwanee, GA",
+                "normalized": {
+                    "city": "Suwanee",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "c874f359-c317-4bb9-8bf9-f4c699848017",
+        "title": "Reservoir Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752261,
+        "date_posted": 1787702400,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "The Woodlands, TX",
+                "normalized": {
+                    "city": "The Woodlands",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Fannie Mae",
+        "id": "bd871ca0-79e9-4329-968d-a6139390333d",
+        "title": "Treasury & Capital Markets Intern - Quantitative Research Track",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752382,
+        "date_posted": 1787702400,
+        "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "7d63ae5d-6722-40c4-a6b6-22560e143461",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752216,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Woburn, MA",
+                "normalized": {
+                    "city": "Woburn",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "386e2728-ef0f-4332-86d8-df3f6627f509",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752207,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Richardson, TX",
+                "normalized": {
+                    "city": "Richardson",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5eecec55-6e05-4898-acb6-2869c78bf30b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787752203,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Richardson, TX",
+                "normalized": {
+                    "city": "Richardson",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "19594723-95da-4b7d-99b1-df2dd9b151f3",
+        "title": "Business Intelligence/Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787757357,
+        "date_posted": 1787702400,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+        "locations": [
+            "Andover, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Andover, MA",
+                "normalized": {
+                    "city": "Andover",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "WhiteWater Midstream",
+        "id": "0421e841-beed-4315-83cf-cbc7ffc68617",
+        "title": "Data Science Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787763961,
+        "date_posted": 1787763856,
+        "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "WhiteWater Midstream",
+        "id": "0e885dce-37ca-4760-9073-ee759cf89860",
+        "title": "Trading Operations Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787764019,
+        "date_posted": 1787763856,
+        "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "64a54a24-5ab6-415b-bce1-88cd157d415d",
+        "title": "Software Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787765941,
+        "date_posted": 1787702400,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388",
+        "locations": [
+            "Denver, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Denver, CO",
+                "normalized": {
+                    "city": "Denver",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Auto-Owners Insurance",
+        "id": "23f42855-d656-4288-b470-cbc2fb8f3bbd",
+        "title": "Data Engineering Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787765597,
+        "date_posted": 1787765569,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lansing, MI",
+                "normalized": {
+                    "city": "Lansing",
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "11d79971-ac6a-48a4-aea8-bb00009860a9",
+        "title": "AI Intern - Summer Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787767604,
+        "date_posted": 1787767406,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Jersey City, NJ",
+                "normalized": {
+                    "city": "Jersey City",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "7a778302-889f-406c-9cbe-8ac4860bf89c",
+        "title": "Technical Intern - Federal Reserve - National IT",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787772473,
+        "date_posted": 1787702400,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Richmond, VA",
+                "normalized": {
+                    "city": "Richmond",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Elk Valley Resources",
+        "id": "38a986fa-b190-4465-b469-3c68fa8f62f4",
+        "title": "Geographic Information Systems Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787773518,
+        "date_posted": 1787773396,
+        "url": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Mackenzie Investments",
+        "id": "531aada2-ae2e-4942-8f47-1c803e397960",
+        "title": "Investment Management Intern - Canadian Equities",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781438,
+        "date_posted": 1787781223,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5993/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Winnipeg, MB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Winnipeg, MB, Canada",
+                "normalized": {
+                    "city": "Winnipeg",
+                    "region": "Manitoba",
+                    "region_code": "MB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
+        "title": "Meteorology Intern - Crisis Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781223,
+        "date_posted": 1787702400,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Peoria, IL",
+                "normalized": {
+                    "city": "Peoria",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "2189b93d-1a82-4620-9a31-8afd50579cae",
+        "title": "Firmware Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781170,
+        "date_posted": 1787780877,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Delaware, OH",
+                "normalized": {
+                    "city": "Delaware",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford",
+        "id": "c7a77189-10a5-4804-b59b-433c62c35133",
+        "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787780998,
+        "date_posted": 1787702400,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford",
+        "id": "d824572c-f3ea-466d-a052-34f4c402149b",
+        "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781002,
+        "date_posted": 1787702400,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "The Hartford",
+        "id": "394e0012-c136-47f1-9d1a-1065be754a84",
+        "title": "Software Engineer Intern - Technology, Data, AI, and Operations",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781002,
+        "date_posted": 1787702400,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "977a8b34-935b-4585-8f24-2475493e9e9f",
+        "title": "Software Developer/Data Scientist Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787780702,
+        "date_posted": 1787702400,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
+        "locations": [
+            "Sterling, VA",
+            "Denver, CO",
+            "Sarasota, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sterling, VA",
+                "normalized": {
+                    "city": "Sterling",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Denver, CO",
+                "normalized": {
+                    "city": "Denver",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Sarasota, FL",
+                "normalized": {
+                    "city": "Sarasota",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "GlossGenius",
+        "id": "19732e66-5a0d-4db2-a039-33e752197e70",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781963,
+        "date_posted": 1787781903,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "GlossGenius",
+        "id": "bbe17ffe-5f99-4420-9206-e1671d6b0c3f",
+        "title": "Engineering Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781963,
+        "date_posted": 1787781897,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
+        "title": "Software Engineer Intern - Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787784769,
+        "date_posted": 1787702400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+        "locations": [
+            "Remote in USA",
+            "Shiloh, IL",
+            "Odenton, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Shiloh, IL",
+                "normalized": {
+                    "city": "Shiloh",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Odenton, MD",
+                "normalized": {
+                    "city": "Odenton",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "249d2a83-d20a-41e7-b20f-ea879c5a1480",
+        "title": "Reservoir Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787784370,
+        "date_posted": 1787702400,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineering-Intern_83945-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "The Woodlands, TX",
+                "normalized": {
+                    "city": "The Woodlands",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "f60d92c6-dd95-443e-8667-325bd2b1e2b6",
+        "title": "Production Allocation Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787784301,
+        "date_posted": 1787702400,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "The Woodlands, TX",
+                "normalized": {
+                    "city": "The Woodlands",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "f57bb086-aa5d-4b27-be0c-45e482f63cc5",
+        "title": "Development Planning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787784361,
+        "date_posted": 1787702400,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "The Woodlands, TX",
+                "normalized": {
+                    "city": "The Woodlands",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Auto-Owners Insurance",
+        "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
+        "title": "Software Developer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787790433,
+        "date_posted": 1787790359,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lansing, MI",
+                "normalized": {
+                    "city": "Lansing",
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Axon",
+        "id": "26097b03-bc67-4a75-9a2f-c6281e00319c",
+        "title": "Embedded Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787790148,
+        "date_posted": 1787790008,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "78fa2a7e-f922-4d62-a833-4d9225cacd2c",
+        "title": "Embedded Systems Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787800365,
+        "date_posted": 1787800294,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
+        "locations": [
+            "South SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "South SF",
+                "normalized": {
+                    "city": "South Sf",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Hardware",
@@ -54118,40 +57394,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5ba6e23d-6e0c-406a-9f67-e88da7202998",
-        "title": "Machine Learning Physics Graduate Student Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1780438289,
-        "date_posted": 1780437908,
-        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013424486",
-        "locations": [
-            "Livermore, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Livermore, CA",
-                "normalized": {
-                    "city": "Livermore",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "TransMarket Group",
         "id": "152398c0-8915-4c84-b415-a84c821e1a62",
@@ -56417,26 +59659,29 @@
     },
     {
         "category": "Software",
-        "company_name": "SharkNinja",
-        "id": "278bc4d9-086a-49c0-bd73-d6dc29d652f9",
-        "title": "Codeshark",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "c1d1053c-438a-481e-8375-57149313ea2f",
+        "title": "Software and Data Infrastructure Intern",
         "active": true,
         "terms": [
-            "N/A"
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
         ],
-        "date_updated": 1783550577,
-        "date_posted": 1783549892,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006",
+        "date_updated": 1783550642,
+        "date_posted": 1783548990,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
         "locations": [
-            "Needham, MA"
+            "Golden, CO"
         ],
         "normalized_locations": [
             {
-                "raw": "Needham, MA",
+                "raw": "Golden, CO",
                 "normalized": {
-                    "city": "Needham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
+                    "city": "Golden",
+                    "region": "Colorado",
+                    "region_code": "CO",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -56445,10 +59690,7 @@
                 "confidence": 1.0
             }
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -60892,40 +64134,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Q5",
-        "id": "56b68b11-760a-4224-ab26-17e3889e11d1",
-        "title": "Research Analyst - Analytics Hub",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1786412125,
-        "date_posted": 1786411922,
-        "url": "https://apply.workable.com/q5-partners/j/3D4D022AC0/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "ResponsiveAds",
         "id": "95179997-e004-4aab-84b7-07ebc63d814a",
@@ -61040,6 +64248,41 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
+        "title": "Full Stack Engineer Intern - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786468878,
+        "date_posted": 1786406400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "McGill University",
         "id": "10b464ec-dba9-420a-a5cb-08a22c048ba5",
@@ -61098,6 +64341,44 @@
                     "region_code": null,
                     "country": "Canada",
                     "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "4928dfb2-7a20-4da6-8405-a591089e515c",
+        "title": "AI RAN Telecommunications Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027",
+            "Summer 2028",
+            "Winter 2028"
+        ],
+        "date_updated": 1786487582,
+        "date_posted": 1786406400,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+        "locations": [
+            "McLean, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "McLean, VA",
+                "normalized": {
+                    "city": "Mclean",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -61834,6 +65115,38 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767950,
+        "url": "https://higher.gs.com/roles/171437?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Dayshape",
         "id": "baec2182-f1a3-471d-b026-bb9c51afb325",
@@ -62006,40 +65319,6 @@
                     "region_code": "SD",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Canadian Tire",
-        "id": "34101c0f-9710-4470-98d2-e87daabec45b",
-        "title": "Digital Product Owner Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1786977181,
-        "date_posted": 1786924800,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Digital-Product-Owner-Student--4-months----Fall-2026_JR164224",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -63221,42 +66500,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "d69a556d-0348-41df-bdf2-68733f86cc5d",
-        "title": "Part-Time Student - Technical Data & Analytics",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1787033881,
-        "date_posted": 1787033736,
-        "url": "https://johndeere.eightfold.ai/careers/job/137482780646",
-        "locations": [
-            "Ames, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ames, IA",
-                "normalized": {
-                    "city": "Ames",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -66135,6 +69378,83 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "7833a92d-102e-4ca4-9a8b-c14f36398bc0",
+        "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787333822,
+        "date_posted": 1787333674,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
+        "locations": [
+            "Plano, TX",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plano, TX",
+                "normalized": {
+                    "city": "Plano",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Columbus, OH",
+                "normalized": {
+                    "city": "Columbus",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Wilmington, DE",
+                "normalized": {
+                    "city": "Wilmington",
+                    "region": "Delaware",
+                    "region_code": "DE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "University System of New Hampshire",
         "id": "aa552a79-34a4-4596-a829-56a4e51f4fb9",
         "title": "Research Support",
@@ -66200,66 +69520,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Mercor",
-        "id": "fe6e435e-7b34-41cb-b526-98f990b943ad",
-        "title": "Research Fellowship - Apex",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1787366397,
-        "date_posted": 1787366199,
-        "url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application?embed=true",
-        "locations": [
-            "London, UK",
-            "SF",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -67550,42 +70810,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "dbb6251b-a60a-494e-aa2b-3d680b0e0b47",
-        "title": "Software Engineer Co-op - Avionics Platform Software",
-        "active": true,
-        "terms": [
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1787669353,
-        "date_posted": 1787616000,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Verkada",
         "id": "aad7d68a-e1e3-410b-ac3f-9c6214e51786",
         "title": "Embedded Software Engineer Intern",
@@ -67934,6 +71158,305 @@
                 "raw": "Toronto, ON, Canada",
                 "normalized": {
                     "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "b2d3a293-02ed-4860-a76b-6098d2adfcfe",
+        "title": "Automation Specialist Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787752646,
+        "date_posted": 1787702400,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Automation-Specialist--Winter-2027-_JR00127231",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Waterloo, ON, Canada",
+                "normalized": {
+                    "city": "Waterloo",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Jain Global",
+        "id": "6b6c9174-7b35-478a-be6c-09c442dc9586",
+        "title": "Quantitative Research Extern - Rice University",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787763957,
+        "date_posted": 1787702400,
+        "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Houston-Texas/Commodities-Quantitative-Research-Extern_JR100560",
+        "locations": [
+            "Houston, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Houston, TX",
+                "normalized": {
+                    "city": "Houston",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "ad3eb914-96f2-4845-9f67-f265f2fde8ec",
+        "title": "Fraud Strategy Student - 4 months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787773681,
+        "date_posted": 1787702400,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Fraud-Strategy-Student--4-months----Winter-2027_JR164531",
+        "locations": [
+            "Welland, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Welland, ON, Canada",
+                "normalized": {
+                    "city": "Welland",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "5dda6d02-6cce-4f21-9ade-ed0336ca2182",
+        "title": "Undergraduate Research Assistant - Materials Science and Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787784679,
+        "date_posted": 1787702400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Research-Assistant---Redwing-Group---Materials-Science-and-Engineering_REQ_0000081974-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "University Park, State College, PA",
+                "normalized": {
+                    "city": "University Park",
+                    "region": "State College",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Alberta Investment Management Corporation",
+        "id": "8aa54564-d34a-4da5-bc95-df2ec5943472",
+        "title": "Quantitative Analytics & Reporting Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787784029,
+        "date_posted": 1787702400,
+        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Edmonton, AB, Canada",
+                "normalized": {
+                    "city": "Edmonton",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Alberta Investment Management Corporation",
+        "id": "26dd4c1c-9a56-441c-8796-514ac7b5dcc4",
+        "title": "Data Governance Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787784027,
+        "date_posted": 1787702400,
+        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/XMLNAME--Student--Data-Governance--Fall-2026-_JR100890",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Edmonton, AB, Canada",
+                "normalized": {
+                    "city": "Edmonton",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "87094ff5-b65c-4fa9-8495-312b0ef96612",
+        "title": "Innovation Developer - High School Student - RBC Embark",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787783582,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Innovation-Developer--High-School-Student---RBC-Embark-2027_R-0000185961",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "309c0d81-577f-48b1-b581-ce6643327ae4",
+        "title": "Banking Analytics Student - 4 months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787702400,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Winter-2027_JR164756",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oakville, ON, Canada",
+                "normalized": {
+                    "city": "Oakville",
                     "region": "Ontario",
                     "region_code": "ON",
                     "country": "Canada",
