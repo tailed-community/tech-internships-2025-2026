@@ -2340,40 +2340,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Zions Bank",
-        "id": "2a92c757-3cf3-472c-ae04-1df20bde3598",
-        "title": "Process Automation Developer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1788852123,
-        "date_posted": 1788851985,
-        "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580",
-        "locations": [
-            "United States"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United States",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
         "title": "Developer Intern - AI Solutions",
@@ -6734,41 +6700,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Microsoft",
-        "id": "a74310a0-f20c-47e3-a801-788c1fc295d6",
-        "title": "Firmware Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1791180904,
-        "date_posted": 1791180688,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Autodesk",
         "id": "ea6fc297-3ea1-4919-a564-a3b6c294af60",
@@ -7558,56 +7489,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "e58b01bd-a4bc-456f-b9b0-546a0288c6d3",
-        "title": "Software Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1791327457,
-        "date_posted": 1791244800,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
-        "locations": [
-            "Marlborough, MA",
-            "Tewksbury, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Marlborough, MA",
-                "normalized": {
-                    "city": "Marlborough",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Tewksbury, MA",
-                "normalized": {
-                    "city": "Tewksbury",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -11200,55 +11081,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Interstates",
-        "id": "e019b0ce-4c0e-490b-b51c-9ac7e88b4472",
-        "title": "Data Analyst Intern",
-        "active": true,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1789367221,
-        "date_posted": 1789367161,
-        "url": "https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009",
-        "locations": [
-            "Sioux Center, IA",
-            "Sioux Falls, SD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sioux Center, IA",
-                "normalized": {
-                    "city": "Sioux Center",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Sioux Falls, SD",
-                "normalized": {
-                    "city": "Sioux Falls",
-                    "region": "South Dakota",
-                    "region_code": "SD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "d36d149f-2f21-4ced-b474-e6dfb0876186",
@@ -12784,74 +12616,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "17abdd87-2bfc-4950-8876-22600ab3a50f",
-        "title": "Marketplace & Portfolio Insights Intern - Spring 2027",
-        "active": true,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1790662321,
-        "date_posted": 1790640000,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498-1",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "a4cfe6b4-9285-41e6-a5d6-11c21aad2779",
-        "title": "Marketplace & Portfolio Insights Intern - Spring 2027",
-        "active": true,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1790662321,
-        "date_posted": 1790640000,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -14552,6 +14316,42 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Thea Energy",
+        "id": "c2b7ab9a-4b11-45fa-9a6b-c79703232b66",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791628301,
+        "date_posted": 1787873670,
+        "url": "https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad/apply",
+        "locations": [
+            "Kearny, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Kearny, NJ",
+                "normalized": {
+                    "city": "Kearny",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Software",
@@ -26404,6 +26204,77 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806925,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/175427?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806931,
+        "date_posted": 1786767951,
+        "url": "https://higher.gs.com/roles/171563?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Google",
         "id": "7e2511aa-764b-4960-9904-c05775bf9bce",
@@ -32008,41 +31879,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Marsh",
-        "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
-        "title": "Summer Analyst - Data and Analytics",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1787869002,
-        "date_posted": 1787788800,
-        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Raleigh, NC",
-                "normalized": {
-                    "city": "Raleigh",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
         "active": true,
@@ -35852,6 +35688,40 @@
         ]
     },
     {
+        "category": "Product",
+        "company_name": "AMD",
+        "id": "a9bc71c2-1372-4b6c-a7e8-1562c9bbf631",
+        "title": "Product Management Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788256719,
+        "date_posted": 1788256546,
+        "url": "https://careers.amd.com/jobs/90411?icims=1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "AMD",
         "id": "a130716c-fb2f-4134-9ac5-6e93002f40e0",
@@ -35886,17 +35756,17 @@
         ]
     },
     {
-        "category": "Hardware",
+        "category": "Software",
         "company_name": "AMD",
-        "id": "8feda3b9-865c-42d5-a47b-332911cbfc9e",
-        "title": "Hardware Design Verification Engineer Intern/Co-op",
+        "id": "59aad3fe-5cae-48ca-9e34-608c664e0090",
+        "title": "Graphics Software Engineer Intern/Co-op",
         "active": true,
         "terms": [
             "Summer 2027"
         ],
         "date_updated": 1788256712,
-        "date_posted": 1788256551,
-        "url": "https://careers.amd.com/jobs/90379?icims=1",
+        "date_posted": 1788256547,
+        "url": "https://careers.amd.com/jobs/90305?icims=1",
         "locations": [
             "Markham, ON, Canada"
         ],
@@ -36252,6 +36122,40 @@
                     "region_code": "IA",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
+        "title": "Firmware Engineer Intern/Co-op - Long Term",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788256873,
+        "date_posted": 1788256547,
+        "url": "https://careers.amd.com/jobs/90297?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Markham, ON, Canada",
+                "normalized": {
+                    "city": "Markham",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -38570,6 +38474,41 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ragle Inc",
+        "id": "af103bac-eb95-46b7-94e6-06439a9bd98c",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788301181,
+        "date_posted": 1788300988,
+        "url": "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027",
+        "locations": [
+            "North Richland Hills, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "North Richland Hills, TX",
+                "normalized": {
+                    "city": "North Richland Hills",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -43891,6 +43830,144 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489723,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171551?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489725,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171534?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "765bb91e-34d7-4746-8e11-8598e700e845",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489730,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171533?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
+        "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489740,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171547?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Skydio",
         "id": "d3f54d58-9f89-4689-b91d-f9e03013c3ca",
@@ -44828,41 +44905,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "John Deere",
-        "id": "27ef919b-f4a9-4f27-b484-e742c76fc774",
-        "title": "Information Technology Intern - Technology",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1788527521,
-        "date_posted": 1788255577,
-        "url": "https://johndeere.eightfold.ai/careers/job/137482633322",
-        "locations": [
-            "Moline, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Moline, IL",
-                "normalized": {
-                    "city": "Moline",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "CSX",
         "id": "490a007b-6b18-4f66-bf74-6060c4fe706a",
@@ -45041,6 +45083,41 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ragle Inc",
+        "id": "915593c6-e773-4ccd-9039-fc0ec4968ae5",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788537518,
+        "date_posted": 1788537269,
+        "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027",
+        "locations": [
+            "North Richland Hills, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "North Richland Hills, TX",
+                "normalized": {
+                    "city": "North Richland Hills",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -52093,6 +52170,74 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
+        "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965549,
+        "date_posted": 1788912000,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burlington, VT",
+                "normalized": {
+                    "city": "Burlington",
+                    "region": "Vermont",
+                    "region_code": "VT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "e01c6336-8606-4375-b8f5-69be1e983e2f",
+        "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965554,
+        "date_posted": 1788912000,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burlington, VT",
+                "normalized": {
+                    "city": "Burlington",
+                    "region": "Vermont",
+                    "region_code": "VT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Peraton",
         "id": "a3c8fc71-5658-4914-be57-ce61c100da82",
@@ -54618,110 +54763,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Humana",
-        "id": "8a5817d0-6b9e-4c4b-b823-db09c8a94e6c",
-        "title": "Analytics Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1789078664,
-        "date_posted": 1788998400,
-        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772",
-        "locations": [
-            "Louisville, KY",
-            "Nashville, TN",
-            "Chicago, IL",
-            "Fort Lauderdale, FL",
-            "Arlington County, Arlington, VA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Louisville, KY",
-                "normalized": {
-                    "city": "Louisville",
-                    "region": "Kentucky",
-                    "region_code": "KY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Nashville, TN",
-                "normalized": {
-                    "city": "Nashville",
-                    "region": "Tennessee",
-                    "region_code": "TN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Fort Lauderdale, FL",
-                "normalized": {
-                    "city": "Fort Lauderdale",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Arlington County, Arlington, VA",
-                "normalized": {
-                    "city": "Arlington County",
-                    "region": "Arlington",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Garmin",
         "id": "d1e686fc-d9b4-434c-abd0-59ea94ff2688",
@@ -55255,42 +55296,6 @@
         "date_updated": 1789079919,
         "date_posted": 1789078935,
         "url": "https://careers.jhuapl.edu/jobs/60008?icims=1",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Laurel, MD",
-                "normalized": {
-                    "city": "Laurel",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Johns Hopkins Applied Physics Laboratory",
-        "id": "e1ff445a-9dad-4e51-8528-9a0779013170",
-        "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1789079944,
-        "date_posted": 1789078932,
-        "url": "https://careers.jhuapl.edu/jobs/59997?icims=1",
         "locations": [
             "Laurel, MD"
         ],
@@ -56782,41 +56787,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Corteva",
-        "id": "93d5d930-8ab2-4a53-aa31-d238b45b41d5",
-        "title": "AI Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1789165645,
-        "date_posted": 1789084800,
-        "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Indianapolis, IN",
-                "normalized": {
-                    "city": "Indianapolis",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Emerson Electric",
         "id": "defe0ecf-e622-445a-8906-9a12cc51c6dc",
@@ -57905,40 +57875,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Nationwide",
-        "id": "a2ce4ce9-8c4d-4478-9be2-770fc5ff210d",
-        "title": "Personal Lines Business Insights Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1789165866,
-        "date_posted": 1789084800,
-        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Columbus, OH",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -68238,6 +68174,41 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Ragle Inc",
+        "id": "7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789598161,
+        "date_posted": 1789597172,
+        "url": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern",
+        "locations": [
+            "North Richland Hills, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "North Richland Hills, TX",
+                "normalized": {
+                    "city": "North Richland Hills",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "GM financial",
         "id": "eb82ac41-1fb4-421d-8394-eb85b32a2c8a",
@@ -76958,76 +76929,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
-        "title": "Software Development Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790289181,
-        "date_posted": 1790288282,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waltham, MA",
-                "normalized": {
-                    "city": "Waltham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
-        "title": "Software Development Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790289181,
-        "date_posted": 1790288282,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waltham, MA",
-                "normalized": {
-                    "city": "Waltham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Lazard",
         "id": "63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
         "title": "AI and Data Transformation Intern",
@@ -81453,41 +81354,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "e8c586d7-f281-4ffc-bd41-078c7158f059",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790807957,
-        "date_posted": 1790726400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Morrisville, NC",
-                "normalized": {
-                    "city": "Morrisville",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Quantum Signal AI",
         "id": "d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9",
@@ -81509,40 +81375,6 @@
                     "city": "Saline",
                     "region": "Michigan",
                     "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "982c416c-c960-4efd-81a7-a87081597d80",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790807956,
-        "date_posted": 1790726400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
-        "locations": [
-            "Rolling Meadows, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rolling Meadows, IL",
-                "normalized": {
-                    "city": "Rolling Meadows",
-                    "region": "Illinois",
-                    "region_code": "IL",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -88392,42 +88224,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "American Family Insurance Group",
-        "id": "f6643259-6ee2-4b23-a584-8408459ce08c",
-        "title": "Data Analyst Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791240211,
-        "date_posted": 1791158400,
-        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615",
-        "locations": [
-            "Madison, WI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Madison, WI",
-                "normalized": {
-                    "city": "Madison",
-                    "region": "Wisconsin",
-                    "region_code": "WI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
@@ -90651,40 +90447,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "c1e87875-633c-4491-b811-cb4f422cda4d",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791327802,
-        "date_posted": 1791244800,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "McKinney, TX",
-                "normalized": {
-                    "city": "Mckinney",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Courier Health",
         "id": "341ad57c-d6c1-47e3-97ae-3056b177f31e",
@@ -91549,40 +91311,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "78a00951-890f-474e-94ee-6e0cc1a2b9f7",
-        "title": "Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791387106,
-        "date_posted": 1791331200,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chantilly, VA",
-                "normalized": {
-                    "city": "Chantilly",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Auto-Owners Insurance",
         "id": "26dd2b73-7f9e-47f3-8c63-9003aec2977e",
@@ -91814,40 +91542,6 @@
                     "city": "Olathe",
                     "region": "Kansas",
                     "region_code": "KS",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Renesas Electronics",
-        "id": "96039401-b0c0-4ddf-a059-20346b54ebd6",
-        "title": "Marketing Analyst Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791411496,
-        "date_posted": 1791410827,
-        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154171486",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tempe, AZ",
-                "normalized": {
-                    "city": "Tempe",
-                    "region": "Arizona",
-                    "region_code": "AZ",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -92115,40 +91809,6 @@
                     "region_code": "OH",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "5c8d0ded-4292-4bc3-847b-d136759a9a5d",
-        "title": "Test Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791413290,
-        "date_posted": 1791331200,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -92701,66 +92361,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "660a1f43-e63f-48cb-bcf7-40309e8fe4ba",
-        "title": "AI Enablement Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1791411496,
-        "date_posted": 1791331200,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Enablement-Intern--Undergraduate---Summer-2027-_1662038",
-        "locations": [
-            "Texas",
-            "Florida",
-            "Missouri"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Texas",
-                "normalized": {
-                    "city": null,
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Florida",
-                "normalized": {
-                    "city": null,
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Missouri",
-                "normalized": {
-                    "city": null,
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -96310,6 +95910,147 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ce67de6b-014f-45b0-8b18-54b623767679",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791624330,
+        "date_posted": 1791504000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Melbourne, FL",
+                "normalized": {
+                    "city": "Melbourne",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Workday",
+        "id": "3bcb752a-418d-4efe-88b2-389292a7eed0",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791623881,
+        "date_posted": 1791504000,
+        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pleasanton, CA",
+                "normalized": {
+                    "city": "Pleasanton",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791644835,
+        "date_posted": 1791504000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Melbourne, FL",
+                "normalized": {
+                    "city": "Melbourne",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "cc5558b2-1bda-49b9-a95f-0a93489f72e2",
+        "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791670322,
+        "date_posted": 1791670057,
+        "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Laurel, MD",
+                "normalized": {
+                    "city": "Laurel",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Georgian Partners Growth",
         "id": "e82820b4-2e75-4801-98c5-fd73b5bcc48f",
@@ -98539,40 +98280,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "University of Arkansas",
-        "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
-        "title": "Graduate Research Assistant Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776522836,
-        "date_posted": 1776521178,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Little Rock, AR",
-                "normalized": {
-                    "city": "Little Rock",
-                    "region": "Arkansas",
-                    "region_code": "AR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -101704,6 +101411,55 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
+        "title": "Cell Engineering Intern - Cell Qualification",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1785806869,
+        "date_posted": 1785806537,
+        "url": "https://www.tesla.com/careers/search/job/278620",
+        "locations": [
+            "Palo Alto, CA",
+            "San Diego, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "San Diego, CA",
+                "normalized": {
+                    "city": "San Diego",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "f2aef99d-5325-4d85-b025-b5d38d673a4a",
         "title": "Student Researcher - Compiler - Seed Infra",
@@ -102483,38 +102239,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "765f9438-c57a-4035-9229-8b41b835beeb",
-        "title": "Digital Analytics Student",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1786399967,
-        "date_posted": 1786320000,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -105146,6 +104870,42 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "1ba21039-d057-4cd1-9345-07562dad6ad0",
+        "title": "Firmware Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788256708,
+        "date_posted": 1788256547,
+        "url": "https://careers.amd.com/jobs/91313?icims=1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Tesla",
         "id": "d6e09034-f1b8-496a-9b1c-ad916001fc4c",
@@ -105168,6 +104928,78 @@
                     "city": "Fremont",
                     "region": null,
                     "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "640797fc-5abf-4222-9bdb-16b62d09607e",
+        "title": "Graphics Software Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788256870,
+        "date_posted": 1788256545,
+        "url": "https://careers.amd.com/jobs/91359?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Markham, ON, Canada",
+                "normalized": {
+                    "city": "Markham",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
+        "title": "Software Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788256801,
+        "date_posted": 1788256546,
+        "url": "https://careers.amd.com/jobs/91367?icims=1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Vancouver, BC, Canada",
+                "normalized": {
+                    "city": "Vancouver",
+                    "region": "British Columbia",
+                    "region_code": "BC",
                     "country": "Canada",
                     "country_code": "CA"
                 },
@@ -106362,41 +106194,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Samsara",
-        "id": "1fd9f3fb-b5dd-4e12-9bf7-6d3ff988d2c3",
-        "title": "Electrical Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1788413227,
-        "date_posted": 1788152383,
-        "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -109487,42 +109284,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "State Farm",
-        "id": "e5d509b4-cf02-4596-b607-048396739370",
-        "title": "Data Science Intern - Magnet Program - Online MS Analytics",
-        "active": true,
-        "terms": [
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1789079814,
-        "date_posted": 1789078829,
-        "url": "https://jobs.statefarm.com/jobs/46057?icims=1",
-        "locations": [
-            "Athens, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Athens, GA",
-                "normalized": {
-                    "city": "Athens",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Epiroc",
         "id": "2fbce9ca-5c19-4daf-a633-47996511fe98",
         "title": "Data Analyst Intern - Digital Solutions Division",
@@ -109951,56 +109712,6 @@
         "date_updated": 1789165879,
         "date_posted": 1789165200,
         "url": "https://careers.amd.com/jobs/92342?icims=1",
-        "locations": [
-            "San Jose, CA",
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "AMD",
-        "id": "fd459609-149f-4f12-8894-a6124c4b7163",
-        "title": "AI Systems & GPU Performance Engineer Intern",
-        "active": true,
-        "terms": [
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1789165864,
-        "date_posted": 1789165204,
-        "url": "https://careers.amd.com/jobs/92354?icims=1",
         "locations": [
             "San Jose, CA",
             "Santa Clara, CA"
@@ -112128,6 +111839,41 @@
                     "region_code": null,
                     "country": "United Kingdom",
                     "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Marvell",
+        "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
+        "title": "SRAM Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2027",
+            "Summer 2028"
+        ],
+        "date_updated": 1789684075,
+        "date_posted": 1789603200,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burlington, VT",
+                "normalized": {
+                    "city": "Burlington",
+                    "region": "Vermont",
+                    "region_code": "VT",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -116646,40 +116392,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "02012887-38d0-4d2b-bca2-971dab9ad037",
-        "title": "Graduate Associate - Data Analytics",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1790980205,
-        "date_posted": 1790899200,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1",
-        "locations": [
-            "Lake Buena Vista, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lake Buena Vista, FL",
-                "normalized": {
-                    "city": "Lake Buena Vista",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Procter & Gamble",
         "id": "a8c66c12-7b88-4351-bbae-e428ebee0012",
         "title": "Information Technology Intern",
@@ -116738,40 +116450,6 @@
         ],
         "degrees": [
             "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "6fe724ab-dcb5-45c7-bc89-b55534cff54c",
-        "title": "Graduate Associate - Data Analytics",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1790980965,
-        "date_posted": 1790899200,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000",
-        "locations": [
-            "Lake Buena Vista, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lake Buena Vista, FL",
-                "normalized": {
-                    "city": "Lake Buena Vista",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
             "Master's"
         ]
     },
@@ -117261,42 +116939,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Johns Hopkins Applied Physics Laboratory",
-        "id": "dfb380dd-b7ba-430b-adc2-601ea8844847",
-        "title": "Optical Engineer Intern - Imaging Systems",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1791116382,
-        "date_posted": 1788916124,
-        "url": "https://careers.jhuapl.edu/jobs/59996?icims=1",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Laurel, MD",
-                "normalized": {
-                    "city": "Laurel",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "29e1f2eb-ef33-4ffe-9666-976c19430870",
@@ -117434,6 +117076,40 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "fad2e0d4-274c-40b8-b96d-c769ef5ee9da",
+        "title": "Associate Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791118218,
+        "date_posted": 1789516800,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Diego, CA",
+                "normalized": {
+                    "city": "San Diego",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Hardware",
@@ -118690,56 +118366,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "AMD",
-        "id": "814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
-        "title": "AI Training Systems and Performance Engineer Intern/Co-op",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1791240741,
-        "date_posted": 1791239417,
-        "url": "https://careers.amd.com/jobs/93332?icims=1",
-        "locations": [
-            "San Jose, CA",
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "AMD",
         "id": "0895d37b-42f3-4f85-9661-b7c78952d1b7",
         "title": "PhD Large Language Model Engineer Co-op",
         "active": true,
@@ -119630,6 +119256,42 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "AMD",
+        "id": "d633f8db-2cc5-4f14-95bb-788e2b639454",
+        "title": "PhD Agentic/ML System Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1791249485,
+        "date_posted": 1791249043,
+        "url": "https://careers.amd.com/jobs/91767?icims=1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -125358,40 +125020,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "60ba4148-e124-4ab3-8e99-597deb0d54e1",
-        "title": "Systems Engineer Intern - Radars",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1791376234,
-        "date_posted": 1790121600,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engrg-1--Radars-Portsmouth--RI_01877125",
-        "locations": [
-            "Portsmouth, RI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Portsmouth, RI",
-                "normalized": {
-                    "city": "Portsmouth",
-                    "region": "Rhode Island",
-                    "region_code": "RI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Northrop Grumman",
         "id": "83a9740c-e026-4b0f-b269-23b44589b6bc",
@@ -130269,6 +129897,76 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Arizona State University",
+        "id": "6f1a27e9-3515-4a43-a644-80dbddacc4bb",
+        "title": "Student Web Developer & Content Specialist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791623496,
+        "date_posted": 1791590400,
+        "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Tempe, AZ",
+                "normalized": {
+                    "city": "Tempe",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "5ce335d6-a3e4-4dff-b52f-116bfd910e8f",
+        "title": "Technical Marketing Performance Analysis Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1791627246,
+        "date_posted": 1789597016,
+        "url": "https://careers.amd.com/jobs/91953?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Markham, ON, Canada",
+                "normalized": {
+                    "city": "Markham",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
