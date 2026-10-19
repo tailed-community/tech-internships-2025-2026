@@ -2039,74 +2039,6 @@
     },
     {
         "category": "Software",
-        "company_name": "TD Bank",
-        "id": "73d79b50-25b2-48bc-8d74-c95e069e68c8",
-        "title": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1788848089,
-        "date_posted": 1788825600,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "0ae8eab8-0ba9-41fd-ada9-5af34d6026a2",
-        "title": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1788848090,
-        "date_posted": 1788825600,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
         "title": "Developer Intern - AI Solutions",
@@ -5131,72 +5063,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Home Depot",
-        "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
-        "title": "AI Machine Learning Developer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1790894094,
-        "date_posted": 1790812800,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "The Home Depot",
-        "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
-        "title": "Full Stack Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1790894091,
-        "date_posted": 1790812800,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -8722,6 +8588,82 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "HeyGen",
+        "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792373052,
+        "date_posted": 1792372994,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF",
+            "LA",
+            "Singapore"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Singapore",
+                "normalized": {
+                    "city": "Singapore",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -15003,6 +14945,42 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
+        "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792316421,
+        "date_posted": 1792316246,
+        "url": "https://www.tesla.com/careers/search/job/287024",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -26819,6 +26797,255 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768208,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175424?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
+        "title": "Summer Associate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171566?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+        "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175423?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806925,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/175427?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
+        "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806930,
+        "date_posted": 1786767947,
+        "url": "https://higher.gs.com/roles/171535?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806931,
+        "date_posted": 1786767951,
+        "url": "https://higher.gs.com/roles/171563?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+        "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786806912,
+        "date_posted": 1786767935,
+        "url": "https://higher.gs.com/roles/181628?type=students",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Palm Beach, FL",
+                "normalized": {
+                    "city": "West Palm Beach",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Google",
         "id": "7e2511aa-764b-4960-9904-c05775bf9bce",
@@ -31913,6 +32140,80 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
+        "title": "Summer Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787825784,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171552?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+        "title": "Associate Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787840754,
+        "date_posted": 1786767946,
+        "url": "https://higher.gs.com/roles/171546?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "Vertiv",
         "id": "356b198c-0ed6-4dda-a900-d413165fc712",
@@ -35180,40 +35481,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
-        "id": "6e4aa2c7-7957-4b8d-b4a1-b19dfa362504",
-        "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1788239283,
-        "date_posted": 1788238369,
-        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -43131,6 +43398,448 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+        "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489738,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175421?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489723,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171551?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
+        "title": "Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489727,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171550?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
+        "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489726,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171548?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
+        "title": "Summer Analyst Intern - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489730,
+        "date_posted": 1786767935,
+        "url": "https://higher.gs.com/roles/175426?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+        "title": "Quantitative Strategist Intern - Americas",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489726,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171532?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489725,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171534?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
+        "title": "Quantitative Strategist Intern - Investment Banking",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489726,
+        "date_posted": 1786767955,
+        "url": "https://higher.gs.com/roles/175428?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "765bb91e-34d7-4746-8e11-8598e700e845",
+        "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489730,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171533?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
+        "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489740,
+        "date_posted": 1786767952,
+        "url": "https://higher.gs.com/roles/171547?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
+        "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489725,
+        "date_posted": 1786767946,
+        "url": "https://higher.gs.com/roles/171549?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "06098497-6840-4802-8838-81e0dbdec164",
+        "title": "Summer Analyst Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489738,
+        "date_posted": 1786767943,
+        "url": "https://higher.gs.com/roles/170644?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
+        "title": "Summer Analyst Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788489727,
+        "date_posted": 1786767938,
+        "url": "https://higher.gs.com/roles/177808?type=students",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Skydio",
         "id": "d3f54d58-9f89-4689-b91d-f9e03013c3ca",
@@ -47845,54 +48554,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Trimble",
-        "id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
-        "title": "Product Management Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1788907167,
-        "date_posted": 1788825600,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
-        "locations": [
-            "Westminster, CO",
-            "San Diego, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Westminster, CO",
-                "normalized": {
-                    "city": "Westminster",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Revel",
         "id": "240adc3d-e80f-42bc-9a7b-559c2acdc5f5",
@@ -48286,138 +48947,6 @@
                     "city": "San Antonio",
                     "region": "Texas",
                     "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Trimble",
-        "id": "ca3d442d-982e-4251-b443-6e607ffd2504",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1788907456,
-        "date_posted": 1788825600,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-        "locations": [
-            "Dayton, OH",
-            "Knoxville, TN",
-            "Portsmouth, NH",
-            "Princeton, NJ",
-            "Lake Oswego, OR",
-            "Westminster, CO",
-            "Sunnyvale, CA",
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dayton, OH",
-                "normalized": {
-                    "city": "Dayton",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Knoxville, TN",
-                "normalized": {
-                    "city": "Knoxville",
-                    "region": "Tennessee",
-                    "region_code": "TN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Portsmouth, NH",
-                "normalized": {
-                    "city": "Portsmouth",
-                    "region": "New Hampshire",
-                    "region_code": "NH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Princeton, NJ",
-                "normalized": {
-                    "city": "Princeton",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Lake Oswego, OR",
-                "normalized": {
-                    "city": "Lake Oswego",
-                    "region": "Oregon",
-                    "region_code": "OR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Westminster, CO",
-                "normalized": {
-                    "city": "Westminster",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -67832,40 +68361,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
-        "title": "Software Development Intern - Wealth Management Technology",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790117698,
-        "date_posted": 1790035200,
-        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Minneapolis, MN",
-                "normalized": {
-                    "city": "Minneapolis",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Grow Therapy",
         "id": "5eb5b284-a13e-460f-8868-b285bb6e1821",
         "title": "Software Engineer Intern",
@@ -74384,40 +74879,6 @@
     {
         "category": "Hardware",
         "company_name": "Marvell",
-        "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
-        "title": "Test Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790806568,
-        "date_posted": 1790726400,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Marvell",
         "id": "bb4f5a3e-e4a4-465b-a9e1-fe07bfe342d3",
         "title": "Firmware Engineer Intern",
         "active": true,
@@ -74461,40 +74922,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "b7f5b1b5-57c0-4ea9-9a41-caf94e3e5ad8",
-        "title": "Test Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790806562,
-        "date_posted": 1790726400,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -77390,40 +77817,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Trimble",
-        "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
-        "title": "Product Management Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790979503,
-        "date_posted": 1790899200,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Westminster, CO",
-                "normalized": {
-                    "city": "Westminster",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -96348,6 +96741,40 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "3d611c48-2d70-4344-b72a-4c767608aed5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792317459,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newcastle upon Tyne, UK",
+                "normalized": {
+                    "city": "Newcastle Upon Tyne",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "GE Aerospace",
         "id": "cfa33697-df27-4c7b-97c1-16002ecd55cd",
@@ -105229,41 +105656,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Citi",
-        "id": "a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
-        "title": "Quantitative Analysis - Off Cycle Placement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1788278038,
-        "date_posted": 1788220800,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "AMD",
         "id": "e9f9050a-780c-47dd-b98a-17dda2af0453",
@@ -111111,41 +111503,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Tesla",
-        "id": "68c18319-478a-4870-9d8b-35cc4d650e90",
-        "title": "Actuator Test Engineer Intern - Optimus",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1789511586,
-        "date_posted": 1789510094,
-        "url": "https://www.tesla.com/careers/search/job/283634",
-        "locations": [
-            "Langley, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Langley, BC, Canada",
-                "normalized": {
-                    "city": "Langley",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -125933,40 +126290,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "DocuSign",
-        "id": "5816604a-fdad-469c-b01d-7ee4621ca78e",
-        "title": "Software Engineer Intern - Observability - Platform",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1791498062,
-        "date_posted": 1791498000,
-        "url": "https://careers.docusign.com/jobs/30510?icims=1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a0f12336-bc97-406f-8566-d979678ebf6b",
@@ -134710,40 +135033,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Leonardo",
-        "id": "33481bc4-8637-4823-a224-81cbfae0e6ee",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1792159680,
-        "date_posted": 1792108800,
-        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283",
-        "locations": [
-            "Basildon, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Basildon, UK",
-                "normalized": {
-                    "city": "Basildon",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "4dca8ec3-a694-4ec1-ad25-04452779f5c5",
@@ -136251,6 +136540,320 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Chainlink Labs",
+        "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792311673,
+        "date_posted": 1782338934,
+        "url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Remote in USA",
+            "NYC",
+            "Remote in Canada",
+            "Remote in Switzerland"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Remote in Canada",
+                "normalized": {
+                    "city": "Remote In Canada",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Remote in Switzerland",
+                "normalized": {
+                    "city": "Remote In Switzerland",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
+        "title": "Data Analyst 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792311530,
+        "date_posted": 1788393600,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Omaha, NE",
+                "normalized": {
+                    "city": "Omaha",
+                    "region": "Nebraska",
+                    "region_code": "NE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "267a2fc2-4e05-4e4f-b0f4-000a8134452d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792317458,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newcastle upon Tyne, UK",
+                "normalized": {
+                    "city": "Newcastle Upon Tyne",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
+        "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1792316420,
+        "date_posted": 1792316241,
+        "url": "https://www.tesla.com/careers/search/job/286986",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Fremont, CA",
+                "normalized": {
+                    "city": "Fremont",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3d0329e2-14b0-446f-859e-a1dea8bb23a0",
+        "title": "Electrical Engineer 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792361376,
+        "date_posted": 1792281600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chandler, AZ",
+                "normalized": {
+                    "city": "Chandler",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Incomplete"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "ad12d14f-fd8d-4560-a8bb-97f556cdad85",
+        "title": "Research Intern - Scene Understanding and Planning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792363344,
+        "date_posted": 1792363233,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8299748",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "CMS Energy",
+        "id": "94463071-5983-4d77-8689-21e055e74c20",
+        "title": "Learning & Development Intern/Co-op - Data Visualization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792362991,
+        "date_posted": 1792362893,
+        "url": "https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors",
+        "locations": [
+            "Michigan"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Michigan",
+                "normalized": {
+                    "city": null,
+                    "region": "Michigan",
+                    "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
