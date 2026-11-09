@@ -3625,41 +3625,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Workday",
-        "id": "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
-        "title": "Software Development Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1791594721,
-        "date_posted": 1791504000,
-        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Harbinger Motors",
         "id": "99659b1b-083d-4434-963c-184b68a27b48",
@@ -9982,41 +9947,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "441d92c8-bb63-49f4-94cb-afcd777fa84a",
-        "title": "Electrical Engineer Co-op",
-        "active": true,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1788965843,
-        "date_posted": 1788912000,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
-        "locations": [
-            "Gloucester, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Gloucester, MA",
-                "normalized": {
-                    "city": "Gloucester",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -35086,71 +35016,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
-        "title": "Computer Science Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1788406926,
-        "date_posted": 1788253875,
-        "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA",
-            "Pomona, CA",
-            "Rosemead, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Alhambra, CA",
-                "normalized": {
-                    "city": "Alhambra",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Pomona, CA",
-                "normalized": {
-                    "city": "Pomona",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Rosemead, CA",
-                "normalized": {
-                    "city": "Rosemead",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "K2 Space",
         "id": "6fe74a2d-23cb-4b80-977c-92f082c5fed2",
@@ -36592,6 +36457,54 @@
                     "city": "Louisville",
                     "region": "Kentucky",
                     "region_code": "KY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Nationwide",
+        "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
+        "title": "State Product Analyst Intern - Personal Lines",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788437341,
+        "date_posted": 1787270400,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794",
+        "locations": [
+            "Des Moines, IA",
+            "Columbus, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Des Moines, IA",
+                "normalized": {
+                    "city": "Des Moines",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Columbus, OH",
+                "normalized": {
+                    "city": "Columbus",
+                    "region": "Ohio",
+                    "region_code": "OH",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -60456,54 +60369,6 @@
                     "city": null,
                     "region": null,
                     "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1790721407,
-        "date_posted": 1790720381,
-        "url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tempe, AZ",
-            "McLean, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tempe, AZ",
-                "normalized": {
-                    "city": "Tempe",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "McLean, VA",
-                "normalized": {
-                    "city": "Mclean",
-                    "region": "Virginia",
-                    "region_code": "VA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -93304,42 +93169,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Riverlane",
-        "id": "faaf5b8b-6d65-440e-b445-14d9f0e1bd7c",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1793283357,
-        "date_posted": 1791556414,
-        "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cambridge, UK",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Riverlane",
         "id": "5be918fc-af4e-4bf5-9db2-e4aa41c3982e",
@@ -93407,74 +93236,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Riverlane",
-        "id": "62bb0c27-4f37-47a9-a985-66df1cc61d39",
-        "title": "Research Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1793283356,
-        "date_posted": 1791556797,
-        "url": "https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cambridge, UK",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Riverlane",
-        "id": "5878bf66-e4ea-4991-93a9-a7bf15303126",
-        "title": "Hardware Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1793283354,
-        "date_posted": 1791555990,
-        "url": "https://www.riverlane.com/jobs?gh_jid=5001377101#vacancies",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cambridge, UK",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -109622,6 +109383,42 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "bead51fa-aa91-421e-9b22-bc3e451072b1",
+        "title": "Engineer 2 New Grad - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794179558,
+        "date_posted": 1794179354,
+        "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -134480,42 +134277,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Workday",
-        "id": "a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
-        "title": "Product Manager Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1791594721,
-        "date_posted": 1791504000,
-        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vancouver, BC, Canada",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Micron Technology",
         "id": "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
@@ -135886,41 +135647,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Pebl",
-        "id": "2da5da2b-d4bb-411a-9edc-521c81a36a7a",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1791930488,
-        "date_posted": 1791929907,
-        "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -137972,38 +137698,6 @@
         "date_updated": 1792017207,
         "date_posted": 1792017026,
         "url": "https://www.metacareers.com/jobs/2773227806411499",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Meta",
-        "id": "89ca1b73-4bb7-4170-8435-a36bee214e34",
-        "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1792017208,
-        "date_posted": 1792017027,
-        "url": "https://www.metacareers.com/jobs/1079763448023260",
         "locations": [
             "Sunnyvale, CA"
         ],
@@ -156492,40 +156186,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Riverlane",
-        "id": "4b2be312-37f3-4192-9005-a5ed509457ef",
-        "title": "PhD Research Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1793283355,
-        "date_posted": 1791557755,
-        "url": "https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cambridge, UK",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "SiTime",
         "id": "4978a662-1112-45c3-97b2-b976b35e7e7f",
@@ -160194,40 +159854,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
-        "title": "Explore Program Engineering Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1793604987,
-        "date_posted": 1793604875,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -167978,6 +167604,40 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "df86468a-0723-4315-bf56-0803134d3889",
+        "title": "Data Analyst Intern - FMCG",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792749364,
+        "date_posted": 1781503938,
+        "url": "https://lifeattiktok.com/search/7616659899507591477",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": [
