@@ -382,6 +382,40 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "cd7ae22b-dab5-44c6-9ac4-b2f3b7a9b123",
+        "title": "Optical Test Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788884349,
+        "date_posted": 1788530812,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Ottawa, ON, Canada",
+                "normalized": {
+                    "city": "Ottawa",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
@@ -2408,76 +2442,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Atoms",
-        "id": "b0226d52-6b25-4b8e-a451-6b06c628f659",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1792017035,
-        "date_posted": 1792016893,
-        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Atoms",
-        "id": "f531f9e9-2165-4c86-a9ff-8efab2b0a393",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1792017030,
-        "date_posted": 1792016849,
-        "url": "https://job-boards.greenhouse.io/atoms/jobs/8356071002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "Hardware",
@@ -5509,40 +5473,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "AMD",
-        "id": "e967ed72-8ab2-47b3-a77e-89fb34babbc1",
-        "title": "Masters Server Power Management Engineering Co-op",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1795187405,
-        "date_posted": 1795185660,
-        "url": "https://careers.amd.com/jobs/89816?icims=1&lang=en-us",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "MDA Space",
         "id": "b720bb1f-7ec3-4397-9391-d9af72d5315f",
@@ -5858,38 +5788,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Mawer Investment Management",
-        "id": "95d9a24b-d178-47f6-b2eb-e2ca86cb444d",
-        "title": "AI Orchestrator Student Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027"
-        ],
-        "date_updated": 1795219252,
-        "date_posted": 1795219070,
-        "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -6330,6 +6228,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "DEPT",
+        "id": "f22421d0-9ba8-49f6-9e0b-6e2c924538f0",
+        "title": "AI Engineer Trainee - AI Engineer Traineeship",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795705634,
+        "date_posted": 1795698881,
+        "url": "https://job-boards.greenhouse.io/dept/jobs/8414501",
+        "locations": [
+            "Netherlands",
+            "United Kingdom"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Netherlands",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "Netherlands",
+                    "country_code": "NL"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "United Kingdom",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -19512,40 +19458,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Citadel",
-        "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
-        "title": "Sector Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1786401402,
-        "date_posted": 1786401263,
-        "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -40920,41 +40832,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Highgate",
-        "id": "29efc01f-ded3-4731-b798-5b9a09c13427",
-        "title": "Data Services Intern - Summer 2027",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1789424626,
-        "date_posted": 1789424266,
-        "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false",
-        "locations": [
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Keysight Technologies",
         "id": "159e9477-d98e-4aae-bf19-215989e0cbc9",
@@ -44918,6 +44795,68 @@
         ],
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Tyler Technologies",
+        "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
+        "title": "Software Development Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790040061,
+        "date_posted": 1790029561,
+        "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
+        "locations": [
+            "Yarmouth, ME",
+            "Orono, ME",
+            "Falmouth, ME"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Yarmouth, ME",
+                "normalized": {
+                    "city": "Yarmouth",
+                    "region": "Maine",
+                    "region_code": "ME",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Orono, ME",
+                "normalized": {
+                    "city": "Orono",
+                    "region": "Maine",
+                    "region_code": "ME",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Falmouth, ME",
+                "normalized": {
+                    "city": "Falmouth",
+                    "region": "Maine",
+                    "region_code": "ME",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -71894,42 +71833,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Loft Orbital",
-        "id": "41adf555-f919-4c50-a9ef-ba93383a1378",
-        "title": "Test Engineering Intern - Test Engineering",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1793312839,
-        "date_posted": 1793312667,
-        "url": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply",
-        "locations": [
-            "Golden, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Golden, CO",
-                "normalized": {
-                    "city": "Golden",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Qualcomm",
         "id": "531fea3a-bf3a-4e79-b5bf-954e65b50b3c",
@@ -96410,6 +96313,41 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "3b853022-5629-46f0-9410-31a4e4d1518e",
+        "title": "Applied AI Intern - HR CDAO",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476445,
+        "date_posted": 1795476248,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Lifeway",
         "id": "b5da85e0-f6ac-4b3c-965a-7f736c578129",
         "title": "Summer Internship - Business Intelligence",
@@ -97977,42 +97915,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Johns Hopkins Applied Physics Laboratory",
-        "id": "ccee3e39-6a88-4c3c-b913-c7af244fc90c",
-        "title": "Artificial Intelligence and Complex Systems Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1795563572,
-        "date_posted": 1795552140,
-        "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Laurel, MD",
-                "normalized": {
-                    "city": "Laurel",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Medpace",
         "id": "2fac82c2-bc73-4de9-bf75-0ff5935d9b47",
         "title": "Clinical Intelligence Intern",
@@ -99442,6 +99344,401 @@
             "Master's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "399f3f9f-52cd-45b5-9640-6a20d8d3cdd5",
+        "title": "Integration Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795691185,
+        "date_posted": 1795690985,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Zebra Technologies",
+        "id": "043e1238-ba2a-410a-8bcb-baa0657e8cf4",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795704488,
+        "date_posted": 1795392000,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lincolnshire, IL",
+                "normalized": {
+                    "city": "Lincolnshire",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "7b39170d-3c04-4950-9d6e-71f7c52be118",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795706119,
+        "date_posted": 1795701900,
+        "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Belfast, UK",
+                "normalized": {
+                    "city": "Belfast",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746464,
+        "date_posted": 1795720285,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "PQShield",
+        "id": "a209bd23-da6c-48fa-a548-37df370d9dc1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746087,
+        "date_posted": 1795717643,
+        "url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oxford, UK",
+                "normalized": {
+                    "city": "Oxford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "PQShield",
+        "id": "2449c86e-134e-4493-be4b-b53aafd20b6d",
+        "title": "Hardware Engineer Intern - Placement Year",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746086,
+        "date_posted": 1795717543,
+        "url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oxford, UK",
+                "normalized": {
+                    "city": "Oxford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "ICONIQ Capital",
+        "id": "f8b9290a-c40c-41ac-8a11-71628a1c4e5e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745403,
+        "date_posted": 1794860319,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ICONIQ Capital",
+        "id": "e36215ee-22f4-4838-820e-3fb56c3da112",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745403,
+        "date_posted": 1794798532,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ICONIQ Capital",
+        "id": "d4e5b166-f1fd-4172-85ae-9b4ba4ffd6df",
+        "title": "Data Science Intern - Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745389,
+        "date_posted": 1794798134,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Synopsys",
+        "id": "b482502c-37d5-4da2-8d19-bc7a1356fd29",
+        "title": "Technical-Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746801,
+        "date_posted": 1795746646,
+        "url": "https://synopsys.avature.net/careers/JobDetail/19725",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mississauga, ON, Canada",
+                "normalized": {
+                    "city": "Mississauga",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -129087,54 +129384,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Navy Federal",
-        "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
-        "title": "Data Analytics Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1792793935,
-        "date_posted": 1792793758,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208",
-        "locations": [
-            "Pensacola, FL",
-            "Vienna, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pensacola, FL",
-                "normalized": {
-                    "city": "Pensacola",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Vienna, VA",
-                "normalized": {
-                    "city": "Vienna",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Amazon",
         "id": "d5c8a4f3-a150-4968-813c-20fc2c81df18",
@@ -134520,75 +134769,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Indie",
-        "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
-        "title": "Design Verification Engineer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1793236121,
-        "date_posted": 1792006568,
-        "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007",
-        "locations": [
-            "Aliso Viejo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Aliso Viejo, CA",
-                "normalized": {
-                    "city": "Aliso Viejo",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Indie",
-        "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
-        "title": "Applications Software Developer Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1793236121,
-        "date_posted": 1792005868,
-        "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
-        "locations": [
-            "Aliso Viejo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Aliso Viejo, CA",
-                "normalized": {
-                    "city": "Aliso Viejo",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -159495,42 +159675,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Johns Hopkins Applied Physics Laboratory",
-        "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
-        "title": "Robotics Intern",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1795563568,
-        "date_posted": 1795552080,
-        "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Laurel, MD",
-                "normalized": {
-                    "city": "Laurel",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Meta",
         "id": "347de250-7760-4abd-a7c2-f89f2b261f3c",
         "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
@@ -160630,6 +160774,40 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ICONIQ Capital",
+        "id": "b289619b-f028-4230-b7a7-6315b92066ef",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795745384,
+        "date_posted": 1794601419,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": [
